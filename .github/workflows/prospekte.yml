@@ -1,0 +1,60 @@
+name: Prospekte aktualisieren
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 5 * * 1"
+      timezone: "Europe/Berlin"
+
+permissions:
+  contents: write
+
+jobs:
+  update-prospekte:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python installieren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Python-Abhängigkeiten installieren
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Playwright-Browser installieren
+        run: |
+          python -m playwright install chromium
+
+      - name: Prospekte herunterladen
+        run: |
+          python download_prospekte_latest_archive.py
+
+      - name: Text aus PDFs extrahieren
+        run: |
+          python extract_pdf_text.py
+
+      - name: Änderungen committen und pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add latest Archiv latest_text Archiv_text
+
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen gefunden."
+            exit 0
+          fi
+
+          RUN_DATE=$(TZ='Europe/Berlin' date +'%Y-%m-%d')
+          git commit -m "Update Prospekte ${RUN_DATE}"
+          git push
