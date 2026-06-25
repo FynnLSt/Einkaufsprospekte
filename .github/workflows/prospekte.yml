@@ -48,13 +48,16 @@ jobs:
         run: |
           python extract_pdf_text.py
 
+      - name: PDF-Seiten als PNG rendern
+        run: |
+          python render_pdf_pages.py
+
       - name: Änderungen committen und pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add latest Archiv latest_text Archiv_text latest_layout Archiv_layout
-
+          git add latest Archiv latest_text Archiv_text latest_layout Archiv_layout latest_images
           if git diff --cached --quiet; then
             echo "Keine Änderungen gefunden."
             exit 0
