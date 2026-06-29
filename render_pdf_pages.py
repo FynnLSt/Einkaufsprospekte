@@ -29,7 +29,7 @@ IMAGE_DIR = Path("latest_images")
 
 # 120 ist ein guter Kompromiss:
 # hoch genug zum Lesen, aber nicht komplett riesig.
-IMAGE_DPI = 120
+IMAGE_DPI = 150
 
 # Falls Bilder zu groß werden, z. B. auf 100 oder 90 senken.
 PNG_COMPRESS_LEVEL = 9
