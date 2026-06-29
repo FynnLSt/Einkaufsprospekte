@@ -56,6 +56,31 @@ jobs:
         run: |
           python render_pdf_pages.py
 
+      - name: Prospekt-Bilder als Artifact hochladen
+        id: latest_package
+        uses: actions/upload-artifact@v7
+        with:
+          name: latest-prospekte-${{ github.run_id }}
+          path: |
+            latest_images/
+            latest_text/
+            latest_layout/
+          retention-days: 30
+
+      - name: Artifact-Manifest schreiben
+        run: |
+          mkdir -p latest_access
+          cat > latest_access/manifest.json <<EOF
+          {
+            "run_id": "${{ github.run_id }}",
+            "artifact_id": "${{ steps.latest_package.outputs.artifact-id }}",
+            "artifact_name": "latest-prospekte-${{ github.run_id }}",
+            "created_at": "$(TZ='Europe/Berlin' date --iso-8601=seconds)",
+            "primary_source": "latest_images",
+            "fallback_sources": ["latest_text", "latest_layout"]
+          }
+          EOF
+
       - name: Archive bereinigen
         run: |
           TZ='Europe/Berlin' python archive_manager.py --cleanup-only
@@ -70,7 +95,8 @@ jobs:
           # aber nicht erneut hochgeladen.
           git rm --cached --ignore-unmatch latest/*.pdf Archiv/*.pdf
 
-          git add latest_text/ Archiv_text/ latest_layout/ Archiv_layout/ latest_images/ Archiv_images/
+          git add latest_text/ Archiv_text/ latest_layout/ Archiv_layout/ latest_images/ Archiv_images/ latest_access/
+
           if git diff --cached --quiet; then
             echo "Keine Änderungen gefunden."
             exit 0
