@@ -18,7 +18,6 @@ LATEST_IMAGES_DIR = Path("latest_images")
 ARCHIVE_IMAGES_DIR = Path("Archiv_images")
 
 ARCHIVE_DIRS = [
-    Path("Archiv"),
     Path("Archiv_text"),
     Path("Archiv_layout"),
     Path("Archiv_images"),
@@ -230,7 +229,7 @@ def cleanup_all_archives(dry_run: bool = False) -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Archiviert latest_images und löscht Archivdaten älter als 6 Monate."
+        description="Archiviert latest_images und löscht Text-, Layout- und Bildarchive älter als 6 Monate."
     )
 
     parser.add_argument(

@@ -6,9 +6,8 @@ from __future__ import annotations
 import html
 import json
 import re
-import shutil
 import sys
-from datetime import date, datetime
+from datetime import date
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -17,8 +16,6 @@ from playwright.sync_api import sync_playwright
 
 
 LATEST_DIR = Path("latest")
-ARCHIVE_DIR = Path("Archiv")
-
 LIDL_REGION_ID = 31
 LIDL_OVERVIEW_URL = "https://www.lidl.de/c/online-prospekte/s10005610"
 LIDL_API_URL = "https://endpoints.leaflets.schwarz/v4/flyer"
@@ -44,34 +41,23 @@ def today_string() -> str:
     return date.today().isoformat()
 
 
-def timestamp_string() -> str:
-    return datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-
-
-def archive_latest_files() -> None:
+def clear_latest_pdfs() -> None:
     """
-    Verschiebt alle bestehenden Dateien aus latest nach Archiv.
-    Dadurch enthält latest nach jedem Lauf nur die neu heruntergeladenen Prospekte.
+    Löscht bestehende PDFs aus latest, ohne sie zu archivieren.
+    Dadurch enthält latest während des Laufs nur die neu heruntergeladenen Prospekte.
+    Die Roh-PDFs werden später im Workflow nicht mehr ins Repository aufgenommen.
     """
     LATEST_DIR.mkdir(exist_ok=True)
-    ARCHIVE_DIR.mkdir(exist_ok=True)
 
-    archive_stamp = timestamp_string()
+    pdf_files = sorted(LATEST_DIR.glob("*.pdf"))
 
-    for path in LATEST_DIR.iterdir():
-        if not path.is_file():
-            continue
+    if not pdf_files:
+        print(f"Keine alten PDFs zum Löschen in: {LATEST_DIR}")
+        return
 
-        target_name = f"{path.stem}_archiviert_{archive_stamp}{path.suffix}"
-        target_path = ARCHIVE_DIR / target_name
-
-        counter = 1
-        while target_path.exists():
-            target_path = ARCHIVE_DIR / f"{path.stem}_archiviert_{archive_stamp}_{counter}{path.suffix}"
-            counter += 1
-
-        shutil.move(str(path), str(target_path))
-        print(f"Archiviert: {target_path}")
+    for path in pdf_files:
+        path.unlink()
+        print(f"Alte PDF gelöscht: {path}")
 
 
 def output_file(store_name: str) -> Path:
@@ -250,9 +236,8 @@ def find_netto_pdf_url() -> tuple[str, str]:
 
 def main() -> int:
     LATEST_DIR.mkdir(exist_ok=True)
-    ARCHIVE_DIR.mkdir(exist_ok=True)
 
-    archive_latest_files()
+    clear_latest_pdfs()
 
     errors: list[str] = []
 
