@@ -56,13 +56,17 @@ jobs:
         run: |
           python render_pdf_pages.py
 
+      - name: ChatGPT-Bilder vorbereiten
+        run: |
+          python prepare_chatgpt_images.py
+
       - name: Prospekt-Bilder als Artifact hochladen
         id: latest_package
         uses: actions/upload-artifact@v7
         with:
           name: latest-prospekte-${{ github.run_id }}
           path: |
-            latest_images/
+            latest_images_chatgpt/
             latest_text/
             latest_layout/
           retention-days: 30
@@ -76,7 +80,7 @@ jobs:
             "artifact_id": "${{ steps.latest_package.outputs.artifact-id }}",
             "artifact_name": "latest-prospekte-${{ github.run_id }}",
             "created_at": "$(TZ='Europe/Berlin' date --iso-8601=seconds)",
-            "primary_source": "latest_images",
+            "primary_source": "latest_images_chatgpt",
             "fallback_sources": ["latest_text", "latest_layout"]
           }
           EOF
