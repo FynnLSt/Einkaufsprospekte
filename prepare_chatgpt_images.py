@@ -7,8 +7,8 @@ from PIL import Image
 SOURCE_DIR = Path("latest_images")
 OUTPUT_DIR = Path("latest_images_chatgpt")
 
-MAX_WIDTH = 1400
-JPEG_QUALITY = 82
+MAX_WIDTH = 1800
+JPEG_QUALITY = 88
 
 def convert_image(src: Path, dst: Path) -> None:
     img = Image.open(src).convert("RGB")
