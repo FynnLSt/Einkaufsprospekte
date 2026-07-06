@@ -1,0 +1,5923 @@
+DATEI: edeka_fuerth_2026-07-06.pdf
+
+Hinweis:
+Diese Datei enthält Prospekttext mit Positionsdaten.
+Es werden zwei Quellen gespeichert:
+1. PDF-TEXT-BLÖCKE = Text, der direkt im PDF eingebettet ist.
+2. OCR-BLÖCKE = Text, der aus dem Seitenbild erkannt wurde.
+
+x0/y0 = linke obere Ecke, x1/y1 = rechte untere Ecke.
+Dadurch kann man Preise besser Produkten in der Nähe zuordnen.
+
+
+===== SEITE 1 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1550 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=460 y0=22 x1=1508 y1=145 | conf=50.67]
+Kulinarikwelfen AM, Zutaten
+
+[OCR | BLOCK 3 | x0=460 y0=248 x1=1058 y1=292 | conf=90.0]
+www.kulinarikwelten.de
+
+[OCR | BLOCK 2 | x0=677 y0=249 x1=782 y1=257 | conf=41.5]
+= 5
+
+[OCR | BLOCK 4 | x0=1243 y0=309 x1=1399 y1=341 | conf=92.0]
+kulinarikwelten
+
+[OCR | BLOCK 5 | x0=93 y0=312 x1=1564 y1=375 | conf=91.62]
+EDEKA An der Stadtgrenze Nürnberg - Fürth EN
+
+[OCR | BLOCK 6 | x0=460 y0=381 x1=1082 y1=418 | conf=89.43]
+Waldstraße 101a & 105 | 90763 Fürth
+
+[OCR | BLOCK 7 | x0=60 y0=426 x1=332 y1=466 | conf=92.67]
+EDEKA + Ecenter
+
+[OCR | BLOCK 8 | x0=122 y0=583 x1=970 y1=611 | conf=73.0]
+NZ Kiwi Gold / N
+
+[OCR | BLOCK 9 | x0=99 y0=598 x1=1001 y1=663 | conf=84.67]
+Zespri Grün \
+
+[OCR | BLOCK 10 | x0=379 y0=639 x1=1475 y1=680 | conf=77.62]
+> aus Neusee- / \ % 4 ar
+
+[OCR | BLOCK 11 | x0=559 y0=662 x1=1585 y1=709 | conf=61.9]
+| land, Kl. N > 2 k ALTER 9, 4
+
+[OCR | BLOCK 13 | x0=996 y0=684 x1=1550 y1=741 | conf=73.0]
+A D 4
+
+[OCR | BLOCK 12 | x0=670 y0=687 x1=1567 y1=705 | conf=64.5]
+Stück — u 4
+
+[OCR | BLOCK 14 | x0=469 y0=749 x1=1521 y1=810 | conf=59.43]
+— | N m N Ten z
+
+[OCR | BLOCK 15 | x0=112 y0=777 x1=1557 y1=863 | conf=55.14]
+ö &) pn I A N *
+
+[OCR | BLOCK 16 | x0=112 y0=846 x1=993 y1=876 | conf=36.67]
+; EEE ö
+
+[OCR | BLOCK 18 | x0=343 y0=870 x1=1241 y1=988 | conf=50.5]
+050 %
+
+[OCR | BLOCK 17 | x0=378 y0=879 x1=381 y1=880 | conf=65.0]
+©
+
+[OCR | BLOCK 19 | x0=1105 y0=932 x1=1249 y1=1002 | conf=76.5]
+| 70
+
+[OCR | BLOCK 20 | x0=59 y0=1093 x1=1583 y1=1142 | conf=62.25]
+er Paulaner Spezi* oder Limonade Gulasch gemischt Philadelphia
+
+[OCR | BLOCK 21 | x0=111 y0=1128 x1=1585 y1=1167 | conf=80.57]
+- verschiedene Sorten, 20x0,5 Liter Kasten Schwein und Rind, 100 q Frischkäse oder’ -zubereitung
+
+[OCR | BLOCK 22 | x0=229 y0=1157 x1=1054 y1=1196 | conf=36.5]
+en Se
+
+[OCR | BLOCK 23 | x0=330 y0=1181 x1=1583 y1=1233 | conf=59.75]
+- Limonade = 00-2009
+
+[OCR | BLOCK 25 | x0=127 y0=1231 x1=1389 y1=1277 | conf=65.5]
+nun PHILADELPHIA
+
+[OCR | BLOCK 24 | x0=170 y0=1237 x1=189 y1=1243 | conf=39.0]
+-
+
+[OCR | BLOCK 26 | x0=357 y0=1277 x1=1583 y1=1313 | conf=73.5]
+= en
+
+[OCR | BLOCK 27 | x0=211 y0=1302 x1=1583 y1=1371 | conf=52.5]
+R e E | > <. des Marktes.
+
+[OCR | BLOCK 28 | x0=1170 y0=1349 x1=1560 y1=1396 | conf=48.0]
+de Gi
+
+[OCR | BLOCK 29 | x0=157 y0=1369 x1=1122 y1=1450 | conf=58.5]
+> APP-PREIS? ? 2
+
+[OCR | BLOCK 30 | x0=135 y0=1446 x1=1337 y1=1481 | conf=44.0]
+Nez . BE SIE
+
+[OCR | BLOCK 31 | x0=356 y0=1478 x1=1040 y1=1517 | conf=39.0]
+4 a
+
+[OCR | BLOCK 32 | x0=398 y0=1493 x1=1555 y1=1577 | conf=54.5]
+9% (0
+
+[OCR | BLOCK 33 | x0=195 y0=1517 x1=1336 y1=1602 | conf=78.5]
+10 En > 0 0 1
+
+[OCR | BLOCK 34 | x0=304 y0=1585 x1=1504 y1=1613 | conf=47.75]
+1649 11:00 . 1
+
+[OCR | BLOCK 35 | x0=129 y0=1655 x1=1594 y1=1700 | conf=74.33]
+— funny-frisch Melitta Kaffee Frankenland ,
+
+[OCR | BLOCK 36 | x0=189 y0=1687 x1=1584 y1=1722 | conf=87.5]
+| Chipsfrisch x verschiedene Sorten, 500 g Packung Deutsche MarkenButter
+
+[OCR | BLOCK 37 | x0=362 y0=1715 x1=1583 y1=1740 | conf=86.62]
+verschiedene Sorten = 11,98, n. G!= 6,99 mildgesäuert
+
+[OCR | BLOCK 38 | x0=368 y0=1742 x1=1583 y1=1762 | conf=82.75]
+150/150 g Packung = a 250 g Stück
+
+[OCR | BLOCK 39 | x0=423 y0=1756 x1=1583 y1=1789 | conf=84.0]
++25 g gratis 1kg=5,16
+
+[OCR | BLOCK 40 | x0=423 y0=1779 x1=1437 y1=1839 | conf=76.8]
+= 5,66-6,60 r - N
+
+[OCR | BLOCK 41 | x0=427 y0=1790 x1=1373 y1=1865 | conf=50.0]
+n.G)=0,99 = Pen
+
+[OCR | BLOCK 42 | x0=230 y0=1857 x1=527 y1=1893 | conf=73.67]
+32, des Marktes.
+
+[OCR | BLOCK 43 | x0=79 y0=1858 x1=281 y1=1914 | conf=65.0]
+R vw
+
+[OCR | BLOCK 44 | x0=299 y0=1875 x1=1343 y1=1943 | conf=42.67]
+ner Aust ar
+
+[OCR | BLOCK 45 | x0=104 y0=1920 x1=1123 y1=1948 | conf=62.0]
+Pr us ese A
+
+[OCR | BLOCK 47 | x0=79 y0=1950 x1=1567 y1=2008 | conf=47.8]
+—< %; \ ee (HER
+
+[OCR | BLOCK 46 | x0=88 y0=1951 x1=1286 y1=1965 | conf=71.33]
+Er KLASSISCH N
+
+[OCR | BLOCK 48 | x0=602 y0=1991 x1=1507 y1=2004 | conf=70.33]
+- . .
+
+[OCR | BLOCK 49 | x0=381 y0=2000 x1=1494 y1=2076 | conf=52.5]
+MEER 10% wm |.
+
+[OCR | BLOCK 50 | x0=275 y0=2053 x1=1553 y1=2110 | conf=69.5]
+© fi
+
+[OCR | BLOCK 51 | x0=601 y0=2053 x1=1420 y1=2159 | conf=50.0]
+59:58 129
+
+[OCR | BLOCK 52 | x0=498 y0=2137 x1=531 y1=2156 | conf=92.0]
+19
+
+[OCR | BLOCK 53 | x0=102 y0=2205 x1=1577 y1=2221 | conf=87.79]
+G, = niedrigster Gesamtpreis der letzten 30 Tage. *Angeböte.nur gültig gegen Vorlage der EDEKA App an der Kasse. Eine vorherige erfolgreiche Registrierung und Auswahl des Lieblingsmarktes sind erforderlich.
+
+[OCR | BLOCK 54 | x0=76 y0=2222 x1=1577 y1=2237 | conf=93.54]
+Gültig In tellnehmenden Märkten. In der EDEKA Hessenring nicht verfügbar. Angebote nur gültig gegen Vorlage der PAYBACK Karte, PAYBACK App oder der EDEKA App mit verknüpftem
+
+[OCR | BLOCK 55 | x0=387 y0=2240 x1=1266 y1=2254 | conf=93.94]
+PAYBACK Konto an der Kasse. Eine vorherige erfolgreiche Registrierung Ist erforderlich. Gültig nur In tellnehmenden Märkten.
+
+[OCR | BLOCK 56 | x0=71 y0=2299 x1=1582 y1=2327 | conf=75.5]
+501_28_2026_E STENGEL Seite 1
+
+
+===== SEITE 2 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 269 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=60 y0=428 x1=332 y1=466 | conf=86.33]
+EDEKA + Ecenter
+
+[OCR | BLOCK 2 | x0=893 y0=589 x1=1322 y1=645 | conf=61.6]
+> Ho dir jetzt deinen
+
+[OCR | BLOCK 3 | x0=235 y0=757 x1=1371 y1=793 | conf=82.75]
+Er in unseren Brotwelten!
+
+[OCR | BLOCK 4 | x0=307 y0=1070 x1=1185 y1=1103 | conf=49.5]
+Fe ,
+
+[OCR | BLOCK 5 | x0=365 y0=1083 x1=1334 y1=1160 | conf=84.0]
+| Giskaffee
+
+[OCR | BLOCK 6 | x0=1030 y0=1158 x1=1434 y1=1211 | conf=65.0]
+oder Gisschokolade
+
+[OCR | BLOCK 7 | x0=263 y0=1226 x1=1399 y1=1278 | conf=83.43]
+\ E E mit einer Kugel fwip-Eis
+
+[OCR | BLOCK 8 | x0=149 y0=1240 x1=1471 y1=1326 | conf=86.0]
+AN und fluffiger Sahne - die perfekte
+
+[OCR | BLOCK 9 | x0=225 y0=1317 x1=1424 y1=1355 | conf=85.8]
+— Erfrischung für heiße Tage.
+
+[OCR | BLOCK 10 | x0=414 y0=1486 x1=1422 y1=1532 | conf=47.75]
+Er \ — —
+
+[OCR | BLOCK 11 | x0=332 y0=1546 x1=401 y1=1761 | conf=64.0]
+\
+
+[OCR | BLOCK 12 | x0=1007 y0=1741 x1=1480 y1=1858 | conf=60.33]
+J W #
+
+[OCR | BLOCK 13 | x0=316 y0=1812 x1=1416 y1=1927 | conf=67.8]
+\ y \ % Verschiedene
+
+[OCR | BLOCK 14 | x0=1223 y0=1913 x1=1439 y1=1962 | conf=91.0]
+Eissorten
+
+[OCR | BLOCK 15 | x0=409 y0=1958 x1=1417 y1=2017 | conf=74.75]
+N d zur Auswahl
+
+[OCR | BLOCK 16 | x0=453 y0=2018 x1=1001 y1=2071 | conf=40.0]
+N sur”
+
+
+===== SEITE 3 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1220 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1368 y0=706 x1=1369 y1=709 | conf=53.0]
+|
+
+[OCR | BLOCK 2 | x0=561 y0=720 x1=1279 y1=769 | conf=43.33]
+X ER ©
+
+[OCR | BLOCK 3 | x0=810 y0=751 x1=1162 y1=798 | conf=55.33]
+2) g S
+
+[OCR | BLOCK 4 | x0=331 y0=780 x1=936 y1=825 | conf=68.5]
+Jetzt anmelden ME ur
+
+[OCR | BLOCK 5 | x0=345 y0=807 x1=897 y1=841 | conf=72.4]
+etzt anmelden = CA S
+
+[OCR | BLOCK 6 | x0=186 y0=827 x1=1146 y1=872 | conf=90.14]
+m Mit einer der drei Möglichkeiten: 2
+
+[OCR | BLOCK 7 | x0=94 y0=858 x1=1362 y1=916 | conf=78.17]
+[el PAYBACK App: Herunterladen _ —
+
+[OCR | BLOCK 8 | x0=1172 y0=915 x1=1285 y1=939 | conf=96.0]
+sammeln
+
+[OCR | BLOCK 9 | x0=152 y0=953 x1=1390 y1=978 | conf=89.27]
+a Online: QR-Code scannen oder auf PAYBACK Karte, PAYBACK App oder
+
+[OCR | BLOCK 10 | x0=94 y0=980 x1=1420 y1=1037 | conf=82.75]
+[e] al PAYBACK.de/anmelden/EDEKA EDEKA App mit verknüpftem PAYBACK
+
+[OCR | BLOCK 11 | x0=164 y0=1017 x1=1429 y1=1050 | conf=80.89]
+u Per Anmeldeformular: age Konto während des Kassiervorgangs in
+
+[OCR | BLOCK 12 | x0=333 y0=1044 x1=1404 y1=1072 | conf=88.78]
+In teilnehmenden EDEKA- er allen teilnehmenden Märkten an der
+
+[OCR | BLOCK 13 | x0=333 y0=1083 x1=1277 y1=1110 | conf=95.0]
+Märkten per Formular Scan-Station erfassen.
+
+[OCR | BLOCK 14 | x0=1129 y0=1164 x1=1254 y1=1179 | conf=64.5]
+. =
+
+[OCR | BLOCK 15 | x0=1054 y0=1201 x1=1451 y1=1216 | conf=62.67]
+. ‚Schon gewusst‘
+
+[OCR | BLOCK 16 | x0=200 y0=1252 x1=999 y1=1266 | conf=61.5]
+La a
+
+[OCR | BLOCK 17 | x0=302 y0=1302 x1=1533 y1=1347 | conf=57.33]
+SUN. einlösen Vi
+
+[OCR | BLOCK 18 | x0=305 y0=1345 x1=986 y1=1371 | conf=90.67]
+PIN einrichten: Schon ab 200 PAYBACK°Punkten
+
+[OCR | BLOCK 19 | x0=304 y0=1378 x1=1022 y1=1415 | conf=79.5]
+2-Schritt-Verifizierung in inteilnehmenden Märkten direkt an
+
+[OCR | BLOCK 20 | x0=305 y0=1412 x1=976 y1=1441 | conf=92.8]
+der PAYBACK App aktivieren oder der Kasse einlösen. Einfach die
+
+[OCR | BLOCK 21 | x0=304 y0=1418 x1=1277 y1=1481 | conf=82.4]
+‚kostenlos an die Hotlinewenden: PAYBACK App nutzen und °Punkte [%)
+
+[OCR | BLOCK 22 | x0=310 y0=1478 x1=1012 y1=1509 | conf=90.0]
+089-540208022. 4 einlösen auswählen. Beim Einlösen
+
+[OCR | BLOCK 23 | x0=685 y0=1495 x1=1424 y1=1556 | conf=87.29]
+mit der physischen Karte wird @& ©
+
+[OCR | BLOCK 24 | x0=684 y0=1543 x1=1301 y1=1606 | conf=92.0]
+die PAYBACK PIN benötigt. ©
+
+[OCR | BLOCK 25 | x0=1145 y0=1601 x1=1157 y1=1613 | conf=31.0]
+8
+
+[OCR | BLOCK 26 | x0=902 y0=1662 x1=912 y1=1672 | conf=61.0]
+.
+
+[OCR | BLOCK 28 | x0=72 y0=1668 x1=1159 y1=1717 | conf=90.6]
+In allen teilnehmenden . ©
+
+[OCR | BLOCK 27 | x0=1187 y0=1675 x1=1210 y1=1695 | conf=78.0]
+&
+
+[OCR | BLOCK 29 | x0=72 y0=1705 x1=1301 y1=1785 | conf=63.0]
+EDEKA-Märkten: [A D N % dv
+
+[OCR | BLOCK 30 | x0=103 y0=1758 x1=1209 y1=1798 | conf=53.25]
+Punkte sammeln“ . I
+
+[OCR | BLOCK 32 | x0=104 y0=1807 x1=1213 y1=1853 | conf=88.2]
+PAYBACK Coupons nutzen p ©
+
+[OCR | BLOCK 31 | x0=685 y0=1807 x1=925 y1=1826 | conf=94.33]
+och mehr "punkten
+
+[OCR | BLOCK 33 | x0=667 y0=1836 x1=1436 y1=1894 | conf=89.0]
+In der EDEKA App gibt es oO
+
+[OCR | BLOCK 34 | x0=667 y0=1854 x1=1145 y1=1907 | conf=90.0]
+regelmäßig PAYBACK Coupons für 8
+
+[OCR | BLOCK 35 | x0=103 y0=1905 x1=1419 y1=1933 | conf=80.8]
+°Punkte einlösen, viele Extra°Punkte. -
+
+[OCR | BLOCK 36 | x0=104 y0=1941 x1=1384 y1=1976 | conf=77.83]
+direkt an der Kasse I =
+
+[OCR | BLOCK 37 | x0=1014 y0=1968 x1=1406 y1=1998 | conf=47.67]
+IR a De ©, = Ao
+
+[OCR | BLOCK 38 | x0=104 y0=1970 x1=1526 y1=2032 | conf=73.67]
+Mit der PAYBACK App Aa FIT
+
+[OCR | BLOCK 39 | x0=260 y0=2014 x1=1405 y1=2061 | conf=78.0]
+und PAR
+
+[OCR | BLOCK 40 | x0=1012 y0=2053 x1=1174 y1=2081 | conf=40.0]
+2’ tz
+
+[OCR | BLOCK 41 | x0=104 y0=2061 x1=1182 y1=2099 | conf=83.25]
+Coupons immer dabei vw.
+
+[OCR | BLOCK 42 | x0=1081 y0=2087 x1=1459 y1=2123 | conf=66.5]
+° = 07.0) ch
+
+[OCR | BLOCK 43 | x0=1151 y0=2096 x1=1419 y1=2130 | conf=54.75]
+zu u p NR
+
+[OCR | BLOCK 44 | x0=1174 y0=2116 x1=1451 y1=2148 | conf=33.0]
+er
+
+[OCR | BLOCK 45 | x0=87 y0=2141 x1=1617 y1=2234 | conf=66.71]
+PAYBACK 98 2 Q. [>> 8. >
+
+
+===== SEITE 4 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1281 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=597 y0=63 x1=651 y1=91 | conf=58.0]
+..
+
+[OCR | BLOCK 2 | x0=176 y0=97 x1=1211 y1=118 | conf=57.33]
+1 I 1
+
+[OCR | BLOCK 3 | x0=179 y0=99 x1=1583 y1=186 | conf=71.6]
+{ | j Coca-Cola‘, Fanta
+
+[OCR | BLOCK 4 | x0=1413 y0=145 x1=1582 y1=162 | conf=96.0]
+verschiedene Sorten,
+
+[OCR | BLOCK 5 | x0=136 y0=163 x1=1582 y1=208 | conf=74.12]
+ö | 1] I) Sprite oder Mezzo Mix*
+
+[OCR | BLOCK 6 | x0=155 y0=193 x1=1583 y1=212 | conf=72.43]
+= F SE N 1,25 Liter Flasche
+
+[OCR | BLOCK 7 | x0=1477 y0=215 x1=1582 y1=233 | conf=80.5]
++0,25 Pfand
+
+[OCR | BLOCK 8 | x0=445 y0=239 x1=1254 y1=291 | conf=64.67]
+| ) .
+
+[OCR | BLOCK 9 | x0=314 y0=253 x1=1098 y1=320 | conf=51.0]
+nr / d
+
+[OCR | BLOCK 10 | x0=262 y0=287 x1=1583 y1=346 | conf=54.86]
+1 dd | ÜÜ & Cu Limonade
+
+[OCR | BLOCK 11 | x0=304 y0=321 x1=496 y1=357 | conf=34.0]
+eh
+
+[OCR | BLOCK 12 | x0=326 y0=373 x1=1139 y1=466 | conf=78.5]
+ıszu 67% SPAREN =
+
+[OCR | BLOCK 13 | x0=313 y0=410 x1=1364 y1=538 | conf=82.86]
+BIS ZU 67 0 I An 31%
+
+[OCR | BLOCK 14 | x0=1497 y0=463 x1=1556 y1=520 | conf=81.0]
+88
+
+[OCR | BLOCK 15 | x0=1285 y0=464 x1=1555 y1=570 | conf=46.0]
+0971108
+
+[OCR | BLOCK 16 | x0=1536 y0=566 x1=1580 y1=581 | conf=56.0]
+10m
+
+[OCR | BLOCK 17 | x0=391 y0=652 x1=1583 y1=684 | conf=78.5]
+Corny Müsliriegel Ferrero nutella E PER Original Wagner
+
+[OCR | BLOCK 18 | x0=363 y0=675 x1=1583 y1=706 | conf=87.5]
+verschiedene Sorten Nuss-Nugat-Creme >L Die Backfrische,
+
+[OCR | BLOCK 19 | x0=318 y0=699 x1=1583 y1=736 | conf=86.62]
+45-150 g Packung/Riegel 750 g Glas + 759 GRATIS = Big City Pizza
+
+[OCR | BLOCK 20 | x0=273 y0=725 x1=1583 y1=754 | conf=67.12]
+1kg =11,93-39,78, n.G!=1,79 1kg DIR AH oder Piccolinis
+
+[OCR | BLOCK 21 | x0=385 y0=739 x1=1358 y1=767 | conf=72.0]
+‚Ausgenommen Skyr, n.G!=5,79 ae
+
+[OCR | BLOCK 22 | x0=160 y0=760 x1=1582 y1=790 | conf=83.91]
+z— Nuts & Protein und Nur solange der > verschiedene Sorten,
+
+[OCR | BLOCK 23 | x0=390 y0=782 x1=1582 y1=816 | conf=84.5]
+Hafer Kraft Protein. Vorrat reicht. N N tiefgefroren
+
+[OCR | BLOCK 24 | x0=1487 y0=840 x1=1582 y1=868 | conf=56.0]
+n.6!=1,99
+
+[OCR | BLOCK 25 | x0=138 y0=900 x1=1173 y1=919 | conf=52.0]
+5 7 m;
+
+[OCR | BLOCK 27 | x0=639 y0=911 x1=873 y1=978 | conf=59.5]
+; nutella
+
+[OCR | BLOCK 26 | x0=82 y0=919 x1=333 y1=938 | conf=46.0]
+FEN RE
+
+[OCR | BLOCK 28 | x0=409 y0=952 x1=1419 y1=1026 | conf=47.33]
+biszu 25% u BEER 40 De
+
+[OCR | BLOCK 29 | x0=715 y0=991 x1=836 y1=1014 | conf=31.0]
+Fre
+
+[OCR | BLOCK 30 | x0=269 y0=1020 x1=1421 y1=1046 | conf=41.0]
+ar Bet
+
+[OCR | BLOCK 31 | x0=741 y0=1029 x1=1430 y1=1069 | conf=58.0]
+a | — A
+
+[OCR | BLOCK 32 | x0=443 y0=1083 x1=1572 y1=1123 | conf=52.8]
+. ie — . 369
+
+[OCR | BLOCK 33 | x0=1466 y0=1189 x1=1583 y1=1223 | conf=80.0]
+Dallmayr d’Oro
+
+[OCR | BLOCK 34 | x0=972 y0=1219 x1=1582 y1=1242 | conf=94.33]
+= verschiedene Sorten,
+
+[OCR | BLOCK 35 | x0=1300 y0=1237 x1=1583 y1=1269 | conf=92.0]
+Crema prodomo oder Bio Gran Verde
+
+[OCR | BLOCK 36 | x0=844 y0=1264 x1=1582 y1=1294 | conf=74.75]
+1 ug ganze Bohnen
+
+[OCR | BLOCK 37 | x0=879 y0=1281 x1=1585 y1=1315 | conf=66.67]
+= 750/1000 9
+
+[OCR | BLOCK 38 | x0=1514 y0=1312 x1=1551 y1=1327 | conf=81.0]
+Packı
+
+[OCR | BLOCK 39 | x0=267 y0=1317 x1=1427 y1=1349 | conf=52.0]
+en |
+
+[OCR | BLOCK 40 | x0=721 y0=1353 x1=1582 y1=1382 | conf=64.2]
+\ | 3 Na n.G!=14,99
+
+[OCR | BLOCK 41 | x0=847 y0=1390 x1=1381 y1=1416 | conf=47.67]
+NT ae Dallmayr
+
+[OCR | BLOCK 42 | x0=731 y0=1406 x1=1245 y1=1478 | conf=42.0]
+= aa 4 PN
+
+[OCR | BLOCK 44 | x0=70 y0=1450 x1=1514 y1=1527 | conf=65.4]
+Schokolade 30% @ | 33%
+
+[OCR | BLOCK 43 | x0=71 y0=1467 x1=113 y1=1486 | conf=91.0]
+Milka
+
+[OCR | BLOCK 45 | x0=71 y0=1507 x1=1253 y1=1567 | conf=74.75]
+verschiedene ' d' Oro
+
+[OCR | BLOCK 46 | x0=442 y0=1542 x1=1569 y1=1612 | conf=85.6]
+99 Amicelli 09 |. 099
+
+[OCR | BLOCK 47 | x0=70 y0=1563 x1=1380 y1=1625 | conf=63.88]
+1kg =11,10-13,06 11 Sorten, 16er Er \ ER
+
+[OCR | BLOCK 48 | x0=315 y0=1599 x1=1572 y1=1648 | conf=54.6]
+9 5” | © 2099
+
+[OCR | BLOCK 49 | x0=99 y0=1634 x1=1271 y1=1664 | conf=57.0]
+ae . a
+
+[OCR | BLOCK 50 | x0=678 y0=1773 x1=1459 y1=1816 | conf=52.5]
+rs JENS de EN
+
+[OCR | BLOCK 51 | x0=394 y0=1792 x1=1431 y1=1829 | conf=58.0]
+a er SORTIER
+
+[OCR | BLOCK 52 | x0=1188 y0=1813 x1=1237 y1=1857 | conf=69.0]
+zum
+
+[OCR | BLOCK 53 | x0=330 y0=1883 x1=1026 y1=1957 | conf=51.75]
+2-72 = 5 a
+
+[OCR | BLOCK 54 | x0=627 y0=1924 x1=1285 y1=1972 | conf=57.5]
+SCHINKEN (4 | Ka | ae
+
+[OCR | BLOCK 55 | x0=310 y0=1957 x1=1569 y1=2005 | conf=70.75]
+RZ i ab5 Packungen
+
+[OCR | BLOCK 56 | x0=1203 y0=2002 x1=1216 y1=2012 | conf=37.0]
+a
+
+[OCR | BLOCK 57 | x0=324 y0=2004 x1=1530 y1=2042 | conf=39.2]
+N | RE NE me
+
+[OCR | BLOCK 59 | x0=68 y0=2045 x1=1570 y1=2178 | conf=76.2]
+Knorr Fix 0 2 039
+
+[OCR | BLOCK 58 | x0=204 y0=2067 x1=1336 y1=2082 | conf=52.8]
+en - en“ ] \
+
+[OCR | BLOCK 60 | x0=71 y0=2115 x1=235 y1=2131 | conf=96.0]
+verschiedene Sorten
+
+[OCR | BLOCK 61 | x0=93 y0=2131 x1=1444 y1=2149 | conf=66.0]
+= ie
+
+[OCR | BLOCK 62 | x0=942 y0=2153 x1=977 y1=2171 | conf=62.0]
+=
+
+[OCR | BLOCK 63 | x0=72 y0=2181 x1=1583 y1=2201 | conf=59.75]
+n. G!= 0,49 1kg=4,33-13,93
+
+[OCR | BLOCK 64 | x0=316 y0=2221 x1=843 y1=2271 | conf=65.0]
+san BIS 7117) DIIKL
+
+[OCR | BLOCK 65 | x0=517 y0=2239 x1=1186 y1=2282 | conf=75.25]
+ZU 12.000 ARTIKEL DISCOUNTBILLIG
+
+[OCR | BLOCK 66 | x0=71 y0=2297 x1=1587 y1=2330 | conf=86.6]
+Seite 2 = niedrigster Gesamtpreis der letzten 30 Tage EC_IWEST
+
+
+===== SEITE 5 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 906 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=163 y0=117 x1=526 y1=137 | conf=85.0]
+= Grand Sud
+
+[OCR | BLOCK 2 | x0=277 y0=123 x1=1401 y1=188 | conf=79.0]
+ner MEHR MEHR SPAREN
+
+[OCR | BLOCK 3 | x0=405 y0=172 x1=525 y1=189 | conf=96.0]
+aus Frankreich,
+
+[OCR | BLOCK 4 | x0=110 y0=200 x1=1357 y1=221 | conf=69.0]
+AUCH A f}
+
+[OCR | BLOCK 5 | x0=438 y0=218 x1=1157 y1=231 | conf=59.5]
+iter X
+
+[OCR | BLOCK 6 | x0=83 y0=225 x1=881 y1=264 | conf=52.0]
+ALKOHOL 7 H
+
+[OCR | BLOCK 7 | x0=160 y0=312 x1=1346 y1=351 | conf=54.0]
+SA sr a 3 3
+
+[OCR | BLOCK 8 | x0=237 y0=338 x1=318 y1=387 | conf=34.0]
+BE
+
+[OCR | BLOCK 9 | x0=276 y0=374 x1=319 y1=396 | conf=37.0]
+2Q
+
+[OCR | BLOCK 10 | x0=276 y0=397 x1=318 y1=418 | conf=30.0]
+5 J
+
+[OCR | BLOCK 11 | x0=279 y0=444 x1=318 y1=461 | conf=41.0]
+san
+
+[OCR | BLOCK 12 | x0=275 y0=467 x1=318 y1=487 | conf=50.0]
+u=
+
+[OCR | BLOCK 13 | x0=150 y0=656 x1=1583 y1=681 | conf=87.6]
+2 Baileys AUCH Jever Bier
+
+[OCR | BLOCK 14 | x0=396 y0=681 x1=1582 y1=701 | conf=67.43]
+ki Pr m = m verschiedene Sorten
+
+[OCR | BLOCK 15 | x0=358 y0=683 x1=1039 y1=730 | conf=54.75]
+en ALKOHOL nn |
+
+[OCR | BLOCK 17 | x0=167 y0=714 x1=1582 y1=786 | conf=62.43]
+4 0,5/0,7 frei 13] ALKOHOL- = a
+
+[OCR | BLOCK 16 | x0=418 y0=731 x1=1571 y1=747 | conf=76.83]
+15,7/17% Vol. B + 3,42/3,10 Pan
+
+[OCR | BLOCK 18 | x0=393 y0=765 x1=1560 y1=800 | conf=53.67]
+11=114,27-19,98 mm n.G!=10,
+
+[OCR | BLOCK 19 | x0=427 y0=792 x1=1583 y1=851 | conf=50.33]
+1.612899 ® re
+
+[OCR | BLOCK 20 | x0=376 y0=814 x1=1455 y1=837 | conf=73.8]
+Je nach Verfügbarkeit RN _—
+
+[OCR | BLOCK 21 | x0=161 y0=823 x1=1582 y1=860 | conf=64.75]
+IB E53 des Marktes. Il — des Marktes.
+
+[OCR | BLOCK 22 | x0=160 y0=825 x1=1012 y1=900 | conf=62.5]
+| ee
+
+[OCR | BLOCK 23 | x0=98 y0=871 x1=1427 y1=919 | conf=60.0]
+N = | | N
+
+[OCR | BLOCK 24 | x0=238 y0=887 x1=1552 y1=993 | conf=57.75]
+2 | gE NPP-PREIS?
+
+[OCR | BLOCK 25 | x0=111 y0=982 x1=1246 y1=1022 | conf=62.8]
+h Fr Warsteiner Bier van
+
+[OCR | BLOCK 26 | x0=205 y0=1000 x1=1556 y1=1057 | conf=80.6]
+y 4 verschiedene Sorten 19
+
+[OCR | BLOCK 27 | x0=599 y0=1042 x1=785 y1=1060 | conf=72.5]
+24x0,33/20x0,5 Liter
+
+[OCR | BLOCK 28 | x0=182 y0=1054 x1=805 y1=1090 | conf=87.4]
+& Kasten + 3,42/3,10 Pfand
+
+[OCR | BLOCK 29 | x0=599 y0=1085 x1=822 y1=1104 | conf=31.0]
+11=1,10-1,39,n.G!=11,99
+
+[OCR | BLOCK 30 | x0=599 y0=1103 x1=1581 y1=1123 | conf=86.5]
+Je nach Verfügbarkeit des Marktes. 1215185
+
+[OCR | BLOCK 31 | x0=651 y0=1185 x1=1583 y1=1223 | conf=64.0]
+_ > Residenz Quelle
+
+[OCR | BLOCK 32 | x0=764 y0=1207 x1=1584 y1=1238 | conf=66.33]
+— u Mineralwasser
+
+[OCR | BLOCK 33 | x0=1001 y0=1246 x1=1583 y1=1272 | conf=75.33]
+u verschiedene Sorten
+
+[OCR | BLOCK 34 | x0=193 y0=1264 x1=1583 y1=1292 | conf=75.0]
+— = u 12x1Liter Kasten
+
+[OCR | BLOCK 35 | x0=719 y0=1275 x1=1583 y1=1319 | conf=74.5]
+\ =; | 2 +3,30 Pfand
+
+[OCR | BLOCK 36 | x0=79 y0=1312 x1=1583 y1=1334 | conf=71.33]
+— 500 11=0,46
+
+[OCR | BLOCK 38 | x0=701 y0=1320 x1=1335 y1=1388 | conf=48.75]
+TER | Alarm |
+
+[OCR | BLOCK 37 | x0=787 y0=1334 x1=1583 y1=1354 | conf=65.0]
+ir n.G!=5,49
+
+[OCR | BLOCK 39 | x0=82 y0=1366 x1=1240 y1=1416 | conf=57.0]
+\ ers Ye f
+
+[OCR | BLOCK 40 | x0=247 y0=1392 x1=1338 y1=1458 | conf=35.0]
+Br i
+
+[OCR | BLOCK 41 | x0=130 y0=1441 x1=769 y1=1466 | conf=61.25]
+ET > i 2
+
+[OCR | BLOCK 42 | x0=963 y0=1469 x1=1221 y1=1504 | conf=36.5]
+4 3,
+
+[OCR | BLOCK 43 | x0=661 y0=1491 x1=705 y1=1502 | conf=35.0]
+I
+
+[OCR | BLOCK 44 | x0=71 y0=1539 x1=1262 y1=1574 | conf=80.2]
+Gut & Günstig = um
+
+[OCR | BLOCK 45 | x0=70 y0=1574 x1=1337 y1=1597 | conf=69.75]
+5000 weich premium €
+
+[OCR | BLOCK 46 | x0=71 y0=1599 x1=191 y1=1622 | conf=83.0]
+Toilettenpapier
+
+[OCR | BLOCK 47 | x0=70 y0=1626 x1=1272 y1=1645 | conf=80.33]
+4-lagig, Blatt -
+
+[OCR | BLOCK 48 | x0=72 y0=1648 x1=165 y1=1667 | conf=87.5]
+Packung, n.
+
+[OCR | BLOCK 49 | x0=1177 y0=1890 x1=1308 y1=1919 | conf=43.0]
+ver
+
+[OCR | BLOCK 50 | x0=949 y0=1965 x1=1253 y1=2019 | conf=50.0]
+SE an ef
+
+[OCR | BLOCK 52 | x0=747 y0=2014 x1=1037 y1=2083 | conf=69.0]
+ZUM SELBST SORTIEREN |
+
+[OCR | BLOCK 51 | x0=315 y0=2019 x1=1140 y1=2043 | conf=50.5]
+N N
+
+[OCR | BLOCK 53 | x0=304 y0=2093 x1=1027 y1=2107 | conf=76.5]
+= Windfrisch
+
+[OCR | BLOCK 54 | x0=261 y0=2145 x1=268 y1=2149 | conf=55.0]
+3
+
+[OCR | BLOCK 55 | x0=717 y0=2240 x1=1089 y1=2265 | conf=65.0]
+ARTIKEI NISCHIINTR
+
+[OCR | BLOCK 56 | x0=517 y0=2242 x1=863 y1=2282 | conf=84.0]
+ZU 12.000 ARTINEL
+
+
+===== SEITE 6 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1200 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=174 y0=18 x1=424 y1=55 | conf=94.0]
+Obst & Gemüse
+
+[OCR | BLOCK 2 | x0=877 y0=73 x1=1089 y1=172 | conf=72.0]
+M | H
+
+[OCR | BLOCK 3 | x0=526 y0=157 x1=1320 y1=207 | conf=55.0]
+\ =
+
+[OCR | BLOCK 5 | x0=861 y0=183 x1=1480 y1=269 | conf=89.33]
+geerntet, mit LIEDE
+
+[OCR | BLOCK 4 | x0=585 y0=215 x1=732 y1=226 | conf=44.0]
++ a
+
+[OCR | BLOCK 6 | x0=184 y0=259 x1=570 y1=302 | conf=53.33]
+u) N N
+
+[OCR | BLOCK 7 | x0=578 y0=273 x1=1284 y1=374 | conf=77.67]
+3 h ht
+
+[OCR | BLOCK 8 | x0=213 y0=324 x1=268 y1=340 | conf=34.0]
+PEN
+
+[OCR | BLOCK 9 | x0=992 y0=424 x1=1251 y1=459 | conf=54.0]
+PlattpfirsichewonJose.Luis
+
+[OCR | BLOCK 10 | x0=267 y0=435 x1=1246 y1=490 | conf=71.57]
+\ — IN un Maria aus Katalonien.
+
+[OCR | BLOCK 11 | x0=437 y0=473 x1=1154 y1=517 | conf=62.5]
+N. |
+
+[OCR | BLOCK 12 | x0=377 y0=503 x1=445 y1=519 | conf=52.0]
+3#
+
+[OCR | BLOCK 13 | x0=210 y0=521 x1=1599 y1=555 | conf=66.4]
+“ 4 Auge EDEKA Herzstücke
+
+[OCR | BLOCK 14 | x0=555 y0=547 x1=1598 y1=582 | conf=73.0]
+= Nektarinenvon gelb-, weißfleischig,
+
+[OCR | BLOCK 15 | x0=593 y0=568 x1=1599 y1=614 | conf=78.57]
+Yiladegut aus Katalonien. m Pfirsiche gelbfleischig oder
+
+[OCR | BLOCK 16 | x0=977 y0=589 x1=1598 y1=637 | conf=66.5]
+u 03 Plattpfirsiche weißfleischig
+
+[OCR | BLOCK 17 | x0=1044 y0=628 x1=1597 y1=670 | conf=76.0]
+- Pfürsiche aus Spanien, Kl. |
+
+[OCR | BLOCK 18 | x0=243 y0=653 x1=1599 y1=693 | conf=62.0]
+j aus Ikg
+
+[OCR | BLOCK 19 | x0=564 y0=696 x1=580 y1=727 | conf=75.0]
+N
+
+[OCR | BLOCK 20 | x0=1188 y0=702 x1=1600 y1=762 | conf=55.0]
+„u won
+
+[OCR | BLOCK 21 | x0=766 y0=747 x1=1040 y1=788 | conf=70.0]
+EA
+
+[OCR | BLOCK 22 | x0=593 y0=772 x1=1581 y1=851 | conf=57.67]
+— An 99
+
+[OCR | BLOCK 23 | x0=434 y0=873 x1=1505 y1=909 | conf=53.33]
+By SE o
+
+[OCR | BLOCK 24 | x0=119 y0=935 x1=130 y1=947 | conf=71.0]
+\
+
+[OCR | BLOCK 25 | x0=127 y0=949 x1=1382 y1=977 | conf=67.33]
+N = j
+
+[OCR | BLOCK 26 | x0=104 y0=968 x1=1406 y1=1009 | conf=65.83]
+uZ $ Sanlucar EDEKA Bio N:
+
+[OCR | BLOCK 27 | x0=471 y0=997 x1=1436 y1=1034 | conf=49.4]
+Ananas WWF Bananen | „ae
+
+[OCR | BLOCK 28 | x0=406 y0=1011 x1=1541 y1=1070 | conf=86.67]
+aus Costa Rica, BIO Herkunft siehe || Fr +
+
+[OCR | BLOCK 29 | x0=111 y0=1045 x1=1273 y1=1079 | conf=76.0]
+Il KL I, Stück ‚Auszeichnung +
+
+[OCR | BLOCK 30 | x0=116 y0=1069 x1=1626 y1=1108 | conf=65.4]
+ZZ . 1kg Li +
+
+[OCR | BLOCK 31 | x0=127 y0=1099 x1=1540 y1=1147 | conf=58.2]
+Nr = 1 | 1
+
+[OCR | BLOCK 32 | x0=1105 y0=1124 x1=1349 y1=1164 | conf=55.33]
+WERE u Eu
+
+[OCR | BLOCK 33 | x0=112 y0=1153 x1=850 y1=1206 | conf=41.67]
+SET 7 =
+
+[OCR | BLOCK 34 | x0=436 y0=1177 x1=1234 y1=1225 | conf=65.67]
+AKTION 17 |
+
+[OCR | BLOCK 36 | x0=1104 y0=1222 x1=1512 y1=1272 | conf=77.75]
+# Gesund und Günstig
+
+[OCR | BLOCK 35 | x0=1422 y0=1228 x1=1493 y1=1236 | conf=74.5]
+.. .
+
+[OCR | BLOCK 37 | x0=134 y0=1263 x1=1542 y1=1296 | conf=57.0]
+ER, + +
+
+[OCR | BLOCK 38 | x0=472 y0=1393 x1=1057 y1=1457 | conf=70.0]
+Ondine | EDEKA Herzstücke
+
+[OCR | BLOCK 39 | x0=206 y0=1435 x1=1056 y1=1460 | conf=82.67]
+Plattnektarinen weiß- oder gelbfleischig EDEKA | Apeel Avocado „Hass“
+
+[OCR | BLOCK 40 | x0=387 y0=1457 x1=1165 y1=1488 | conf=84.36]
+aus Spanien, Kl. | Herzstück aus Peru, Kl. I, Stück v
+
+[OCR | BLOCK 41 | x0=303 y0=1484 x1=1270 y1=1503 | conf=78.29]
+450 g Packung, 1kg = 5,53 —
+
+[OCR | BLOCK 42 | x0=1492 y0=1531 x1=1497 y1=1546 | conf=49.0]
+N
+
+[OCR | BLOCK 43 | x0=207 y0=1556 x1=1299 y1=1606 | conf=63.0]
+OD )
+
+[OCR | BLOCK 44 | x0=397 y0=1570 x1=1075 y1=1627 | conf=55.33]
+at A |
+
+[OCR | BLOCK 45 | x0=121 y0=1593 x1=1587 y1=1650 | conf=60.4]
+7 AKTION Om AKTION mon)
+
+[OCR | BLOCK 46 | x0=777 y0=1649 x1=1235 y1=1684 | conf=80.75]
+IM] Gut & Günstig
+
+[OCR | BLOCK 47 | x0=125 y0=1650 x1=1569 y1=1749 | conf=82.33]
+\ Se U Aprikosen 1 00
+
+[OCR | BLOCK 48 | x0=243 y0=1707 x1=1395 y1=1723 | conf=84.5]
+\& Sorte und Herkunft siehe Etikett,
+
+[OCR | BLOCK 49 | x0=1127 y0=1730 x1=1293 y1=1749 | conf=81.25]
+Kl. 1,500 g Packung
+
+[OCR | BLOCK 50 | x0=1126 y0=1753 x1=1218 y1=1771 | conf=51.0]
+1kg= 2,00
+
+[OCR | BLOCK 51 | x0=705 y0=1923 x1=800 y1=1957 | conf=48.5]
+wer N
+
+[OCR | BLOCK 52 | x0=288 y0=1958 x1=1228 y1=1977 | conf=70.0]
+N )
+
+[OCR | BLOCK 53 | x0=577 y0=1958 x1=1279 y1=2014 | conf=60.0]
+N er > Ne
+
+[OCR | BLOCK 54 | x0=520 y0=2006 x1=1048 y1=2048 | conf=47.75]
+- 7% 2 Packungen
+
+[OCR | BLOCK 55 | x0=446 y0=2033 x1=899 y1=2060 | conf=42.67]
+= 3 NZ a ee >]
+
+[OCR | BLOCK 56 | x0=70 y0=2049 x1=1547 y1=2083 | conf=57.43]
+2 Packungen DW 2 N AKTION AKTION
+
+[OCR | BLOCK 57 | x0=72 y0=2080 x1=831 y1=2104 | conf=65.0]
+Mein Beerenglück N SIE 2
+
+[OCR | BLOCK 58 | x0=71 y0=2089 x1=561 y1=2134 | conf=64.33]
+Heidelbeeren S DATE
+
+[OCR | BLOCK 59 | x0=72 y0=2129 x1=1252 y1=2159 | conf=94.12]
+Herkunft siehe Etikett, Kl. | Bio Kräuter Mix
+
+[OCR | BLOCK 60 | x0=71 y0=2147 x1=1417 y1=2182 | conf=80.17]
+4125 z.B. Rosmarin, Petersilie und Minze
+
+[OCR | BLOCK 61 | x0=72 y0=2182 x1=1228 y1=2201 | conf=96.0]
+Entspricht Einzelpreis von 1,50 €. 3er Packung
+
+[OCR | BLOCK 62 | x0=71 y0=2297 x1=1582 y1=2327 | conf=57.33]
+Seite4 SO04_28_2026_E EC_WEST.OST
+
+
+===== SEITE 7 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1915 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=611 y0=47 x1=1654 y1=86 | conf=50.0]
+3 2 er.‘ An pi 2 %
+
+[OCR | BLOCK 2 | x0=188 y0=73 x1=1363 y1=103 | conf=51.57]
+® > de z a7) PN 37
+
+[OCR | BLOCK 3 | x0=1233 y0=101 x1=1649 y1=127 | conf=35.75]
+ERBEN 7 a, N
+
+[OCR | BLOCK 4 | x0=1384 y0=152 x1=1654 y1=192 | conf=38.0]
+EN u
+
+[OCR | BLOCK 5 | x0=834 y0=180 x1=1652 y1=217 | conf=77.83]
+FÜR DEN LEBENSMITTELHANDEL > EN RR
+
+[OCR | BLOCK 6 | x0=846 y0=203 x1=1654 y1=252 | conf=47.4]
+& N { ER N
+
+[OCR | BLOCK 7 | x0=312 y0=228 x1=1520 y1=264 | conf=57.0]
+® £ lu “m
+
+[OCR | BLOCK 8 | x0=846 y0=288 x1=860 y1=298 | conf=57.0]
+u
+
+[OCR | BLOCK 9 | x0=846 y0=312 x1=859 y1=329 | conf=56.0]
+=
+
+[OCR | BLOCK 10 | x0=842 y0=333 x1=1407 y1=364 | conf=62.67]
+fr] Pr =
+
+[OCR | BLOCK 11 | x0=666 y0=345 x1=1625 y1=393 | conf=53.67]
+® “a \
+
+[OCR | BLOCK 12 | x0=679 y0=383 x1=1454 y1=437 | conf=69.5]
+Be { 2 |
+
+[OCR | BLOCK 13 | x0=1383 y0=420 x1=1393 y1=424 | conf=68.0]
+-
+
+[OCR | BLOCK 14 | x0=884 y0=460 x1=1257 y1=480 | conf=70.0]
+DEUTSCHLANDS 2%
+
+[OCR | BLOCK 15 | x0=878 y0=482 x1=1373 y1=526 | conf=65.0]
+BESTE a
+
+[OCR | BLOCK 16 | x0=1486 y0=515 x1=1601 y1=551 | conf=88.0]
+Wassermelone
+
+[OCR | BLOCK 17 | x0=518 y0=537 x1=1601 y1=583 | conf=50.6]
++ OBST&GEMÜSE GE, Wen rotfleischig
+
+[OCR | BLOCK 18 | x0=1305 y0=569 x1=1601 y1=592 | conf=72.33]
+A aus Spanien/
+
+[OCR | BLOCK 19 | x0=841 y0=586 x1=1557 y1=620 | conf=94.5]
+ABTEILUNG Italien,
+
+[OCR | BLOCK 20 | x0=1159 y0=614 x1=1600 y1=636 | conf=75.75]
+£ ganze Früchte, kg
+
+[OCR | BLOCK 21 | x0=1213 y0=635 x1=1601 y1=652 | conf=60.33]
+> \ ‚Ausgenommen
+
+[OCR | BLOCK 22 | x0=875 y0=639 x1=1601 y1=693 | conf=81.57]
+2 0 2 6 7 geschnittene Ware.
+
+[OCR | BLOCK 23 | x0=56 y0=689 x1=816 y1=712 | conf=95.33]
+Bereits zum 13. Mal in Folge erhält EDEKA den Deutschen Frucht Preis.
+
+[OCR | BLOCK 24 | x0=56 y0=715 x1=1535 y1=743 | conf=95.18]
+Bei uns findest du eine große Auswahl zu kleinen Preisen! AKTION
+
+[OCR | BLOCK 25 | x0=56 y0=739 x1=928 y1=776 | conf=83.75]
+Mehr unter edeka.de/angebote MAGAZIN
+
+[OCR | BLOCK 27 | x0=160 y0=772 x1=1584 y1=852 | conf=88.68]
+von 7 Märkten (Marktkauf Speicher, Ollver Speicher e.K. (EDEKA), Gartenstraße 3, 33790 Halle; EDEKA Center Ueltzhöfer LEH, 8 8
+
+[OCR | BLOCK 26 | x0=1150 y0=774 x1=1390 y1=799 | conf=48.5]
+& NEN
+
+[OCR | BLOCK 28 | x0=56 y0=827 x1=1078 y1=842 | conf=88.58]
+Mauerstr. 78-90, 74081 Hellbronn-Sontheim; Hlebers Frische Center KG, Bahnhofsplatz 9, 79539 Lörrach; Niemerszein & Co. KG, Lange Reihe 110,
+
+[OCR | BLOCK 29 | x0=55 y0=846 x1=1058 y1=862 | conf=87.0]
+20099 Hamburg; EDEKA Frischecenter Wagner KG, Nlorter Straße 3c, 96450 Coburg; Frischemarkt Müller GmbH, Am Gleis 1, 01723 Wilscruff;
+
+[OCR | BLOCK 30 | x0=56 y0=860 x1=1244 y1=886 | conf=90.61]
+EDEKA Debrassine, Hauptstraße 50, 86695 Nordendorf). Prämiert von der unabhängigen des Deutschen Frucht Preises Im Rahmen des N
+
+[OCR | BLOCK 31 | x0=56 y0=881 x1=1506 y1=907 | conf=88.12]
+Branchenwettbewerbs „Deutschlands beste Obst & Gemüse Abteilung 2026". Bewertung u. a. Im Zuge von unangemeideten Store-Checks. ®
+
+[OCR | BLOCK 32 | x0=58 y0=909 x1=997 y1=926 | conf=85.0]
+**" RUNDSCHAU für den Lebensmittelhandel, Ausgabe 6/2026, www.rundschau.de/wettbewerbe sowie www.fruchthandel.de/awards
+
+[OCR | BLOCK 33 | x0=1371 y0=977 x1=1373 y1=979 | conf=67.0]
+2
+
+[OCR | BLOCK 34 | x0=453 y0=978 x1=1583 y1=1019 | conf=74.25]
+vr EDEKA = Speisekartoffeln
+
+[OCR | BLOCK 35 | x0=398 y0=996 x1=1055 y1=1032 | conf=63.75]
+| ei Bi Herzstücke
+
+[OCR | BLOCK 36 | x0=921 y0=1030 x1=1583 y1=1060 | conf=79.25]
+Tafeltrauben hell u festkochend,
+
+[OCR | BLOCK 37 | x0=427 y0=1048 x1=1582 y1=1083 | conf=74.89]
+_ ’ Sorte siehe Auszeichnung, 2 x aus Deutschland,
+
+[OCR | BLOCK 38 | x0=887 y0=1071 x1=1583 y1=1099 | conf=85.67]
+aus Italien, Kl.1,Ikg die Sorte für
+
+[OCR | BLOCK 40 | x0=678 y0=1096 x1=1583 y1=1152 | conf=53.0]
+FIR en 207.0 Netz
+
+[OCR | BLOCK 39 | x0=135 y0=1097 x1=1583 y1=1115 | conf=61.0]
+- a |. Feinschmecker
+
+[OCR | BLOCK 41 | x0=937 y0=1138 x1=1420 y1=1176 | conf=75.5]
+mit Kern ARE IN
+
+[OCR | BLOCK 42 | x0=408 y0=1174 x1=443 y1=1200 | conf=55.0]
+e
+
+[OCR | BLOCK 43 | x0=171 y0=1201 x1=241 y1=1225 | conf=30.0]
+Eu
+
+[OCR | BLOCK 45 | x0=212 y0=1283 x1=983 y1=1326 | conf=80.0]
+Große Früchte. ET .
+
+[OCR | BLOCK 44 | x0=807 y0=1290 x1=811 y1=1293 | conf=70.0]
+r
+
+[OCR | BLOCK 46 | x0=461 y0=1402 x1=1583 y1=1436 | conf=81.0]
+Kirschen - EDEKA Regional — EDEKA Regional
+
+[OCR | BLOCK 47 | x0=315 y0=1431 x1=1583 y1=1464 | conf=92.43]
+Sorte siehe Auszeichnung, Fränkischer Fränkisches Salat Trio
+
+[OCR | BLOCK 48 | x0=945 y0=1454 x1=1583 y1=1494 | conf=92.0]
+Blattsalat Mix mit Wurzelballen
+
+[OCR | BLOCK 49 | x0=187 y0=1474 x1=1583 y1=1513 | conf=63.14]
+i BER 100 KL. re frisch dank
+
+[OCR | BLOCK 50 | x0=198 y0=1502 x1=1583 y1=1544 | conf=71.33]
+4 RER 100 g Packung Wurzelballen
+
+[OCR | BLOCK 51 | x0=379 y0=1531 x1=1004 y1=1545 | conf=81.0]
+! =
+
+[OCR | BLOCK 52 | x0=1397 y0=1532 x1=1583 y1=1567 | conf=43.0]
+Be
+
+[OCR | BLOCK 53 | x0=152 y0=1560 x1=1285 y1=1597 | conf=67.67]
+€ en a _ FBF A
+
+[OCR | BLOCK 54 | x0=146 y0=1590 x1=1501 y1=1607 | conf=59.33]
+- - 7
+
+[OCR | BLOCK 55 | x0=265 y0=1604 x1=1408 y1=1624 | conf=58.0]
+er. 4. 2 \
+
+[OCR | BLOCK 56 | x0=328 y0=1622 x1=1033 y1=1642 | conf=61.5]
+RT AKTION
+
+[OCR | BLOCK 57 | x0=196 y0=1648 x1=376 y1=1682 | conf=45.5]
+Pa) 7
+
+[OCR | BLOCK 58 | x0=299 y0=1670 x1=1385 y1=1685 | conf=64.5]
+“ En
+
+[OCR | BLOCK 59 | x0=673 y0=1697 x1=1357 y1=1724 | conf=46.0]
+- A
+
+[OCR | BLOCK 60 | x0=1235 y0=1738 x1=1429 y1=1770 | conf=42.0]
+ar
+
+[OCR | BLOCK 62 | x0=66 y0=1919 x1=1373 y1=1991 | conf=44.25]
+a 7 = a
+
+[OCR | BLOCK 61 | x0=103 y0=1922 x1=870 y1=1943 | conf=35.0]
+7 ln
+
+[OCR | BLOCK 63 | x0=766 y0=1971 x1=1230 y1=2001 | conf=40.0]
+A ENT
+
+[OCR | BLOCK 64 | x0=120 y0=2001 x1=121 y1=2006 | conf=72.0]
+[
+
+[OCR | BLOCK 65 | x0=318 y0=2051 x1=1552 y1=2072 | conf=74.25]
+7 AKTION AKTION AKTION
+
+[OCR | BLOCK 66 | x0=821 y0=2118 x1=823 y1=2120 | conf=33.0]
+{
+
+[OCR | BLOCK 67 | x0=1518 y0=2182 x1=1532 y1=2196 | conf=50.0]
+.
+
+[OCR | BLOCK 68 | x0=67 y0=2304 x1=1582 y1=2328 | conf=72.0]
+5S05_28_2026_E EC_IWEST *Nur erhältlich In Märkten mit Blumenabtellung. Selte5
+
+
+===== SEITE 8 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 735 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=208 y0=0 x1=1360 y1=44 | conf=41.0]
+5 .
+
+[OCR | BLOCK 2 | x0=162 y0=75 x1=1381 y1=107 | conf=52.0]
+dä zn .
+
+[OCR | BLOCK 3 | x0=116 y0=114 x1=659 y1=187 | conf=88.25]
+f Hin und Veg!
+
+[OCR | BLOCK 4 | x0=807 y0=182 x1=1105 y1=211 | conf=77.5]
+« 7
+
+[OCR | BLOCK 5 | x0=808 y0=213 x1=1135 y1=261 | conf=80.5]
+| N
+
+[OCR | BLOCK 6 | x0=87 y0=282 x1=1210 y1=381 | conf=56.0]
+S -
+
+[OCR | BLOCK 7 | x0=604 y0=439 x1=1632 y1=491 | conf=49.5]
+® x | x
+
+[OCR | BLOCK 8 | x0=238 y0=488 x1=1166 y1=521 | conf=55.25]
+€ A Y )
+
+[OCR | BLOCK 9 | x0=230 y0=518 x1=1417 y1=545 | conf=52.25]
+u. En ; £
+
+[OCR | BLOCK 10 | x0=435 y0=545 x1=1599 y1=578 | conf=75.5]
+B° \ EDEKA Heimatliebe
+
+[OCR | BLOCK 11 | x0=332 y0=570 x1=1622 y1=610 | conf=64.43]
+. / Fu | Fränkische Rispentomaten -
+
+[OCR | BLOCK 12 | x0=1030 y0=591 x1=1526 y1=647 | conf=64.5]
+4 u
+
+[OCR | BLOCK 13 | x0=341 y0=675 x1=1654 y1=727 | conf=53.0]
+/ \ \ = SER ==
+
+[OCR | BLOCK 14 | x0=28 y0=736 x1=1651 y1=850 | conf=66.0]
+\ % EN / W- = 9 9 =
+
+[OCR | BLOCK 16 | x0=47 y0=766 x1=1503 y1=993 | conf=53.5]
+# \ ’ T
+
+[OCR | BLOCK 15 | x0=90 y0=774 x1=1654 y1=885 | conf=64.0]
+4 \ _ . ==
+
+[OCR | BLOCK 17 | x0=257 y0=972 x1=1584 y1=1003 | conf=65.2]
+; i _ = Zuckermais
+
+[OCR | BLOCK 18 | x0=69 y0=1005 x1=1582 y1=1027 | conf=60.6]
+= ; wir aus Deutschland,
+
+[OCR | BLOCK 19 | x0=554 y0=1025 x1=1583 y1=1047 | conf=78.8]
+f zur vorgekocht und vakuumiert
+
+[OCR | BLOCK 20 | x0=792 y0=1045 x1=1583 y1=1097 | conf=64.25]
+"its ee. 2er Packung
+
+[OCR | BLOCK 21 | x0=63 y0=1157 x1=1165 y1=1204 | conf=50.25]
+. \ “no Ir
+
+[OCR | BLOCK 22 | x0=1473 y0=1236 x1=1503 y1=1335 | conf=95.0]
+1
+
+[OCR | BLOCK 23 | x0=385 y0=1404 x1=1583 y1=1436 | conf=80.5]
+EDEKA Herzstücke Aubergine Zucchini
+
+[OCR | BLOCK 24 | x0=92 y0=1431 x1=1582 y1=1461 | conf=89.91]
+EDEKA Champignons braun 4 aus den Niederlanden, Kl. | aus Deutschland,
+
+[OCR | BLOCK 25 | x0=80 y0=1450 x1=1583 y1=1487 | conf=81.0]
+Herzstück: aus I Stück Stück
+
+[OCR | BLOCK 26 | x0=488 y0=1488 x1=1268 y1=1534 | conf=62.25]
+830 | | \
+
+[OCR | BLOCK 27 | x0=163 y0=1513 x1=729 y1=1571 | conf=53.5]
+en x | |
+
+[OCR | BLOCK 28 | x0=134 y0=1564 x1=1461 y1=1599 | conf=51.33]
+m A =
+
+[OCR | BLOCK 29 | x0=104 y0=1591 x1=1071 y1=1662 | conf=57.0]
+A rim
+
+[OCR | BLOCK 30 | x0=107 y0=1655 x1=1585 y1=1729 | conf=72.25]
+N ‚& 9 59
+
+[OCR | BLOCK 31 | x0=927 y0=1665 x1=1513 y1=1767 | conf=73.5]
+079 0
+
+[OCR | BLOCK 32 | x0=251 y0=1752 x1=1533 y1=1766 | conf=48.0]
+is | .
+
+[OCR | BLOCK 34 | x0=127 y0=1777 x1=1556 y1=1863 | conf=78.5]
+BD |
+
+[OCR | BLOCK 33 | x0=291 y0=1781 x1=450 y1=1803 | conf=45.0]
+I 4%
+
+[OCR | BLOCK 35 | x0=1424 y0=1861 x1=1433 y1=1890 | conf=61.0]
+il
+
+[OCR | BLOCK 36 | x0=118 y0=1862 x1=1573 y1=1895 | conf=77.88]
+| 11 a EDEKA Bratpaprika „Pimientos de Padron
+
+[OCR | BLOCK 37 | x0=289 y0=1883 x1=1583 y1=1913 | conf=83.29]
+ir | 250 g Packung, 1kg = 15,96 aus Spanien, Kl.1, 200 g Packung
+
+[OCR | BLOCK 38 | x0=118 y0=1900 x1=1583 y1=1946 | conf=59.29]
+N = er ] ‚Abbildung ähnlich. 1kg=7,45
+
+[OCR | BLOCK 39 | x0=597 y0=1955 x1=1254 y1=2019 | conf=58.5]
+xy N
+
+[OCR | BLOCK 40 | x0=671 y0=1984 x1=749 y1=2009 | conf=55.0]
+DR
+
+[OCR | BLOCK 41 | x0=279 y0=1994 x1=1343 y1=2066 | conf=51.0]
+u 4 N N 1
+
+[OCR | BLOCK 43 | x0=292 y0=2042 x1=1600 y1=2158 | conf=46.5]
+J AN 6 |
+
+[OCR | BLOCK 42 | x0=93 y0=2049 x1=1380 y1=2075 | conf=52.6]
+\ = AKTION — \
+
+[OCR | BLOCK 44 | x0=735 y0=2077 x1=1585 y1=2157 | conf=55.12]
+\ Y EN 09 Y Ne ui 9
+
+[OCR | BLOCK 45 | x0=1447 y0=2182 x1=1532 y1=2196 | conf=34.5]
+-= .
+
+[OCR | BLOCK 46 | x0=110 y0=2298 x1=1583 y1=2330 | conf=75.0]
+6 SO6_28_2026_E EC_IWEST
+
+
+===== SEITE 9 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1261 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1636 y0=14 x1=1639 y1=17 | conf=32.0]
+.
+
+[OCR | BLOCK 2 | x0=1184 y0=67 x1=1199 y1=88 | conf=39.0]
+/
+
+[OCR | BLOCK 3 | x0=1207 y0=123 x1=1211 y1=125 | conf=44.0]
+-
+
+[OCR | BLOCK 4 | x0=816 y0=128 x1=1359 y1=153 | conf=46.0]
+. a — =
+
+[OCR | BLOCK 5 | x0=528 y0=143 x1=1361 y1=215 | conf=48.25]
+IR“ : | Se
+
+[OCR | BLOCK 6 | x0=336 y0=192 x1=675 y1=207 | conf=46.0]
+BEN N »
+
+[OCR | BLOCK 7 | x0=422 y0=210 x1=524 y1=232 | conf=38.0]
+cl}
+
+[OCR | BLOCK 8 | x0=322 y0=286 x1=1390 y1=319 | conf=45.67]
+2] N dd
+
+[OCR | BLOCK 9 | x0=110 y0=346 x1=699 y1=389 | conf=39.67]
+A ® /
+
+[OCR | BLOCK 10 | x0=85 y0=377 x1=1329 y1=465 | conf=58.57]
+® : = Bio A w: ;
+
+[OCR | BLOCK 11 | x0=69 y0=429 x1=1445 y1=485 | conf=69.0]
+wur ; BRATWURST VUN |
+
+[OCR | BLOCK 12 | x0=293 y0=470 x1=310 y1=513 | conf=36.0]
+[|
+
+[OCR | BLOCK 13 | x0=56 y0=492 x1=1653 y1=539 | conf=61.67]
+EDEKA Bio ya | erden F > TTD 4
+
+[OCR | BLOCK 14 | x0=293 y0=530 x1=1291 y1=594 | conf=54.0]
+{ > , DI I
+
+[OCR | BLOCK 16 | x0=55 y0=574 x1=1646 y1=638 | conf=69.67]
+260 9 Packung 4 \ 4 BEIN Y Pr
+
+[OCR | BLOCK 15 | x0=5 y0=576 x1=219 y1=594 | conf=38.5]
+“2 9
+
+[OCR | BLOCK 18 | x0=387 y0=606 x1=1389 y1=660 | conf=57.8]
+== Y Armin stansı Dr
+
+[OCR | BLOCK 17 | x0=91 y0=611 x1=1627 y1=633 | conf=53.67]
+= as N A . 24
+
+[OCR | BLOCK 19 | x0=15 y0=636 x1=1631 y1=709 | conf=35.0]
+a EB I Be "rg
+
+[OCR | BLOCK 20 | x0=0 y0=711 x1=1651 y1=753 | conf=71.83]
+—: -72% Lerne unseren Grillmeister ==®
+
+[OCR | BLOCK 21 | x0=0 y0=745 x1=1654 y1=789 | conf=74.3]
+=> > 4 kennen - und freu dich auf br
+
+[OCR | BLOCK 22 | x0=0 y0=772 x1=1574 y1=851 | conf=69.86]
+= 49 = we wöchentlich neue Grilltipps!
+
+[OCR | BLOCK 23 | x0=381 y0=814 x1=1541 y1=844 | conf=71.33]
+! 5 na Einfach QR-Code scannen
+
+[OCR | BLOCK 24 | x0=345 y0=821 x1=1482 y1=874 | conf=70.8]
+N ka und mehr entdecken.
+
+[OCR | BLOCK 25 | x0=396 y0=865 x1=504 y1=881 | conf=40.0]
+= Ft
+
+[OCR | BLOCK 26 | x0=186 y0=875 x1=233 y1=899 | conf=75.0]
+399
+
+[OCR | BLOCK 27 | x0=446 y0=968 x1=1583 y1=1022 | conf=86.38]
+EDEKA Bio EDEKA Bio N ; EDEKA Bio
+
+[OCR | BLOCK 28 | x0=1122 y0=981 x1=1583 y1=1061 | conf=54.67]
+(S) ku. WWF
+
+[OCR | BLOCK 29 | x0=443 y0=1019 x1=1353 y1=1054 | conf=75.88]
+g Packung 4 in Salzlake gereift, A ORIGINAL
+
+[OCR | BLOCK 30 | x0=85 y0=1023 x1=1389 y1=1083 | conf=69.67]
+we (Abtropfgewicht 125 g) wwF 45% x 3 NÜRNBERGER
+
+[OCR | BLOCK 31 | x0=1257 y0=1068 x1=1585 y1=1113 | conf=66.75]
+ROSTBRAMNURSTE gebrüht, 250 9
+
+[OCR | BLOCK 32 | x0=292 y0=1101 x1=1033 y1=1116 | conf=71.0]
+= =8,
+
+[OCR | BLOCK 33 | x0=699 y0=1104 x1=1583 y1=1150 | conf=56.67]
+HIRTENKÄSE n.61=2,19 N
+
+[OCR | BLOCK 34 | x0=176 y0=1134 x1=1583 y1=1174 | conf=71.67]
+Bio Al n.G!=3,99
+
+[OCR | BLOCK 36 | x0=121 y0=1155 x1=1551 y1=1220 | conf=62.57]
+MOZZARELLA 23% un 18% WWF > 12%
+
+[OCR | BLOCK 35 | x0=315 y0=1169 x1=1331 y1=1188 | conf=48.0]
+Al Ss
+
+[OCR | BLOCK 38 | x0=459 y0=1220 x1=1585 y1=1303 | conf=69.14]
+09 N‘ . 19 \) 4 49
+
+[OCR | BLOCK 37 | x0=178 y0=1222 x1=1330 y1=1250 | conf=33.0]
+un EN
+
+[OCR | BLOCK 39 | x0=765 y0=1269 x1=1357 y1=1312 | conf=52.75]
+w = = ec
+
+[OCR | BLOCK 40 | x0=1273 y0=1309 x1=1586 y1=1336 | conf=34.0]
+Be... A
+
+[OCR | BLOCK 41 | x0=183 y0=1405 x1=1583 y1=1438 | conf=93.43]
+Pr EDEKA Bio EDEKA Bio EDEKA Bio
+
+[OCR | BLOCK 42 | x0=354 y0=1431 x1=1583 y1=1480 | conf=83.25]
+Natives Olivenöl extra B Möhren Mini Wassermelone rotfleischig
+
+[OCR | BLOCK 43 | x0=402 y0=1440 x1=1583 y1=1485 | conf=86.8]
+750 mi Flasche 10 2? aus Deutschland, Kl. Il BI 0 aus Spanien, Kl. Il
+
+[OCR | BLOCK 44 | x0=454 y0=1479 x1=1583 y1=1503 | conf=76.0]
+11=799 "IE 1kg Packung Stück
+
+[OCR | BLOCK 45 | x0=428 y0=1494 x1=527 y1=1531 | conf=47.0]
+n.G!=6,95
+
+[OCR | BLOCK 46 | x0=187 y0=1542 x1=1546 y1=1577 | conf=62.5]
+& \
+
+[OCR | BLOCK 47 | x0=828 y0=1582 x1=1333 y1=1605 | conf=48.67]
+“| / |
+
+[OCR | BLOCK 48 | x0=178 y0=1583 x1=1334 y1=1642 | conf=66.5]
+== ı=®)
+
+[OCR | BLOCK 49 | x0=439 y0=1617 x1=1552 y1=1689 | conf=65.4]
+3% Bi \ ) AKTION
+
+[OCR | BLOCK 50 | x0=699 y0=1660 x1=849 y1=1694 | conf=30.0]
+PR
+
+[OCR | BLOCK 51 | x0=174 y0=1680 x1=802 y1=1768 | conf=47.0]
+Di y |
+
+[OCR | BLOCK 52 | x0=495 y0=1703 x1=866 y1=1796 | conf=52.67]
+63 f} 2
+
+[OCR | BLOCK 53 | x0=371 y0=1839 x1=1583 y1=1862 | conf=95.33]
+EDEKA Bio Antipasti EDEKA Bio Kruste
+
+[OCR | BLOCK 54 | x0=363 y0=1864 x1=1583 y1=1882 | conf=95.75]
+verschiedene Sorten verschiedene Sorten,
+
+[OCR | BLOCK 55 | x0=384 y0=1882 x1=1583 y1=1915 | conf=80.89]
+120/150 g Becher Fe a. im Steinofen gebacken, vegan
+
+[OCR | BLOCK 56 | x0=418 y0=1895 x1=1583 y1=1942 | conf=68.17]
+= 13,27-16,58 Bio Kir 250 Packung
+
+[OCR | BLOCK 57 | x0=1195 y0=1988 x1=1234 y1=1991 | conf=76.0]
+—
+
+[OCR | BLOCK 58 | x0=111 y0=2025 x1=1559 y1=2095 | conf=67.43]
+; 20% - WEIZEN SEE: Hr -20%
+
+[OCR | BLOCK 59 | x0=907 y0=2079 x1=974 y1=2101 | conf=61.0]
+KRUSTE
+
+[OCR | BLOCK 60 | x0=459 y0=2086 x1=1584 y1=2157 | conf=64.0]
+100 5% = 19
+
+[OCR | BLOCK 61 | x0=133 y0=2131 x1=293 y1=2140 | conf=35.0]
+en
+
+[OCR | BLOCK 62 | x0=835 y0=2149 x1=853 y1=2153 | conf=36.0]
+>
+
+[OCR | BLOCK 63 | x0=457 y0=2177 x1=1586 y1=2196 | conf=72.75]
+. 1:9 . 19
+
+[OCR | BLOCK 64 | x0=67 y0=2298 x1=1583 y1=2328 | conf=74.82]
+S07_28_2026_E EC_WEST.OST = niedrigster Gesamtpreis der letzten 30 Tage Seite 7
+
+
+===== SEITE 10 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1399 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=0 y0=0 x1=1386 y1=23 | conf=49.6]
+4 Kran € fr 4
+
+[OCR | BLOCK 2 | x0=0 y0=0 x1=1016 y1=66 | conf=59.75]
+1 x eN FE
+
+[OCR | BLOCK 3 | x0=164 y0=52 x1=975 y1=76 | conf=60.5]
+a €
+
+[OCR | BLOCK 5 | x0=14 y0=84 x1=1221 y1=162 | conf=72.6]
+N Meat me EN, °
+
+[OCR | BLOCK 4 | x0=170 y0=92 x1=1054 y1=97 | conf=36.0]
+f ’
+
+[OCR | BLOCK 7 | x0=17 y0=140 x1=736 y1=198 | conf=85.75]
+N an der Theke
+
+[OCR | BLOCK 6 | x0=984 y0=154 x1=991 y1=165 | conf=87.0]
+€
+
+[OCR | BLOCK 8 | x0=9 y0=208 x1=1654 y1=238 | conf=62.8]
+% A u x >
+
+[OCR | BLOCK 9 | x0=385 y0=286 x1=927 y1=314 | conf=42.5]
+8 Pe
+
+[OCR | BLOCK 10 | x0=332 y0=290 x1=1558 y1=345 | conf=51.75]
+$ f > P
+
+[OCR | BLOCK 11 | x0=874 y0=354 x1=1067 y1=400 | conf=36.5]
+A ir
+
+[OCR | BLOCK 12 | x0=983 y0=408 x1=1091 y1=424 | conf=74.5]
+£ +
+
+[OCR | BLOCK 13 | x0=919 y0=464 x1=1232 y1=523 | conf=49.0]
+Ä A
+
+[OCR | BLOCK 14 | x0=0 y0=519 x1=1583 y1=545 | conf=56.5]
+7 !
+
+[OCR | BLOCK 15 | x0=264 y0=540 x1=1603 y1=586 | conf=64.0]
+en | De
+
+[OCR | BLOCK 16 | x0=0 y0=583 x1=1603 y1=616 | conf=72.11]
+7 — 510 q Flasche Az Leidenschaft für Qualität
+
+[OCR | BLOCK 17 | x0=452 y0=601 x1=1587 y1=638 | conf=76.75]
+g ıd Geschmack, 100
+
+[OCR | BLOCK 18 | x0=0 y0=637 x1=1579 y1=673 | conf=64.75]
+> n.G! =3,29 n.G.=5,
+
+[OCR | BLOCK 19 | x0=1385 y0=659 x1=1603 y1=671 | conf=66.33]
+Nur.In tellnehmenden Märkten.
+
+[OCR | BLOCK 20 | x0=0 y0=679 x1=1359 y1=745 | conf=35.4]
+2 Aa 4 ” AN.
+
+[OCR | BLOCK 21 | x0=88 y0=711 x1=534 y1=730 | conf=55.33]
+® ER fe
+
+[OCR | BLOCK 22 | x0=235 y0=755 x1=559 y1=784 | conf=49.0]
+AR 3% ©
+
+[OCR | BLOCK 23 | x0=36 y0=773 x1=1154 y1=806 | conf=37.6]
+2, Ba: Du SE AR
+
+[OCR | BLOCK 24 | x0=111 y0=798 x1=633 y1=830 | conf=32.0]
+Kr es N
+
+[OCR | BLOCK 25 | x0=355 y0=827 x1=1183 y1=848 | conf=50.75]
+er ’ 7 en
+
+[OCR | BLOCK 26 | x0=108 y0=847 x1=1209 y1=875 | conf=67.0]
+> 7 ee
+
+[OCR | BLOCK 27 | x0=56 y0=875 x1=1582 y1=920 | conf=55.5]
+a: REN 7 539
+
+[OCR | BLOCK 28 | x0=289 y0=974 x1=1584 y1=1009 | conf=81.85]
+ie > 5 Tulip Haltungs Wiesenhof Chicken & More Schmiede Haltungs- Bard Fackelspieß
+
+[OCR | BLOCK 29 | x0=464 y0=993 x1=1583 y1=1036 | conf=62.8]
+Driginal „an „AmBoss-Steaks“ Schweinebauch, herzhaft
+
+[OCR | BLOCK 30 | x0=193 y0=1021 x1=1340 y1=1088 | conf=67.2]
+BARON Bacon Scheiben Hähnchen-Oberkeulen-Steaks =
+
+[OCR | BLOCK 32 | x0=46 y0=1049 x1=1583 y1=1106 | conf=61.5]
+A SCHEIBEN I Tkg= 1,92 9 ‚ohne Knochen, mariniert Er, 2.B. 3819SB-Packung
+
+[OCR | BLOCK 31 | x0=175 y0=1053 x1=1054 y1=1081 | conf=82.75]
+] 125 g Packung Spicy Curry, mit Haut,
+
+[OCR | BLOCK 33 | x0=323 y0=1093 x1=1532 y1=1130 | conf=64.43]
+A n.61=1,99 Te 400 g SB-Packung Ikg=
+
+[OCR | BLOCK 34 | x0=710 y0=1113 x1=1583 y1=1147 | conf=68.0]
+_ı STEÄRS 1kg= 9,98 n. G!=6,42
+
+[OCR | BLOCK 35 | x0=279 y0=1144 x1=1316 y1=1180 | conf=42.25]
+Be EN | j
+
+[OCR | BLOCK 36 | x0=55 y0=1186 x1=1548 y1=1236 | conf=49.33]
+= An 235% 20% N 17%
+
+[OCR | BLOCK 37 | x0=639 y0=1230 x1=763 y1=1245 | conf=42.0]
+Ka 7
+
+[OCR | BLOCK 38 | x0=161 y0=1232 x1=1585 y1=1301 | conf=70.33]
+4 149 09 - - 29
+
+[OCR | BLOCK 39 | x0=620 y0=1267 x1=1244 y1=1302 | conf=36.0]
+ae SEE
+
+[OCR | BLOCK 40 | x0=463 y0=1316 x1=1277 y1=1356 | conf=45.5]
+m) re
+
+[OCR | BLOCK 41 | x0=1236 y0=1359 x1=1246 y1=1373 | conf=70.0]
+4
+
+[OCR | BLOCK 42 | x0=344 y0=1404 x1=1583 y1=1437 | conf=93.0]
+Wolf Berner Würstchen Costa Develey Senf
+
+[OCR | BLOCK 43 | x0=308 y0=1429 x1=1583 y1=1465 | conf=82.3]
+8/3er mit Emmentaler und Doraden oder Wolfsbarsch Filets | mittelscharf
+
+[OCR | BLOCK 44 | x0=328 y0=1454 x1=1583 y1=1486 | conf=93.11]
+umwickelt mit gegartem mit Haut, praktisch 200 mi Tube
+
+[OCR | BLOCK 45 | x0=316 y0=1476 x1=1054 y1=1524 | conf=60.0]
+Bauchspeck, versch! ee de h grätenfrei, 2er,
+
+[OCR | BLOCK 46 | x0=159 y0=1494 x1=1307 y1=1531 | conf=53.17]
+ag orten T/ Ve tiefgef NS
+
+[OCR | BLOCK 47 | x0=145 y0=1502 x1=1308 y1=1551 | conf=73.4]
+BERNER 250 g Packung h C T A Pack x
+
+[OCR | BLOCK 48 | x0=437 y0=1546 x1=1499 y1=1567 | conf=66.4]
+kg = 9,96 äh » 1kg = 26,62-29,95 : y
+
+[OCR | BLOCK 49 | x0=147 y0=1551 x1=1325 y1=1599 | conf=43.2]
+er] n.6!=3,79 € En Fr
+
+[OCR | BLOCK 50 | x0=619 y0=1593 x1=891 y1=1634 | conf=49.67]
+; com 4
+
+[OCR | BLOCK 51 | x0=439 y0=1602 x1=1558 y1=1658 | conf=57.4]
+38% u 20% | 48%
+
+[OCR | BLOCK 52 | x0=243 y0=1650 x1=313 y1=1667 | conf=32.0]
+>
+
+[OCR | BLOCK 53 | x0=463 y0=1667 x1=1585 y1=1728 | conf=71.8]
+19 Zu 599 8 29
+
+[OCR | BLOCK 54 | x0=653 y0=1696 x1=713 y1=1746 | conf=47.0]
+:9
+
+[OCR | BLOCK 55 | x0=463 y0=1746 x1=1586 y1=1766 | conf=56.8]
+. 39 +9 eo 1459
+
+[OCR | BLOCK 56 | x0=419 y0=1831 x1=1584 y1=1868 | conf=70.8]
+Gut & Günstig % Hellmann's
+
+[OCR | BLOCK 57 | x0=209 y0=1864 x1=1583 y1=1889 | conf=93.29]
+= Curry Gewürz Ketchup Tomato Ketchup Mayonnaise
+
+[OCR | BLOCK 58 | x0=404 y0=1874 x1=1583 y1=1926 | conf=91.0]
+875 mi Flasche \ 500 mi Flasche 399 verschiedene Sorten
+
+[OCR | BLOCK 59 | x0=226 y0=1913 x1=1583 y1=1935 | conf=72.25]
+6% 430/330 mi/g Flasche/Glas
+
+[OCR | BLOCK 60 | x0=432 y0=1918 x1=1583 y1=1960 | conf=58.4]
+1.672199 E 1kg = 6,95/9,06
+
+[OCR | BLOCK 61 | x0=279 y0=1957 x1=1583 y1=1976 | conf=61.5]
+7 n.G!=3,99
+
+[OCR | BLOCK 62 | x0=749 y0=1985 x1=1390 y1=2006 | conf=58.67]
+en | 39
+
+[OCR | BLOCK 63 | x0=770 y0=2003 x1=855 y1=2018 | conf=32.0]
+|
+
+[OCR | BLOCK 64 | x0=208 y0=2021 x1=212 y1=2028 | conf=75.0]
+b
+
+[OCR | BLOCK 65 | x0=712 y0=2032 x1=1270 y1=2051 | conf=37.0]
+\ rn
+
+[OCR | BLOCK 66 | x0=207 y0=2049 x1=1520 y1=2095 | conf=65.33]
+= 25% 39% — Av biszu
+
+[OCR | BLOCK 67 | x0=253 y0=2068 x1=1369 y1=2102 | conf=40.0]
+Ba VEGANR
+
+[OCR | BLOCK 68 | x0=423 y0=2095 x1=1057 y1=2194 | conf=82.67]
+19 1 09
+
+[OCR | BLOCK 69 | x0=498 y0=2177 x1=531 y1=2196 | conf=66.0]
+19
+
+
+===== SEITE 11 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 983 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1532 y0=25 x1=1547 y1=45 | conf=45.0]
+—
+
+[OCR | BLOCK 3 | x0=3 y0=165 x1=1626 y1=316 | conf=72.67]
+; NBIER |.
+
+[OCR | BLOCK 2 | x0=0 y0=197 x1=1103 y1=235 | conf=61.8]
+= Un. ur Er 4
+
+[OCR | BLOCK 4 | x0=155 y0=293 x1=384 y1=345 | conf=38.0]
+„ER DER
+
+[OCR | BLOCK 5 | x0=112 y0=403 x1=1134 y1=420 | conf=63.0]
+x | \
+
+[OCR | BLOCK 6 | x0=125 y0=416 x1=998 y1=435 | conf=49.33]
+\ . Br
+
+[OCR | BLOCK 7 | x0=947 y0=422 x1=1610 y1=461 | conf=36.0]
+: A:
+
+[OCR | BLOCK 8 | x0=836 y0=464 x1=1213 y1=485 | conf=55.5]
+J; u as Kim.
+
+[OCR | BLOCK 9 | x0=1485 y0=485 x1=1487 y1=529 | conf=57.0]
+|
+
+[OCR | BLOCK 10 | x0=419 y0=507 x1=1347 y1=537 | conf=30.33]
+89 [8 EZ
+
+[OCR | BLOCK 11 | x0=163 y0=621 x1=1516 y1=649 | conf=78.8]
+> II ab 2 Kästen
+
+[OCR | BLOCK 12 | x0=574 y0=645 x1=1277 y1=683 | conf=44.5]
+war N
+
+[OCR | BLOCK 13 | x0=679 y0=678 x1=1295 y1=721 | conf=54.0]
+/ E75 KAPUZINE]
+
+[OCR | BLOCK 14 | x0=671 y0=713 x1=1645 y1=746 | conf=33.5]
+er AU
+
+[OCR | BLOCK 15 | x0=305 y0=720 x1=1564 y1=799 | conf=55.75]
+RR NAPUZINE re 09
+
+[OCR | BLOCK 16 | x0=208 y0=756 x1=1054 y1=835 | conf=55.67]
+ER, MWlikhier 09
+
+[OCR | BLOCK 17 | x0=1334 y0=823 x1=1352 y1=852 | conf=94.0]
+ie
+
+[OCR | BLOCK 18 | x0=959 y0=860 x1=1055 y1=885 | conf=78.5]
+eo 1699
+
+[OCR | BLOCK 19 | x0=91 y0=972 x1=1538 y1=1013 | conf=57.67]
+ee Rockstar er
+
+[OCR | BLOCK 20 | x0=486 y0=1001 x1=1653 y1=1050 | conf=51.4]
+hie — Rue rır —
+
+[OCR | BLOCK 21 | x0=76 y0=1033 x1=1055 y1=1081 | conf=49.0]
+| me ler; m
+
+[OCR | BLOCK 22 | x0=92 y0=1058 x1=1419 y1=1112 | conf=60.6]
+Ve Liter +0,25 Pfand Er
+
+[OCR | BLOCK 24 | x0=237 y0=1097 x1=1369 y1=1149 | conf=61.75]
+DEN EN +0,22 Pfand 2 n.G?= 0,89 Koi)
+
+[OCR | BLOCK 23 | x0=497 y0=1101 x1=787 y1=1112 | conf=64.0]
+un h
+
+[OCR | BLOCK 25 | x0=126 y0=1153 x1=302 y1=1165 | conf=60.0]
+: \
+
+[OCR | BLOCK 26 | x0=771 y0=1163 x1=1412 y1=1191 | conf=68.0]
+- A
+
+[OCR | BLOCK 27 | x0=335 y0=1190 x1=1557 y1=1222 | conf=43.0]
+MA, unon 50% ei 3%
+
+[OCR | BLOCK 29 | x0=688 y0=1236 x1=1585 y1=1337 | conf=65.67]
+ar: 0% 19
+
+[OCR | BLOCK 28 | x0=1127 y0=1251 x1=1194 y1=1270 | conf=70.0]
+Nic Nac’s
+
+[OCR | BLOCK 30 | x0=1126 y0=1296 x1=1229 y1=1322 | conf=94.0]
+XL Fun Pack
+
+[OCR | BLOCK 31 | x0=757 y0=1312 x1=1587 y1=1345 | conf=46.0]
+Zr .+9 .29
+
+[OCR | BLOCK 32 | x0=112 y0=1404 x1=1057 y1=1435 | conf=84.5]
+pe: Gazi Grill- und Pfannenkäse Milram Gewürz Quark
+
+[OCR | BLOCK 33 | x0=126 y0=1419 x1=1352 y1=1450 | conf=71.86]
+GAZI 3 hiedene S hiedene S ET
+
+[OCR | BLOCK 34 | x0=504 y0=1437 x1=1350 y1=1494 | conf=49.0]
+zu U 4
+
+[OCR | BLOCK 35 | x0=659 y0=1497 x1=1279 y1=1509 | conf=37.5]
+; 2
+
+[OCR | BLOCK 36 | x0=205 y0=1524 x1=1187 y1=1543 | conf=65.75]
+GRILL- UND a |
+
+[OCR | BLOCK 37 | x0=96 y0=1534 x1=1545 y1=1613 | conf=55.83]
+- PFANNENKÄSE 33 ol 1kg=535 |
+
+[OCR | BLOCK 38 | x0=136 y0=1575 x1=1034 y1=1594 | conf=60.75]
+x 77 = n.G!=],
+
+[OCR | BLOCK 39 | x0=91 y0=1585 x1=856 y1=1617 | conf=51.33]
+EN APP-PREIS? nm
+
+[OCR | BLOCK 40 | x0=129 y0=1612 x1=1511 y1=1644 | conf=67.25]
+N ARE. 33%, 3
+
+[OCR | BLOCK 41 | x0=84 y0=1619 x1=1546 y1=1672 | conf=65.67]
+N; FE 33%
+
+[OCR | BLOCK 42 | x0=136 y0=1662 x1=1585 y1=1742 | conf=63.6]
+RS 173 \ 88 ge j 09 Tuc Cracker 09
+
+[OCR | BLOCK 43 | x0=299 y0=1679 x1=845 y1=1747 | conf=46.33]
+099 Re: une
+
+[OCR | BLOCK 44 | x0=444 y0=1742 x1=1328 y1=1780 | conf=59.71]
+Fre 1kg= 9,90, n. G! = 0,99
+
+[OCR | BLOCK 45 | x0=1115 y0=1798 x1=1273 y1=1811 | conf=37.5]
+a Sa
+
+[OCR | BLOCK 46 | x0=769 y0=1804 x1=1401 y1=1837 | conf=51.25]
+‚MEHR UNIIEEN —MEHR SDAREN
+
+[OCR | BLOCK 47 | x0=191 y0=1832 x1=811 y1=1866 | conf=62.75]
+AS Feinkost popp ’
+
+[OCR | BLOCK 48 | x0=135 y0=1861 x1=1341 y1=1907 | conf=67.67]
+> + *
+
+[OCR | BLOCK 51 | x0=81 y0=1874 x1=1310 y1=1973 | conf=38.33]
+ER 2 et
+
+[OCR | BLOCK 49 | x0=213 y0=1891 x1=527 y1=1906 | conf=66.33]
+" > verschiedene
+
+[OCR | BLOCK 50 | x0=474 y0=1891 x1=1182 y1=1939 | conf=59.0]
+Sortei IRTIER |
+
+[OCR | BLOCK 52 | x0=59 y0=1962 x1=1548 y1=2020 | conf=52.67]
+Br? 1.612199 BEC _ab 6 Dosen
+
+[OCR | BLOCK 53 | x0=407 y0=2019 x1=755 y1=2052 | conf=87.25]
+APP-PREIS? Gösser Natur Radler
+
+[OCR | BLOCK 54 | x0=168 y0=2035 x1=1310 y1=2097 | conf=75.5]
+ae / verschiedene Sorten, N Natur
+
+[OCR | BLOCK 55 | x0=125 y0=2046 x1=1568 y1=2114 | conf=64.86]
+- 20% I | „mi, | 179
+
+[OCR | BLOCK 56 | x0=440 y0=2081 x1=1436 y1=2153 | conf=64.12]
+69 0,5 (fer Dose 89 «HR N .
+
+[OCR | BLOCK 57 | x0=265 y0=2103 x1=1569 y1=2201 | conf=56.33]
+1% 112178,n.G1=1,09 100 u; Ko 1:09
+
+[OCR | BLOCK 58 | x0=66 y0=2174 x1=1359 y1=2198 | conf=46.0]
+£ a Bo 29 — Se
+
+[OCR | BLOCK 59 | x0=71 y0=2304 x1=1583 y1=2328 | conf=84.0]
+509_28_2026_E EC_IWEST = niedrigster Gesamtpreis der letzten 30 Tage Seite 9
+
+
+===== SEITE 12 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1157 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 2 | x0=243 y0=18 x1=1291 y1=65 | conf=72.5]
+Fleisch A
+
+[OCR | BLOCK 1 | x0=293 y0=18 x1=301 y1=26 | conf=79.0]
+.
+
+[OCR | BLOCK 4 | x0=250 y0=76 x1=1556 y1=128 | conf=34.5]
+Ss er re R
+
+[OCR | BLOCK 3 | x0=276 y0=76 x1=432 y1=97 | conf=60.5]
+k an
+
+[OCR | BLOCK 5 | x0=181 y0=110 x1=1401 y1=159 | conf=39.6]
+N a % TE 12)
+
+[OCR | BLOCK 6 | x0=433 y0=140 x1=1294 y1=191 | conf=36.0]
+a rt er N,
+
+[OCR | BLOCK 7 | x0=1160 y0=171 x1=1412 y1=201 | conf=51.33]
+a MR 7
+
+[OCR | BLOCK 8 | x0=304 y0=188 x1=1282 y1=238 | conf=35.0]
+er ?
+
+[OCR | BLOCK 9 | x0=279 y0=226 x1=1502 y1=268 | conf=63.4]
+\ ET N N f
+
+[OCR | BLOCK 10 | x0=425 y0=240 x1=1368 y1=286 | conf=49.0]
+WW ji Tran x
+
+[OCR | BLOCK 11 | x0=359 y0=256 x1=1161 y1=319 | conf=50.5]
+f >
+
+[OCR | BLOCK 12 | x0=380 y0=312 x1=1341 y1=329 | conf=70.0]
+N \
+
+[OCR | BLOCK 13 | x0=10 y0=320 x1=558 y1=359 | conf=35.5]
+z NE,
+
+[OCR | BLOCK 14 | x0=7 y0=387 x1=753 y1=408 | conf=53.0]
+bi" \ PN
+
+[OCR | BLOCK 15 | x0=548 y0=408 x1=777 y1=440 | conf=73.0]
+# u
+
+[OCR | BLOCK 16 | x0=998 y0=452 x1=1060 y1=475 | conf=63.0]
+Hallungs
+
+[OCR | BLOCK 17 | x0=844 y0=488 x1=1008 y1=500 | conf=39.0]
+- u
+
+[OCR | BLOCK 18 | x0=919 y0=543 x1=1583 y1=578 | conf=90.33]
+Hähnchenbrustfilet Haltungs Schweinesaft-/Krustenbraten
+
+[OCR | BLOCK 19 | x0=541 y0=567 x1=1588 y1=598 | conf=68.71]
+3 natur, Hkl.A,100g, aus der Schulter, 100.9
+
+[OCR | BLOCK 20 | x0=700 y0=597 x1=1071 y1=632 | conf=54.0]
+>> an
+
+[OCR | BLOCK 21 | x0=92 y0=667 x1=895 y1=698 | conf=55.33]
+N Be Br?
+
+[OCR | BLOCK 22 | x0=89 y0=688 x1=370 y1=697 | conf=69.33]
+2 = -
+
+[OCR | BLOCK 23 | x0=213 y0=689 x1=985 y1=727 | conf=40.33]
+yı\ A) =
+
+[OCR | BLOCK 24 | x0=296 y0=711 x1=1521 y1=757 | conf=52.33]
+FAN 11% Br
+
+[OCR | BLOCK 25 | x0=80 y0=758 x1=96 y1=768 | conf=81.0]
+=
+
+[OCR | BLOCK 26 | x0=65 y0=776 x1=1390 y1=830 | conf=50.75]
+WITZ 4 | Sale
+
+[OCR | BLOCK 27 | x0=368 y0=815 x1=705 y1=853 | conf=32.5]
+Fe Pr
+
+[OCR | BLOCK 28 | x0=627 y0=871 x1=1297 y1=904 | conf=63.5]
+A eo 169 ;
+
+[OCR | BLOCK 29 | x0=348 y0=973 x1=1583 y1=1009 | conf=86.2]
+Holzfällergrillscheiben Haltungs Schweineschäufele Deutsche Rinderbeinscheiben
+
+[OCR | BLOCK 30 | x0=317 y0=1002 x1=1583 y1=1025 | conf=82.67]
+aus der Schweineschulter, a mit Schwarte mit Markknochen, 100.g
+
+[OCR | BLOCK 31 | x0=313 y0=1022 x1=1583 y1=1050 | conf=78.83]
+grillfertig mariniert, 100 9 100g n.G!=0,99
+
+[OCR | BLOCK 32 | x0=362 y0=1049 x1=1245 y1=1065 | conf=77.0]
+auch In natur erhältlich, N
+
+[OCR | BLOCK 33 | x0=421 y0=1057 x1=937 y1=1092 | conf=65.67]
+1009=0,59€ = >
+
+[OCR | BLOCK 34 | x0=211 y0=1114 x1=1430 y1=1129 | conf=43.5]
+zu 5 u Me
+
+[OCR | BLOCK 35 | x0=68 y0=1187 x1=1547 y1=1223 | conf=69.33]
+=\ AKTION Nee AKTION EN AKTION
+
+[OCR | BLOCK 37 | x0=723 y0=1206 x1=1434 y1=1265 | conf=38.2]
+& FA » is =
+
+[OCR | BLOCK 36 | x0=71 y0=1208 x1=1129 y1=1228 | conf=73.5]
+= LE « F
+
+[OCR | BLOCK 39 | x0=604 y0=1224 x1=905 y1=1292 | conf=33.0]
+eV
+
+[OCR | BLOCK 38 | x0=729 y0=1240 x1=1395 y1=1257 | conf=50.5]
+© £
+
+[OCR | BLOCK 40 | x0=104 y0=1400 x1=1598 y1=1437 | conf=88.0]
+SB-Fleisch Schweinebauchscheiben Hähnchenunterschenkel Rinderhackfleisch
+
+[OCR | BLOCK 41 | x0=336 y0=1435 x1=1597 y1=1454 | conf=90.09]
+natur, 600 g SB-Packung gewürzt, verschiedene Gewichte 800 g XXL SB-Packung
+
+[OCR | BLOCK 42 | x0=453 y0=1458 x1=1598 y1=1477 | conf=72.0]
+1kg= 8,32 1kg= 12,49
+
+[OCR | BLOCK 43 | x0=80 y0=1475 x1=1214 y1=1503 | conf=60.8]
+form or na SB-Packung ana
+
+[OCR | BLOCK 44 | x0=79 y0=1489 x1=1070 y1=1527 | conf=67.67]
+> 1kg =7,58
+
+[OCR | BLOCK 45 | x0=973 y0=1523 x1=1070 y1=1542 | conf=42.0]
+n.G1=5,95
+
+[OCR | BLOCK 46 | x0=671 y0=1606 x1=680 y1=1615 | conf=83.0]
+r
+
+[OCR | BLOCK 47 | x0=670 y0=1619 x1=1023 y1=1649 | conf=53.5]
+\ 36%
+
+[OCR | BLOCK 50 | x0=395 y0=1667 x1=1418 y1=1765 | conf=38.67]
+4 a LEER
+
+[OCR | BLOCK 48 | x0=115 y0=1673 x1=1281 y1=1693 | conf=52.0]
+Fr Sa 5 4 -
+
+[OCR | BLOCK 49 | x0=716 y0=1691 x1=1434 y1=1713 | conf=42.0]
+> DEIN
+
+[OCR | BLOCK 51 | x0=1212 y0=1757 x1=1265 y1=1781 | conf=38.0]
+Fr
+
+[OCR | BLOCK 53 | x0=60 y0=1886 x1=1327 y1=1968 | conf=81.0]
+Mit jedem ER
+
+[OCR | BLOCK 52 | x0=717 y0=1886 x1=1505 y1=1924 | conf=50.0]
+* ERDE FEN
+
+[OCR | BLOCK 54 | x0=376 y0=1947 x1=1436 y1=1998 | conf=50.67]
+PT E IR!
+
+[OCR | BLOCK 55 | x0=59 y0=1986 x1=216 y1=2022 | conf=95.0]
+Einkauf
+
+[OCR | BLOCK 56 | x0=61 y0=2028 x1=1315 y1=2085 | conf=58.5]
+m . + RR
+
+[OCR | BLOCK 57 | x0=1196 y0=2059 x1=1406 y1=2081 | conf=35.0]
+SR a
+
+[OCR | BLOCK 58 | x0=336 y0=2066 x1=1019 y1=2109 | conf=78.86]
+up | NUR am Mittwoch bei EDEKA!
+
+[OCR | BLOCK 59 | x0=347 y0=2066 x1=1569 y1=2142 | conf=43.5]
+au X
+
+[OCR | BLOCK 60 | x0=337 y0=2129 x1=1410 y1=2153 | conf=64.0]
+/ Bratwurstgehäck
+
+[OCR | BLOCK 62 | x0=197 y0=2133 x1=1517 y1=2201 | conf=69.82]
+— 3 s deftig gewürzt, 100 9, n. G!= 0,59 =
+
+[OCR | BLOCK 61 | x0=228 y0=2140 x1=1410 y1=2178 | conf=88.8]
+2 4 oder Thüringer Mett
+
+[OCR | BLOCK 63 | x0=642 y0=2269 x1=1011 y1=2304 | conf=86.4]
+Nur In Märkten. Abbildungen ähnlich.
+
+[OCR | BLOCK 64 | x0=71 y0=2296 x1=1583 y1=2331 | conf=72.69]
+Seite 10 "n. 6. = niedrigster Gesamtpreis der letzten 30 Tage S1O_28_2026_E EC_IWEST
+
+
+===== SEITE 13 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 823 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=573 y0=306 x1=1203 y1=346 | conf=50.75]
+- 2 = fi
+
+[OCR | BLOCK 2 | x0=500 y0=347 x1=635 y1=386 | conf=60.67]
+| 7 2
+
+[OCR | BLOCK 3 | x0=493 y0=404 x1=565 y1=417 | conf=67.0]
+Th
+
+[OCR | BLOCK 4 | x0=976 y0=419 x1=1193 y1=441 | conf=57.5]
+\ =‘
+
+[OCR | BLOCK 5 | x0=482 y0=452 x1=1359 y1=533 | conf=32.0]
+ar
+
+[OCR | BLOCK 6 | x0=513 y0=491 x1=926 y1=524 | conf=59.25]
+y =. S T
+
+[OCR | BLOCK 7 | x0=343 y0=537 x1=1041 y1=562 | conf=37.0]
+- Mn
+
+[OCR | BLOCK 8 | x0=1297 y0=583 x1=1329 y1=596 | conf=35.0]
+N
+
+[OCR | BLOCK 10 | x0=638 y0=654 x1=1126 y1=752 | conf=74.0]
+BAUERNSCHÄTZE 1
+
+[OCR | BLOCK 9 | x0=441 y0=667 x1=921 y1=688 | conf=55.67]
+= 7 .
+
+[OCR | BLOCK 11 | x0=286 y0=715 x1=1337 y1=752 | conf=58.5]
+N =
+
+[OCR | BLOCK 12 | x0=992 y0=843 x1=1025 y1=854 | conf=34.0]
+56772
+
+[OCR | BLOCK 13 | x0=441 y0=896 x1=1203 y1=908 | conf=40.0]
+| BB.
+
+[OCR | BLOCK 14 | x0=595 y0=918 x1=962 y1=972 | conf=58.0]
+r N N
+
+[OCR | BLOCK 15 | x0=634 y0=920 x1=943 y1=987 | conf=62.0]
+Ar N
+
+[OCR | BLOCK 16 | x0=905 y0=963 x1=908 y1=972 | conf=92.0]
+|
+
+[OCR | BLOCK 17 | x0=853 y0=1018 x1=1050 y1=1077 | conf=44.0]
+Ye “4
+
+[OCR | BLOCK 18 | x0=750 y0=1073 x1=895 y1=1141 | conf=46.0]
+sn
+
+[OCR | BLOCK 19 | x0=750 y0=1124 x1=895 y1=1161 | conf=65.0]
+| Pi a
+
+[OCR | BLOCK 20 | x0=170 y0=1257 x1=1412 y1=1322 | conf=87.57]
+Mehr Regionalität* Mehr Genuss & Mehr Tierwohl
+
+[OCR | BLOCK 21 | x0=170 y0=1299 x1=1518 y1=1323 | conf=94.9]
+Langfristige Partnerschaft zu Hochwertige Qualität, die Für mehr Platz, Außenklima
+
+[OCR | BLOCK 22 | x0=170 y0=1327 x1=1444 y1=1351 | conf=95.88]
+regionalen Höfen. nach Heimat schmeckt. und hohe Standards.
+
+[OCR | BLOCK 23 | x0=73 y0=1404 x1=935 y1=1440 | conf=85.33]
+Haltungs Putenoberkeule Haltungs
+
+[OCR | BLOCK 24 | x0=1153 y0=1439 x1=1378 y1=1475 | conf=78.0]
+AB DONNERSTAG
+
+[OCR | BLOCK 25 | x0=1190 y0=1465 x1=1345 y1=1506 | conf=96.0]
+ERHÄLTLICH
+
+[OCR | BLOCK 26 | x0=1434 y0=1544 x1=1437 y1=1547 | conf=75.0]
+-
+
+[OCR | BLOCK 27 | x0=564 y0=1619 x1=1560 y1=1653 | conf=43.8]
+> ER N ee 15%
+
+[OCR | BLOCK 29 | x0=618 y0=1631 x1=1075 y1=1761 | conf=69.5]
+0 e
+
+[OCR | BLOCK 28 | x0=697 y0=1631 x1=1291 y1=1710 | conf=63.0]
+99 2
+
+[OCR | BLOCK 30 | x0=753 y0=1735 x1=791 y1=1759 | conf=94.0]
+19
+
+[OCR | BLOCK 31 | x0=80 y0=1831 x1=1585 y1=1887 | conf=81.5]
+Haltungs Hintere Schweinehaxe Haltungs ERSTAG Schweinekammsteaks
+
+[OCR | BLOCK 32 | x0=77 y0=1844 x1=1461 y1=1899 | conf=79.89]
+_ form frisch, 100 9 AB DONN natur 100
+
+[OCR | BLOCK 33 | x0=265 y0=1881 x1=1301 y1=1931 | conf=64.0]
+ee ERHÄLTLICH
+
+[OCR | BLOCK 34 | x0=468 y0=1911 x1=609 y1=1963 | conf=90.0]
+RHÄLTLICH
+
+[OCR | BLOCK 35 | x0=361 y0=1935 x1=1299 y1=1985 | conf=55.0]
+Ei E =>
+
+[OCR | BLOCK 36 | x0=970 y0=1970 x1=1276 y1=2001 | conf=34.0]
+u
+
+[OCR | BLOCK 37 | x0=1502 y0=2049 x1=1557 y1=2074 | conf=43.0]
+35%
+
+[OCR | BLOCK 38 | x0=732 y0=2080 x1=1584 y1=2157 | conf=62.33]
+Mi zu 19
+
+[OCR | BLOCK 39 | x0=1476 y0=2095 x1=1587 y1=2196 | conf=71.0]
+1 =
+
+[OCR | BLOCK 40 | x0=161 y0=2238 x1=1445 y1=2255 | conf=91.79]
+"Wir setzen auf Klasse statt Masse: Für unsere regionalen Bauernschätze-Produkte arbeiten wir mit streng ausgewählten, heimischen Landwirten zusammen. edeka.de/bauernschätze
+
+[OCR | BLOCK 41 | x0=642 y0=2282 x1=1011 y1=2297 | conf=92.4]
+Nur In Märkten. Abbildungen ähnlich.
+
+[OCR | BLOCK 42 | x0=188 y0=2300 x1=1010 y1=2328 | conf=90.11]
+EC_IWEST_MFRA_OPFALZ !n.G. = niedrigster Gesamtpreis der letzten 30 Tage
+
+
+===== SEITE 14 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 952 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=504 y0=234 x1=1153 y1=306 | conf=91.0]
+BAUERNSCHÄTZE
+
+[OCR | BLOCK 2 | x0=884 y0=331 x1=1104 y1=365 | conf=70.0]
+P 7
+
+[OCR | BLOCK 3 | x0=857 y0=359 x1=1065 y1=395 | conf=38.5]
+va HM
+
+[OCR | BLOCK 4 | x0=917 y0=392 x1=1244 y1=413 | conf=43.75]
+yore % 7 u
+
+[OCR | BLOCK 5 | x0=1260 y0=412 x1=1293 y1=432 | conf=60.0]
+Ra
+
+[OCR | BLOCK 6 | x0=883 y0=424 x1=1061 y1=450 | conf=43.0]
+OT BE
+
+[OCR | BLOCK 7 | x0=980 y0=450 x1=1166 y1=475 | conf=37.5]
+Pr, dr
+
+[OCR | BLOCK 8 | x0=169 y0=469 x1=1134 y1=512 | conf=66.25]
+Mehr Regionalität* % N
+
+[OCR | BLOCK 9 | x0=170 y0=509 x1=1336 y1=541 | conf=76.2]
+Langfristige Partnerschaft zu N 77
+
+[OCR | BLOCK 10 | x0=169 y0=541 x1=1260 y1=571 | conf=77.33]
+regionalen Höfen. Sr
+
+[OCR | BLOCK 11 | x0=818 y0=592 x1=888 y1=648 | conf=77.0]
+CH
+
+[OCR | BLOCK 12 | x0=866 y0=630 x1=1369 y1=648 | conf=49.0]
+Ä u Me
+
+[OCR | BLOCK 13 | x0=87 y0=640 x1=337 y1=703 | conf=90.67]
+Y Mehr Genuss
+
+[OCR | BLOCK 14 | x0=167 y0=666 x1=1048 y1=709 | conf=87.8]
+Hochwertige Qualität, die N N
+
+[OCR | BLOCK 15 | x0=167 y0=698 x1=1605 y1=768 | conf=87.6]
+nach Heimat schmeckt. 31% |
+
+[OCR | BLOCK 16 | x0=1133 y0=747 x1=1287 y1=774 | conf=50.0]
+ge >
+
+[OCR | BLOCK 17 | x0=1120 y0=784 x1=1333 y1=817 | conf=63.33]
+5 2 u:
+
+[OCR | BLOCK 18 | x0=87 y0=806 x1=359 y1=869 | conf=88.0]
+Y Mehr Tierwohl
+
+[OCR | BLOCK 19 | x0=170 y0=845 x1=465 y1=867 | conf=94.0]
+Für mehr Platz, Außenklima
+
+[OCR | BLOCK 20 | x0=170 y0=873 x1=1584 y1=901 | conf=82.6]
+und hohe Standards. . 29
+
+[OCR | BLOCK 21 | x0=1369 y0=908 x1=1401 y1=926 | conf=37.0]
+2,19
+
+[OCR | BLOCK 22 | x0=682 y0=977 x1=1584 y1=1000 | conf=93.0]
+Puten Wiener Haltungs Räucherlinge
+
+[OCR | BLOCK 23 | x0=96 y0=997 x1=1584 y1=1022 | conf=79.4]
+form 100 form u 1009
+
+[OCR | BLOCK 24 | x0=521 y0=1019 x1=1134 y1=1045 | conf=37.5]
+9 Tr
+
+[OCR | BLOCK 25 | x0=1067 y0=1045 x1=1182 y1=1060 | conf=43.0]
+TE
+
+[OCR | BLOCK 26 | x0=472 y0=1055 x1=1369 y1=1129 | conf=41.67]
+Fr NE u
+
+[OCR | BLOCK 27 | x0=377 y0=1106 x1=379 y1=1108 | conf=33.0]
+j
+
+[OCR | BLOCK 28 | x0=374 y0=1108 x1=1446 y1=1123 | conf=60.5]
+f =
+
+[OCR | BLOCK 29 | x0=220 y0=1132 x1=1494 y1=1159 | conf=56.6]
+y } I Sul >
+
+[OCR | BLOCK 30 | x0=713 y0=1141 x1=1170 y1=1240 | conf=53.67]
+21% 2 ‘ii
+
+[OCR | BLOCK 31 | x0=686 y0=1236 x1=794 y1=1335 | conf=96.0]
+1 29
+
+[OCR | BLOCK 32 | x0=673 y0=1407 x1=1584 y1=1441 | conf=80.0]
+Schinkenspeck Wachalderschinken
+
+[OCR | BLOCK 33 | x0=96 y0=1425 x1=1587 y1=1474 | conf=80.33]
+Ela 1009 gegart, saftig, 100 9
+
+[OCR | BLOCK 34 | x0=375 y0=1457 x1=1584 y1=1505 | conf=54.75]
+j = 5 n.G!=2,79
+
+[OCR | BLOCK 35 | x0=523 y0=1498 x1=652 y1=1533 | conf=36.0]
+13
+
+[OCR | BLOCK 36 | x0=1025 y0=1536 x1=1069 y1=1555 | conf=56.0]
+FR
+
+[OCR | BLOCK 38 | x0=146 y0=1566 x1=1558 y1=1698 | conf=64.33]
+> 31% 18%
+
+[OCR | BLOCK 37 | x0=628 y0=1590 x1=1457 y1=1622 | conf=44.75]
+En i en f
+
+[OCR | BLOCK 39 | x0=1110 y0=1802 x1=1133 y1=1816 | conf=42.0]
+“er
+
+[OCR | BLOCK 40 | x0=78 y0=1835 x1=1584 y1=1881 | conf=72.86]
+Haltungs Schinkenfleischwurst im Ring Haltungs R aid
+
+[OCR | BLOCK 41 | x0=102 y0=1862 x1=1583 y1=1897 | conf=79.8]
+HA 2 ‚grob, mit viel magerer Einlage jerwurst im Ring
+
+[OCR | BLOCK 42 | x0=640 y0=1889 x1=1461 y1=1904 | conf=62.0]
+u 100
+
+[OCR | BLOCK 43 | x0=284 y0=1954 x1=1025 y1=1990 | conf=63.75]
+| 3 3 A
+
+[OCR | BLOCK 44 | x0=200 y0=2004 x1=213 y1=2009 | conf=39.0]
+-
+
+[OCR | BLOCK 45 | x0=182 y0=2017 x1=235 y1=2054 | conf=41.5]
+# #
+
+[OCR | BLOCK 46 | x0=115 y0=2047 x1=1560 y1=2083 | conf=58.75]
+— 16% } 26%
+
+[OCR | BLOCK 47 | x0=161 y0=2238 x1=1445 y1=2255 | conf=91.32]
+"Wir setzen auf Klasse statt Masse: Für unsere regionalen Bauernschätze-Produkte arbeiten wir mit streng ausgewählten, heimischen Landwirten zusammen. edeka.de/bauernschätze
+
+[OCR | BLOCK 48 | x0=642 y0=2282 x1=1011 y1=2297 | conf=81.0]
+Nur In teilnehmenden Märkten. Abbildungen ähnlich.
+
+[OCR | BLOCK 49 | x0=71 y0=2298 x1=1583 y1=2329 | conf=81.45]
+Seite 12 = niedrigster Gesamtpreis der letzten 30 Tage 512_28_2026_E EC_IWEST
+
+
+===== SEITE 15 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1248 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=950 y0=8 x1=959 y1=13 | conf=70.0]
+-
+
+[OCR | BLOCK 2 | x0=1306 y0=18 x1=1404 y1=55 | conf=96.0]
+Wurst
+
+[OCR | BLOCK 3 | x0=335 y0=136 x1=1189 y1=179 | conf=63.0]
+zn 4 ge |
+
+[OCR | BLOCK 4 | x0=363 y0=170 x1=1364 y1=273 | conf=37.25]
+>» x ha »
+
+[OCR | BLOCK 6 | x0=353 y0=269 x1=1504 y1=339 | conf=60.12]
+ri | I Wa A N \ he
+
+[OCR | BLOCK 5 | x0=336 y0=272 x1=429 y1=279 | conf=42.5]
+L 1
+
+[OCR | BLOCK 7 | x0=586 y0=331 x1=688 y1=346 | conf=63.67]
+N | m
+
+[OCR | BLOCK 8 | x0=414 y0=376 x1=1290 y1=423 | conf=59.0]
+4 | \ _
+
+[OCR | BLOCK 10 | x0=469 y0=424 x1=748 y1=466 | conf=87.33]
+Frische. Mehr drin.
+
+[OCR | BLOCK 9 | x0=785 y0=427 x1=795 y1=437 | conf=93.0]
++
+
+[OCR | BLOCK 11 | x0=183 y0=471 x1=1382 y1=511 | conf=54.6]
+m N m = va
+
+[OCR | BLOCK 12 | x0=1190 y0=503 x1=1394 y1=537 | conf=63.0]
+"ya
+
+[OCR | BLOCK 14 | x0=143 y0=513 x1=1584 y1=631 | conf=71.8]
+@ 2 zart geräuchert, Kaminwurzen
+
+[OCR | BLOCK 13 | x0=958 y0=543 x1=1584 y1=582 | conf=88.5]
+Knackwurst Südtiroler
+
+[OCR | BLOCK 16 | x0=146 y0=575 x1=1583 y1=653 | conf=49.0]
+h on n.61=1,59 j! 100g
+
+[OCR | BLOCK 15 | x0=878 y0=601 x1=1584 y1=621 | conf=94.6]
+deftig gewürzt, herzhaft, typisch Südtirol
+
+[OCR | BLOCK 17 | x0=261 y0=661 x1=984 y1=727 | conf=59.0]
+° Tem
+
+[OCR | BLOCK 18 | x0=1182 y0=694 x1=1339 y1=730 | conf=31.0]
+EEE
+
+[OCR | BLOCK 19 | x0=718 y0=708 x1=1575 y1=759 | conf=40.0]
+er} a >
+
+[OCR | BLOCK 20 | x0=868 y0=756 x1=1389 y1=885 | conf=74.5]
+0 89 | ke:
+
+[OCR | BLOCK 23 | x0=1332 y0=787 x1=1606 y1=934 | conf=78.0]
+> 179
+
+[OCR | BLOCK 21 | x0=1387 y0=809 x1=1421 y1=817 | conf=44.0]
+#5
+
+[OCR | BLOCK 22 | x0=272 y0=816 x1=1390 y1=826 | conf=44.5]
+L »£
+
+[OCR | BLOCK 24 | x0=121 y0=962 x1=1563 y1=981 | conf=60.6]
+x 3 ee £ er
+
+[OCR | BLOCK 25 | x0=396 y0=972 x1=1583 y1=1010 | conf=75.25]
+Prager Schinken et Leberpastete
+
+[OCR | BLOCK 26 | x0=438 y0=998 x1=1583 y1=1032 | conf=84.5]
+heißgegart Porchetta Venosta schnittfest, mit Speckumwicklung
+
+[OCR | BLOCK 27 | x0=71 y0=1021 x1=1583 y1=1058 | conf=71.0]
+{ 100g „ original italienischer 100g
+
+[OCR | BLOCK 28 | x0=87 y0=1070 x1=89 y1=1072 | conf=92.0]
+\
+
+[OCR | BLOCK 29 | x0=890 y0=1075 x1=1056 y1=1094 | conf=94.5]
+| mit Kruste, Genuss
+
+[OCR | BLOCK 30 | x0=968 y0=1091 x1=1265 y1=1126 | conf=79.75]
+pur, 100.9. } x
+
+[OCR | BLOCK 31 | x0=76 y0=1108 x1=344 y1=1152 | conf=54.0]
+| |
+
+[OCR | BLOCK 32 | x0=69 y0=1144 x1=70 y1=1148 | conf=54.0]
+|
+
+[OCR | BLOCK 33 | x0=262 y0=1185 x1=1560 y1=1239 | conf=85.0]
+x AKTION AKTION AKTION
+
+[OCR | BLOCK 34 | x0=240 y0=1230 x1=1344 y1=1246 | conf=74.33]
+r x >
+
+[OCR | BLOCK 36 | x0=417 y0=1236 x1=530 y1=1335 | conf=81.0]
+17?
+
+[OCR | BLOCK 35 | x0=82 y0=1253 x1=653 y1=1281 | conf=50.33]
+Se - =
+
+[OCR | BLOCK 37 | x0=440 y0=1400 x1=1542 y1=1455 | conf=55.5]
+Edelsalami ; - Bauernsalami Zn un
+
+[OCR | BLOCK 38 | x0=354 y0=1430 x1=1555 y1=1458 | conf=71.5]
+voll ausgereift, 100g herzhaft gewürzt 7 x >
+
+[OCR | BLOCK 39 | x0=347 y0=1443 x1=1056 y1=1484 | conf=75.5]
+m .n.61=199 <a. 200 g Stücke
+
+[OCR | BLOCK 40 | x0=1008 y0=1470 x1=1350 y1=1507 | conf=62.0]
+1009 DES
+
+[OCR | BLOCK 41 | x0=284 y0=1500 x1=1556 y1=1527 | conf=40.75]
+El | gr ©)
+
+[OCR | BLOCK 42 | x0=879 y0=1555 x1=1239 y1=1600 | conf=43.5]
+Se EA
+
+[OCR | BLOCK 43 | x0=834 y0=1598 x1=907 y1=1625 | conf=30.0]
+BL
+
+[OCR | BLOCK 44 | x0=443 y0=1618 x1=1560 y1=1653 | conf=81.2]
+AKTION TRGS AKTION - AKTION
+
+[OCR | BLOCK 45 | x0=303 y0=1646 x1=326 y1=1673 | conf=86.0]
+2
+
+[OCR | BLOCK 46 | x0=667 y0=1686 x1=1454 y1=1689 | conf=59.5]
+> \
+
+[OCR | BLOCK 47 | x0=46 y0=1693 x1=1207 y1=1740 | conf=62.25]
+Te = 2 Thüringer
+
+[OCR | BLOCK 48 | x0=1126 y0=1726 x1=1293 y1=1745 | conf=91.0]
+Leber- oder Rotwurst
+
+[OCR | BLOCK 49 | x0=1126 y0=1746 x1=1407 y1=1776 | conf=83.0]
+herzhaft, deftig, in Krausen, 100 g
+
+[OCR | BLOCK 50 | x0=342 y0=1831 x1=1585 y1=1886 | conf=79.17]
+Hamburger Heringstopf Fleischsalat nach Metzger-Art Champignon-Köpfe
+
+[OCR | BLOCK 51 | x0=241 y0=1860 x1=1583 y1=1892 | conf=87.0]
+klassischer Heringssalat mit Äpfeln fein geschnittene Schinkenwurst gefüllt mit Frischkäsezubereitung
+
+[OCR | BLOCK 52 | x0=196 y0=1887 x1=1583 y1=1909 | conf=88.45]
+und Zwiebeln in einem Joghurt-Dressing „mit Gewürzgurken und einer cremig- ‚100g
+
+[OCR | BLOCK 53 | x0=480 y0=1910 x1=1464 y1=1935 | conf=69.38]
+100g klassischen Salatmayonnaise, 100. q P ) -
+
+[OCR | BLOCK 54 | x0=358 y0=1958 x1=392 y1=1962 | conf=31.0]
+4.
+
+[OCR | BLOCK 55 | x0=726 y0=1965 x1=1508 y1=1984 | conf=54.0]
+u x
+
+[OCR | BLOCK 56 | x0=88 y0=1982 x1=389 y1=2059 | conf=45.0]
+f' > a
+
+[OCR | BLOCK 57 | x0=130 y0=2022 x1=1347 y1=2052 | conf=42.6]
+= 5 sr ar Ber
+
+[OCR | BLOCK 58 | x0=269 y0=2031 x1=1560 y1=2076 | conf=67.11]
+N N AKTION u ge AKTION 2 N AKTION
+
+[OCR | BLOCK 59 | x0=105 y0=2074 x1=285 y1=2104 | conf=85.5]
+N \
+
+[OCR | BLOCK 60 | x0=242 y0=2098 x1=287 y1=2113 | conf=35.0]
+rw
+
+[OCR | BLOCK 62 | x0=333 y0=2098 x1=999 y1=2198 | conf=76.0]
+; 0‘ .
+
+[OCR | BLOCK 61 | x0=291 y0=2099 x1=530 y1=2160 | conf=47.0]
+Tg
+
+[OCR | BLOCK 63 | x0=642 y0=2282 x1=1011 y1=2297 | conf=83.17]
+Nur In teilnehmenden Märkten. Abbildungen ähnlich.
+
+[OCR | BLOCK 64 | x0=71 y0=2297 x1=1583 y1=2331 | conf=84.36]
+S13_28_2026_F_EC_IWEST G. = niedrigster Gesamtpreis der letzten 30 Tage Seite 13
+
+
+===== SEITE 16 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1572 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=340 y0=2 x1=1187 y1=26 | conf=50.25]
+. A: 'a 5
+
+[OCR | BLOCK 3 | x0=196 y0=18 x1=1175 y1=72 | conf=75.4]
+Käse & Fisch A ;
+
+[OCR | BLOCK 2 | x0=577 y0=22 x1=1260 y1=51 | conf=59.25]
+f Kay, . =
+
+[OCR | BLOCK 4 | x0=1003 y0=75 x1=1124 y1=89 | conf=60.0]
+s r
+
+[OCR | BLOCK 5 | x0=490 y0=114 x1=1583 y1=137 | conf=65.5]
+€ Bonbel
+
+[OCR | BLOCK 6 | x0=515 y0=143 x1=1583 y1=178 | conf=65.33]
+? = Butter-Käse
+
+[OCR | BLOCK 7 | x0=349 y0=171 x1=1583 y1=194 | conf=56.75]
+% 2 NN französischer
+
+[OCR | BLOCK 8 | x0=38 y0=192 x1=1452 y1=224 | conf=50.83]
+N #3 Zu Sa = |
+
+[OCR | BLOCK 9 | x0=502 y0=208 x1=1583 y1=239 | conf=63.0]
+« * | Schnittkäse,
+
+[OCR | BLOCK 10 | x0=259 y0=232 x1=1587 y1=266 | conf=75.12]
+> > I | 48% Fett i. Tr.,
+
+[OCR | BLOCK 11 | x0=172 y0=244 x1=1583 y1=310 | conf=56.8]
+Mag „6 + “ IN = En cremig, 100 g
+
+[OCR | BLOCK 13 | x0=178 y0=289 x1=1559 y1=361 | conf=55.67]
+er wog, AKTION
+
+[OCR | BLOCK 12 | x0=587 y0=298 x1=1288 y1=334 | conf=43.33]
+zer Zu dio:
+
+[OCR | BLOCK 15 | x0=131 y0=355 x1=250 y1=398 | conf=61.0]
+R i
+
+[OCR | BLOCK 14 | x0=179 y0=360 x1=241 y1=385 | conf=69.5]
+4 [3
+
+[OCR | BLOCK 16 | x0=71 y0=402 x1=571 y1=419 | conf=49.0]
+‘ er
+
+[OCR | BLOCK 17 | x0=139 y0=431 x1=1404 y1=446 | conf=53.5]
+5 " 4 =
+
+[OCR | BLOCK 18 | x0=381 y0=439 x1=724 y1=475 | conf=56.67]
+ee Zu 5
+
+[OCR | BLOCK 19 | x0=682 y0=468 x1=890 y1=489 | conf=63.0]
+ar )
+
+[OCR | BLOCK 20 | x0=881 y0=477 x1=982 y1=499 | conf=41.5]
+J Fa
+
+[OCR | BLOCK 21 | x0=128 y0=485 x1=961 y1=550 | conf=40.4]
+An = Ey A GE
+
+[OCR | BLOCK 22 | x0=785 y0=517 x1=940 y1=554 | conf=64.0]
+HER —
+
+[OCR | BLOCK 23 | x0=734 y0=564 x1=758 y1=573 | conf=66.0]
++
+
+[OCR | BLOCK 24 | x0=518 y0=568 x1=1574 y1=598 | conf=67.6]
+> sc r ise mi
+
+[OCR | BLOCK 25 | x0=264 y0=576 x1=1583 y1=616 | conf=41.0]
+ee Rahmstute,
+
+[OCR | BLOCK 26 | x0=1466 y0=619 x1=1583 y1=635 | conf=85.67]
+58% Fetti. Tr.
+
+[OCR | BLOCK 27 | x0=459 y0=646 x1=804 y1=681 | conf=59.5]
+m =
+
+[OCR | BLOCK 28 | x0=237 y0=657 x1=1476 y1=725 | conf=45.67]
+u a en
+
+[OCR | BLOCK 29 | x0=166 y0=701 x1=1193 y1=762 | conf=48.33]
+u mem &
+
+[OCR | BLOCK 31 | x0=265 y0=731 x1=1299 y1=781 | conf=66.0]
+- >
+
+[OCR | BLOCK 30 | x0=103 y0=742 x1=179 y1=751 | conf=73.5]
+Ar h
+
+[OCR | BLOCK 32 | x0=246 y0=761 x1=1551 y1=811 | conf=68.25]
+. Aggenstein 1 AKTION
+
+[OCR | BLOCK 33 | x0=62 y0=772 x1=1211 y1=851 | conf=64.71]
+(> 4 r r Emmentaler 09 f
+
+[OCR | BLOCK 34 | x0=679 y0=816 x1=1349 y1=836 | conf=70.67]
+deutscher Hartkäse, Dr
+
+[OCR | BLOCK 35 | x0=321 y0=828 x1=1296 y1=864 | conf=74.88]
+r r 45% Fett i. Tr., aromatisch- u
+
+[OCR | BLOCK 36 | x0=298 y0=859 x1=1398 y1=887 | conf=70.2]
+- nusskernartig, perfekt als u
+
+[OCR | BLOCK 37 | x0=64 y0=875 x1=1326 y1=912 | conf=71.5]
+= > Käsewürfel geeignet eo. 149 3 |
+
+[OCR | BLOCK 38 | x0=199 y0=907 x1=842 y1=934 | conf=58.0]
+2 100 9,n.G1=1,49
+
+[OCR | BLOCK 39 | x0=821 y0=957 x1=953 y1=982 | conf=51.0]
+N
+
+[OCR | BLOCK 40 | x0=408 y0=970 x1=1586 y1=1007 | conf=83.43]
+Mila Seiser Alm j > Elsässer Winzerkäse
+
+[OCR | BLOCK 41 | x0=330 y0=1001 x1=1583 y1=1029 | conf=80.2]
+italienischer Schnittkäse \. französischer Weichkäse,
+
+[OCR | BLOCK 42 | x0=296 y0=1026 x1=1583 y1=1046 | conf=91.25]
+aus Südtirol, 50% Fett i. Tr., 50% Fett i. Tr., 14 Tage
+
+[OCR | BLOCK 43 | x0=337 y0=1044 x1=1583 y1=1073 | conf=79.3]
+feinwürzig-vollmundig, Kun m 1 x N gereift, rote Rinde, würzig,
+
+[OCR | BLOCK 44 | x0=156 y0=1068 x1=1583 y1=1118 | conf=64.21]
+T £ auch als SB-Stück erhältlich, 100 g N N h, Rast ef. he
+
+[OCR | BLOCK 46 | x0=44 y0=1087 x1=1583 y1=1146 | conf=81.67]
+NEUESOR I 1009
+
+[OCR | BLOCK 45 | x0=988 y0=1093 x1=1516 y1=1109 | conf=61.67]
+Jun - N auch -Stück eı
+
+[OCR | BLOCK 47 | x0=167 y0=1128 x1=1043 y1=1156 | conf=39.0]
+BP Neuim |
+
+[OCR | BLOCK 48 | x0=124 y0=1134 x1=994 y1=1201 | conf=58.8]
+ET, = Sortiment Den u
+
+[OCR | BLOCK 49 | x0=108 y0=1192 x1=1559 y1=1232 | conf=85.67]
+37 AKTION AKTION
+
+[OCR | BLOCK 50 | x0=1181 y0=1306 x1=1186 y1=1307 | conf=38.0]
+2
+
+[OCR | BLOCK 51 | x0=943 y0=1310 x1=994 y1=1339 | conf=41.0]
+N;
+
+[OCR | BLOCK 52 | x0=964 y0=1339 x1=973 y1=1351 | conf=48.0]
+N
+
+[OCR | BLOCK 53 | x0=510 y0=1400 x1=517 y1=1405 | conf=36.0]
+y
+
+[OCR | BLOCK 54 | x0=415 y0=1404 x1=1583 y1=1460 | conf=45.5]
+) ißes, aromati bee
+
+[OCR | BLOCK 56 | x0=47 y0=1418 x1=1583 y1=1496 | conf=67.62]
+2 j 44 | RE und schmackhaftes Fleisch,
+
+[OCR | BLOCK 55 | x0=79 y0=1438 x1=1583 y1=1455 | conf=57.0]
+| Wi 7 weißes, aromatiscl es
+
+[OCR | BLOCK 57 | x0=286 y0=1472 x1=1587 y1=1513 | conf=68.0]
+A FL Br natur oder grillfertig mariniert
+
+[OCR | BLOCK 58 | x0=690 y0=1500 x1=1585 y1=1527 | conf=56.5]
+Ze 100g
+
+[OCR | BLOCK 59 | x0=0 y0=1548 x1=459 y1=1614 | conf=60.0]
+N de
+
+[OCR | BLOCK 60 | x0=682 y0=1592 x1=1351 y1=1643 | conf=41.33]
+we FE 4
+
+[OCR | BLOCK 61 | x0=218 y0=1618 x1=1560 y1=1663 | conf=53.6]
+IH 5 N | AKTION
+
+[OCR | BLOCK 62 | x0=1340 y0=1649 x1=1348 y1=1670 | conf=61.0]
+W
+
+[OCR | BLOCK 63 | x0=453 y0=1672 x1=720 y1=1697 | conf=41.0]
+2 %
+
+[OCR | BLOCK 64 | x0=117 y0=1682 x1=1329 y1=1733 | conf=45.8]
+ne ER; a wer. af
+
+[OCR | BLOCK 65 | x0=781 y0=1727 x1=861 y1=1756 | conf=33.0]
+> ®
+
+[OCR | BLOCK 66 | x0=328 y0=1764 x1=854 y1=1786 | conf=37.5]
+657: ARE = le
+
+[OCR | BLOCK 67 | x0=89 y0=1805 x1=706 y1=1879 | conf=83.4]
+PERFEKT FÜR DEN SOMMER 2
+
+[OCR | BLOCK 68 | x0=1254 y0=1849 x1=1382 y1=1870 | conf=37.0]
+Bi
+
+[OCR | BLOCK 69 | x0=144 y0=1864 x1=1570 y1=1926 | conf=55.17]
+Dorade mit Di >» 9 DEREN
+
+[OCR | BLOCK 70 | x0=128 y0=1914 x1=1564 y1=1944 | conf=49.75]
+. - Pr | 4% er ug |
+
+[OCR | BLOCK 71 | x0=94 y0=1924 x1=1073 y1=1975 | conf=65.0]
+Limetten-Sauce CH
+
+[OCR | BLOCK 72 | x0=584 y0=1965 x1=691 y1=2005 | conf=33.0]
+Br
+
+[OCR | BLOCK 73 | x0=108 y0=1983 x1=1569 y1=2054 | conf=62.0]
+— a 3 N
+
+[OCR | BLOCK 74 | x0=589 y0=2045 x1=1554 y1=2076 | conf=58.67]
+— i AKTION
+
+[OCR | BLOCK 75 | x0=1231 y0=2077 x1=1265 y1=2084 | conf=31.0]
+Zu
+
+[OCR | BLOCK 76 | x0=224 y0=2079 x1=795 y1=2123 | conf=81.6]
+Diese und viele weitere Son
+
+[OCR | BLOCK 77 | x0=193 y0=2115 x1=467 y1=2153 | conf=73.75]
+5 leckere Rezeptideen unter:
+
+[OCR | BLOCK 78 | x0=224 y0=2136 x1=1433 y1=2186 | conf=54.33]
+www.edeka.de/rezepte Kabeliaufilet* ak,
+
+[OCR | BLOCK 79 | x0=667 y0=2176 x1=1434 y1=2208 | conf=88.88]
+mageres, weißes Filet, mit verschiedenen Auflagen, 100 g
+
+[OCR | BLOCK 80 | x0=474 y0=2277 x1=1207 y1=2307 | conf=81.86]
+G. = niedrigster der letzten 30 Tage. * Ab Montag Nachmittag oder Dienstag eintreffend.
+
+[OCR | BLOCK 81 | x0=66 y0=2303 x1=1583 y1=2329 | conf=85.07]
+Seite14 In vielen Geschäften mit Fischtheke erhältlich. Nur In Märkten. ähnlich. S14_28_2026_E EC WEST_OST
+
+
+===== SEITE 17 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1368 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1274 y0=17 x1=1597 y1=65 | conf=92.0]
+Kühlregal |
+
+[OCR | BLOCK 2 | x0=268 y0=144 x1=528 y1=183 | conf=58.5]
+MÜHLEN nn AN |
+
+[OCR | BLOCK 3 | x0=72 y0=267 x1=397 y1=336 | conf=69.0]
+Rügenwalder Mühle & Sy
+
+[OCR | BLOCK 4 | x0=66 y0=329 x1=505 y1=370 | conf=81.0]
+veganer Schinken Spicker, Sa -30%
+
+[OCR | BLOCK 5 | x0=71 y0=364 x1=1172 y1=388 | conf=83.25]
+Hauchgenuss, Mühlen Salami —
+
+[OCR | BLOCK 6 | x0=71 y0=377 x1=1100 y1=437 | conf=86.2]
+verschiedene Sorten 1 1 Ri
+
+[OCR | BLOCK 7 | x0=197 y0=405 x1=286 y1=442 | conf=83.0]
+Mortadella
+
+[OCR | BLOCK 8 | x0=70 y0=429 x1=1481 y1=465 | conf=71.38]
+70/80 g Packung, 1 kg =13,88-15,86 | N
+
+[OCR | BLOCK 9 | x0=71 y0=461 x1=162 y1=480 | conf=47.0]
+n.G1=119
+
+[OCR | BLOCK 10 | x0=1522 y0=495 x1=1566 y1=516 | conf=51.0]
+wo
+
+[OCR | BLOCK 11 | x0=947 y0=524 x1=1185 y1=542 | conf=60.0]
+A -
+
+[OCR | BLOCK 12 | x0=444 y0=537 x1=1583 y1=575 | conf=66.0]
+Wiesbauer | zstücke
+
+[OCR | BLOCK 13 | x0=362 y0=566 x1=1583 y1=605 | conf=73.2]
+Frühstücksaufschnitt N PROSCIUTTO jarma DOP
+
+[OCR | BLOCK 14 | x0=456 y0=600 x1=1582 y1=621 | conf=70.44]
+4 Sorten ] © DIPARMA oor kg = 31,00
+
+[OCR | BLOCK 15 | x0=103 y0=623 x1=1583 y1=643 | conf=44.0]
+nn Fa Ih .G!=3,15
+
+[OCR | BLOCK 16 | x0=104 y0=626 x1=980 y1=679 | conf=65.17]
+mr fh er | | |
+
+[OCR | BLOCK 17 | x0=86 y0=645 x1=899 y1=727 | conf=57.2]
+a \ BR n.G1=3,29 (
+
+[OCR | BLOCK 18 | x0=283 y0=692 x1=1499 y1=719 | conf=61.43]
+> ES x 1 x A 0,
+
+[OCR | BLOCK 19 | x0=110 y0=695 x1=1513 y1=763 | conf=65.0]
+ku = 11%
+
+[OCR | BLOCK 20 | x0=1081 y0=771 x1=1089 y1=787 | conf=44.0]
+4
+
+[OCR | BLOCK 23 | x0=169 y0=787 x1=1185 y1=930 | conf=71.25]
+| in 229 |
+
+[OCR | BLOCK 21 | x0=304 y0=798 x1=329 y1=814 | conf=37.0]
+Lan
+
+[OCR | BLOCK 22 | x0=231 y0=813 x1=923 y1=840 | conf=57.5]
+NE )
+
+[OCR | BLOCK 24 | x0=144 y0=978 x1=1429 y1=1012 | conf=36.0]
+N rn
+
+[OCR | BLOCK 25 | x0=763 y0=1003 x1=1497 y1=1036 | conf=55.5]
+Er - wi —
+
+[OCR | BLOCK 26 | x0=171 y0=1052 x1=1549 y1=1099 | conf=52.33]
+an = N)
+
+[OCR | BLOCK 27 | x0=78 y0=1095 x1=998 y1=1147 | conf=35.0]
+Hammel Zortarelia u SE)
+
+[OCR | BLOCK 28 | x0=339 y0=1130 x1=992 y1=1169 | conf=56.33]
+Classic Role CurryKing € >= 7
+
+[OCR | BLOCK 29 | x0=274 y0=1148 x1=707 y1=1210 | conf=68.33]
+Rx Tan verschiedene
+
+[OCR | BLOCK 30 | x0=379 y0=1177 x1=1554 y1=1215 | conf=55.17]
+IT 28% Sorten & ei 33%
+
+[OCR | BLOCK 31 | x0=603 y0=1208 x1=732 y1=1241 | conf=90.0]
+oder Echt Veggie
+
+[OCR | BLOCK 32 | x0=69 y0=1225 x1=743 y1=1297 | conf=71.0]
+Iottarella 9 9 215/220.g Schale
+
+[OCR | BLOCK 33 | x0=73 y0=1255 x1=736 y1=1279 | conf=82.2]
+verschiedene Sorten Tkg = 8,14-8,33
+
+[OCR | BLOCK 35 | x0=73 y0=1261 x1=1003 y1=1338 | conf=75.0]
+(Abtropfgewicht 200 g) Je nach Verfügbarkeit =>
+
+[OCR | BLOCK 34 | x0=73 y0=1277 x1=696 y1=1301 | conf=91.5]
+und Fettstufen, 330 g Packung n.G!=1,79
+
+[OCR | BLOCK 36 | x0=72 y0=1312 x1=991 y1=1347 | conf=66.2]
+1kg= .:9 des Marktes. :
+
+[OCR | BLOCK 37 | x0=150 y0=1393 x1=1584 y1=1447 | conf=68.75]
+3 Bergader - Bergader
+
+[OCR | BLOCK 38 | x0=900 y0=1435 x1=1583 y1=1459 | conf=85.0]
+Körniger Frischkäse Almzeit, Weichkäse
+
+[OCR | BLOCK 39 | x0=822 y0=1461 x1=1583 y1=1482 | conf=94.56]
+viel Protein, 22 g pro Becher oder Bavaria blu
+
+[OCR | BLOCK 40 | x0=947 y0=1486 x1=1583 y1=1505 | conf=93.6]
+180 g Becher verschiedene Sorten
+
+[OCR | BLOCK 41 | x0=963 y0=1507 x1=1583 y1=1526 | conf=64.25]
+1kg =5,50 und Fettstufen
+
+[OCR | BLOCK 42 | x0=178 y0=1524 x1=1583 y1=1552 | conf=75.67]
+7 Bergader n.6!=1,39 175/190 g Packung
+
+[OCR | BLOCK 43 | x0=295 y0=1544 x1=1583 y1=1581 | conf=65.25]
+23 1kg = 9,42-10,23
+
+[OCR | BLOCK 44 | x0=179 y0=1554 x1=1583 y1=1645 | conf=50.0]
+— FRISCHKÄSE Fa nes
+
+[OCR | BLOCK 45 | x0=70 y0=1621 x1=1017 y1=1662 | conf=66.2]
+Olympus Feta „31% £ 28%
+
+[OCR | BLOCK 47 | x0=71 y0=1655 x1=1057 y1=1729 | conf=81.5]
+oder Schafskäse fin 09
+
+[OCR | BLOCK 46 | x0=71 y0=1656 x1=1541 y1=1685 | conf=84.83]
+verschiedene Sorten und Fettstufen z 1.4
+
+[OCR | BLOCK 48 | x0=67 y0=1695 x1=1516 y1=1762 | conf=61.11]
+20% Ft, I, 150 9 Packung 4 biu >
+
+[OCR | BLOCK 49 | x0=70 y0=1732 x1=168 y1=1750 | conf=79.0]
+1kg=13,27,n.
+
+[OCR | BLOCK 50 | x0=90 y0=1737 x1=315 y1=1768 | conf=38.67]
+nach des Marks.
+
+[OCR | BLOCK 51 | x0=1233 y0=1784 x1=1261 y1=1794 | conf=47.0]
+VAL
+
+[OCR | BLOCK 52 | x0=775 y0=1813 x1=1419 y1=1844 | conf=49.0]
+= u “
+
+[OCR | BLOCK 53 | x0=358 y0=1890 x1=1290 y1=1943 | conf=49.8]
+[ Kerrygold kerrygolö | Bu
+
+[OCR | BLOCK 54 | x0=358 y0=1937 x1=1399 y1=1966 | conf=42.0]
+ge FE
+
+[OCR | BLOCK 55 | x0=522 y0=1963 x1=720 y1=1985 | conf=38.0]
+Ma CHEDDAR
+
+[OCR | BLOCK 56 | x0=730 y0=2009 x1=770 y1=2027 | conf=50.0]
+102
+
+[OCR | BLOCK 57 | x0=498 y0=2022 x1=1430 y1=2056 | conf=60.0]
+En, APP-PREIS? >
+
+[OCR | BLOCK 59 | x0=71 y0=2047 x1=1557 y1=2100 | conf=69.43]
+verschiedene Sorten N 5 -16% 56% 35%
+
+[OCR | BLOCK 58 | x0=94 y0=2049 x1=1509 y1=2081 | conf=68.43]
+iginal Irischer Käse = v Sn X
+
+[OCR | BLOCK 60 | x0=72 y0=2091 x1=1028 y1=2173 | conf=80.4]
+und Fettstufen I 1 29
+
+[OCR | BLOCK 63 | x0=72 y0=2097 x1=1029 y1=2220 | conf=60.2]
+a ne Pe 159 —
+
+[OCR | BLOCK 61 | x0=71 y0=2118 x1=229 y1=2137 | conf=90.5]
+120*-150 Packung
+
+[OCR | BLOCK 62 | x0=70 y0=2140 x1=682 y1=2158 | conf=62.5]
+1kg =10,60-13,25 Me, =
+
+[OCR | BLOCK 64 | x0=71 y0=2185 x1=528 y1=2206 | conf=80.5]
+"Nur solange der Vorrat reicht. £
+
+
+===== SEITE 18 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1196 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=218 y0=12 x1=650 y1=69 | conf=74.0]
+Kühlregal ..
+
+[OCR | BLOCK 2 | x0=1436 y0=141 x1=1583 y1=174 | conf=92.0]
+Milchmischgetränk
+
+[OCR | BLOCK 3 | x0=1418 y0=171 x1=1583 y1=187 | conf=96.0]
+verschiedene Sorten
+
+[OCR | BLOCK 4 | x0=753 y0=188 x1=1583 y1=217 | conf=76.75]
+el 220 ml Becher
+
+[OCR | BLOCK 5 | x0=264 y0=215 x1=1583 y1=239 | conf=35.67]
+P 2 1126,77
+
+[OCR | BLOCK 6 | x0=1174 y0=238 x1=1211 y1=260 | conf=31.0]
+caFrE
+
+[OCR | BLOCK 7 | x0=199 y0=256 x1=1220 y1=281 | conf=51.6]
+eo... u } no ADDED
+
+[OCR | BLOCK 8 | x0=264 y0=267 x1=1410 y1=308 | conf=48.0]
+> 7 5 = ca CAPPUCCINO
+
+[OCR | BLOCK 9 | x0=146 y0=304 x1=1561 y1=476 | conf=70.57]
+e/ » MS | Z | -40%
+
+[OCR | BLOCK 10 | x0=578 y0=357 x1=1600 y1=503 | conf=70.67]
+| 7 19
+
+[OCR | BLOCK 11 | x0=558 y0=510 x1=560 y1=514 | conf=49.0]
+2
+
+[OCR | BLOCK 12 | x0=6 y0=513 x1=941 y1=538 | conf=63.33]
+® g Al
+
+[OCR | BLOCK 13 | x0=1369 y0=549 x1=1583 y1=571 | conf=86.0]
+= Frankenland
+
+[OCR | BLOCK 14 | x0=1486 y0=574 x1=1583 y1=598 | conf=96.0]
+Schlagsahne
+
+[OCR | BLOCK 15 | x0=891 y0=601 x1=1583 y1=622 | conf=91.5]
+4 mindestens 30% Fett
+
+[OCR | BLOCK 16 | x0=1143 y0=623 x1=1583 y1=644 | conf=91.25]
+\ 200 g Becher
+
+[OCR | BLOCK 19 | x0=240 y0=632 x1=1253 y1=769 | conf=82.33]
+\ | AR
+
+[OCR | BLOCK 17 | x0=1493 y0=645 x1=1583 y1=664 | conf=87.0]
+1kg=4,95
+
+[OCR | BLOCK 18 | x0=1254 y0=667 x1=1583 y1=694 | conf=69.0]
+Schlagsahnz n.G!=1,29
+
+[OCR | BLOCK 20 | x0=238 y0=759 x1=1545 y1=794 | conf=62.67]
+\ Ft 23%
+
+[OCR | BLOCK 21 | x0=239 y0=792 x1=245 y1=806 | conf=54.0]
+|
+
+[OCR | BLOCK 22 | x0=299 y0=857 x1=370 y1=885 | conf=31.0]
+Ai
+
+[OCR | BLOCK 23 | x0=510 y0=879 x1=917 y1=897 | conf=87.0]
+Erdbeere ©
+
+[OCR | BLOCK 24 | x0=247 y0=944 x1=597 y1=969 | conf=73.67]
+% - —
+
+[OCR | BLOCK 25 | x0=83 y0=993 x1=1583 y1=1030 | conf=84.5]
+Classic © Feines Butterschmalz
+
+[OCR | BLOCK 26 | x0=470 y0=1027 x1=1583 y1=1059 | conf=79.4]
+W dein Immunsystem & 250 g Becher, 1kg = 11,96
+
+[OCR | BLOCK 27 | x0=1485 y0=1052 x1=1583 y1=1071 | conf=69.0]
+n.G!=4,79
+
+[OCR | BLOCK 28 | x0=1408 y0=1086 x1=1411 y1=1090 | conf=37.0]
+j
+
+[OCR | BLOCK 29 | x0=186 y0=1141 x1=1014 y1=1174 | conf=67.25]
+Unterstütze dein Immunsystem“ -14%
+
+[OCR | BLOCK 30 | x0=1495 y0=1190 x1=1549 y1=1215 | conf=69.0]
+37%
+
+[OCR | BLOCK 31 | x0=977 y0=1199 x1=1373 y1=1280 | conf=94.0]
+22 Butaris
+
+[OCR | BLOCK 33 | x0=762 y0=1236 x1=1502 y1=1335 | conf=64.0]
+Actimel Drink 2
+
+[OCR | BLOCK 32 | x0=1515 y0=1236 x1=1585 y1=1297 | conf=91.0]
+09
+
+[OCR | BLOCK 34 | x0=543 y0=1306 x1=1587 y1=1335 | conf=86.0]
+verschiedene Sorten und Fettstufen, Ber o 39 49
+
+[OCR | BLOCK 35 | x0=539 y0=1337 x1=871 y1=1356 | conf=85.33]
+800 g Packung, 1kg = 2,78, n. G!= 2,22
+
+[OCR | BLOCK 36 | x0=312 y0=1393 x1=1583 y1=1451 | conf=67.0]
+iR \ > Ehrmann
+
+[OCR | BLOCK 37 | x0=240 y0=1424 x1=1583 y1=1492 | conf=52.33]
+2 | EN. 4 D&stgarres, Ohstgarten
+
+[OCR | BLOCK 38 | x0=304 y0=1454 x1=1583 y1=1488 | conf=59.25]
+Se ee = Sorten
+
+[OCR | BLOCK 39 | x0=160 y0=1462 x1=1583 y1=1508 | conf=54.57]
+N | + 2 ER g Becher
+
+[OCR | BLOCK 40 | x0=683 y0=1499 x1=1583 y1=1540 | conf=54.0]
+ru 1kg = 3,12-3,25
+
+[OCR | BLOCK 42 | x0=368 y0=1524 x1=1583 y1=1564 | conf=55.5]
+5 ar P es
+
+[OCR | BLOCK 41 | x0=1493 y0=1532 x1=1537 y1=1543 | conf=32.0]
+GE
+
+[OCR | BLOCK 43 | x0=52 y0=1567 x1=756 y1=1600 | conf=48.33]
+TAN, hr} =
+
+[OCR | BLOCK 44 | x0=805 y0=1598 x1=1549 y1=1667 | conf=58.0]
+= -50% 50%
+
+[OCR | BLOCK 45 | x0=280 y0=1655 x1=1312 y1=1692 | conf=79.8]
+4 ei Landliebe Pudding =
+
+[OCR | BLOCK 46 | x0=137 y0=1666 x1=1585 y1=1766 | conf=74.33]
+r . + verschiedene Sorten 0 49 0 39
+
+[OCR | BLOCK 47 | x0=598 y0=1701 x1=744 y1=1730 | conf=92.67]
+150/225 g Becher
+
+[OCR | BLOCK 49 | x0=540 y0=1702 x1=1587 y1=1828 | conf=60.8]
+| n.6G!=0,49 o 199 039
+
+[OCR | BLOCK 48 | x0=635 y0=1730 x1=730 y1=1748 | conf=87.0]
+= 2,18-3,27
+
+[OCR | BLOCK 50 | x0=188 y0=1818 x1=1409 y1=1894 | conf=55.8]
+el. \ > Bauer >
+
+[OCR | BLOCK 51 | x0=251 y0=1860 x1=1150 y1=1894 | conf=56.4]
+er Der Grosse Joghurt WW
+
+[OCR | BLOCK 52 | x0=719 y0=1874 x1=1539 y1=1926 | conf=73.75]
+= verschiedene N en
+
+[OCR | BLOCK 53 | x0=174 y0=1909 x1=1148 y1=1937 | conf=71.0]
+protein N] — e und Fettstufen >
+
+[OCR | BLOCK 54 | x0=143 y0=1926 x1=1038 y1=1961 | conf=60.25]
+EN 225/250 g Bech
+
+[OCR | BLOCK 55 | x0=206 y0=1931 x1=1289 y1=1983 | conf=56.2]
+- RO er 5 At
+
+[OCR | BLOCK 56 | x0=1253 y0=1971 x1=1318 y1=2017 | conf=71.0]
+>
+
+[OCR | BLOCK 58 | x0=509 y0=2001 x1=856 y1=2080 | conf=58.67]
+| — |
+
+[OCR | BLOCK 57 | x0=1485 y0=2001 x1=1539 y1=2008 | conf=65.5]
+een —
+
+[OCR | BLOCK 59 | x0=72 y0=2049 x1=1169 y1=2097 | conf=76.5]
+Danone eos -50% Lätta
+
+[OCR | BLOCK 60 | x0=128 y0=2076 x1=1555 y1=2150 | conf=74.29]
+Ars 00 N. Sauer verschiedene Sorten 00
+
+[OCR | BLOCK 62 | x0=71 y0=2093 x1=1489 y1=2173 | conf=80.12]
+verschiedene Sorten > 49 450 g Becher 1
+
+[OCR | BLOCK 61 | x0=161 y0=2115 x1=1246 y1=2130 | conf=80.25]
+oder Drin und Fettstufen
+
+[OCR | BLOCK 63 | x0=72 y0=2149 x1=1214 y1=2193 | conf=68.12]
+150-270 g/mi Becher/Flasche . Ber, 1kg = 2,47
+
+[OCR | BLOCK 64 | x0=121 y0=2182 x1=1580 y1=2210 | conf=61.5]
+=3,70-6,67 |
+
+[OCR | BLOCK 66 | x0=0 y0=2228 x1=1257 y1=2292 | conf=68.5]
+00 Mitjedem Einkauf EEE
+
+[OCR | BLOCK 65 | x0=447 y0=2231 x1=1254 y1=2258 | conf=55.25]
+| - E ae)
+
+[OCR | BLOCK 67 | x0=639 y0=2295 x1=1016 y1=2335 | conf=76.75]
+'n. = niedrigster Gesamtpreis der letzten 30 Tage
+
+
+===== SEITE 19 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1663 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=921 y0=120 x1=953 y1=130 | conf=67.0]
+_
+
+[OCR | BLOCK 2 | x0=399 y0=130 x1=1342 y1=154 | conf=46.33]
+Bin g m
+
+[OCR | BLOCK 3 | x0=119 y0=145 x1=1059 y1=169 | conf=47.0]
+ee ZZ >
+
+[OCR | BLOCK 4 | x0=117 y0=158 x1=1528 y1=190 | conf=46.0]
+_ X #4 a
+
+[OCR | BLOCK 6 | x0=260 y0=183 x1=280 y1=221 | conf=34.0]
+fj
+
+[OCR | BLOCK 5 | x0=889 y0=186 x1=913 y1=200 | conf=34.0]
+Pr
+
+[OCR | BLOCK 7 | x0=413 y0=219 x1=1007 y1=245 | conf=36.5]
+f =
+
+[OCR | BLOCK 8 | x0=366 y0=236 x1=709 y1=261 | conf=38.0]
+Ze
+
+[OCR | BLOCK 9 | x0=749 y0=263 x1=1479 y1=292 | conf=40.5]
+a ix RE u
+
+[OCR | BLOCK 10 | x0=210 y0=278 x1=775 y1=324 | conf=47.0]
+79} Ä ER
+
+[OCR | BLOCK 11 | x0=139 y0=293 x1=1422 y1=320 | conf=41.6]
+’ L; BL 5 un
+
+[OCR | BLOCK 12 | x0=634 y0=310 x1=904 y1=331 | conf=33.5]
+REN ee
+
+[OCR | BLOCK 13 | x0=244 y0=336 x1=815 y1=351 | conf=40.0]
+u | in
+
+[OCR | BLOCK 14 | x0=57 y0=337 x1=1333 y1=378 | conf=51.25]
+— x > a
+
+[OCR | BLOCK 15 | x0=346 y0=398 x1=1244 y1=414 | conf=70.0]
+\ 7 se
+
+[OCR | BLOCK 16 | x0=62 y0=407 x1=1424 y1=429 | conf=41.33]
+er \ Karottenkrüstchen*
+
+[OCR | BLOCK 17 | x0=473 y0=422 x1=1423 y1=473 | conf=84.5]
+N Roggenkruste* Weizenbrötchen mit Karotten, Stück
+
+[OCR | BLOCK 18 | x0=287 y0=450 x1=1587 y1=485 | conf=57.8]
+ASS 1000 gLaib, n. G! =1,65 eo +65 eo 059
+
+[OCR | BLOCK 19 | x0=408 y0=479 x1=1424 y1=496 | conf=80.8]
+X Abbildung ähnlich. ‚Abbildung ähnlich.
+
+[OCR | BLOCK 20 | x0=465 y0=508 x1=569 y1=517 | conf=56.0]
+| _
+
+[OCR | BLOCK 21 | x0=560 y0=547 x1=791 y1=552 | conf=43.5]
+u }
+
+[OCR | BLOCK 22 | x0=197 y0=557 x1=989 y1=585 | conf=52.5]
+= en x &
+
+[OCR | BLOCK 23 | x0=63 y0=610 x1=983 y1=628 | conf=53.5]
+4 Fr
+
+[OCR | BLOCK 24 | x0=112 y0=671 x1=1159 y1=701 | conf=49.75]
+x A = k
+
+[OCR | BLOCK 25 | x0=723 y0=723 x1=809 y1=744 | conf=39.0]
+7
+
+[OCR | BLOCK 26 | x0=613 y0=759 x1=1272 y1=764 | conf=66.0]
+- 4
+
+[OCR | BLOCK 27 | x0=1265 y0=789 x1=1274 y1=792 | conf=70.0]
+=
+
+[OCR | BLOCK 29 | x0=399 y0=805 x1=1585 y1=906 | conf=79.5]
+0 19 Laugenbrezel* 0 29 Würstchendog* 0 59
+
+[OCR | BLOCK 28 | x0=275 y0=819 x1=289 y1=827 | conf=34.0]
+N
+
+[OCR | BLOCK 30 | x0=210 y0=862 x1=1422 y1=897 | conf=72.33]
+Stück, n.G!= 0,95 Stück, n.G!= 0,39 Stück, n. G!=1,29
+
+[OCR | BLOCK 31 | x0=229 y0=880 x1=1587 y1=915 | conf=76.3]
+"Abbildung ähnlich. 09 ‚Abbildung ähnlich. o 033 ‚Abbildung ähnlich. 09
+
+[OCR | BLOCK 32 | x0=215 y0=932 x1=1432 y1=950 | conf=91.44]
+“Nur erhältlich in Märkten mit Backstation und je nach Verfügbarkeit des Marktes. Teilnehmende Märkte unter www.edeka.de/marktsuche. Abbildungen ähnlich.
+
+[OCR | BLOCK 33 | x0=81 y0=971 x1=141 y1=1009 | conf=89.0]
+| 9
+
+[OCR | BLOCK 34 | x0=82 y0=1026 x1=159 y1=1030 | conf=71.0]
+| |
+
+[OCR | BLOCK 35 | x0=438 y0=1037 x1=975 y1=1061 | conf=53.33]
+4 ® am
+
+[OCR | BLOCK 36 | x0=748 y0=1066 x1=1135 y1=1088 | conf=53.0]
+4 |
+
+[OCR | BLOCK 37 | x0=259 y0=1069 x1=1077 y1=1132 | conf=57.0]
+Eu Herzstücke ER = 2
+
+[OCR | BLOCK 38 | x0=244 y0=1118 x1=986 y1=1140 | conf=64.25]
+55 PETIT i =
+
+[OCR | BLOCK 39 | x0=236 y0=1128 x1=1251 y1=1161 | conf=63.17]
+7 AMOUR Neu im - se
+
+[OCR | BLOCK 40 | x0=179 y0=1155 x1=515 y1=1184 | conf=76.5]
+= Sortiment
+
+[OCR | BLOCK 41 | x0=72 y0=1176 x1=1250 y1=1209 | conf=79.75]
+EDEKA Herzstücke American =
+
+[OCR | BLOCK 42 | x0=71 y0=1199 x1=1174 y1=1236 | conf=81.33]
+Petit Amour 5
+
+[OCR | BLOCK 43 | x0=72 y0=1218 x1=1401 y1=1257 | conf=74.6]
+Marmor Golden Toast re ®
+
+[OCR | BLOCK 44 | x0=72 y0=1247 x1=663 y1=1281 | conf=90.33]
+Herzküchlein, 7er Toasties
+
+[OCR | BLOCK 45 | x0=70 y0=1278 x1=822 y1=1297 | conf=91.0]
+175 g Packung verschiedene Sorten, vegan
+
+[OCR | BLOCK 46 | x0=70 y0=1300 x1=728 y1=1319 | conf=86.25]
+1kg=11,37 300 g Packung,
+
+[OCR | BLOCK 47 | x0=72 y0=1316 x1=694 y1=1339 | conf=41.67]
+n.G)=2,49 149 n.61=1,99
+
+[OCR | BLOCK 48 | x0=298 y0=1425 x1=329 y1=1452 | conf=42.0]
+«
+
+[OCR | BLOCK 49 | x0=528 y0=1451 x1=1376 y1=1523 | conf=64.0]
+Y Pr
+
+[OCR | BLOCK 50 | x0=112 y0=1536 x1=1084 y1=1579 | conf=88.9]
+ur u Spare jetzt bei mehr als 1.000 EDEKA Herzstücken.
+
+[OCR | BLOCK 51 | x0=149 y0=1585 x1=1295 y1=1661 | conf=61.0]
+EKA App 5 m >
+
+[OCR | BLOCK 52 | x0=90 y0=1612 x1=852 y1=1675 | conf=74.5]
+ED 0
+
+[OCR | BLOCK 53 | x0=379 y0=1647 x1=1175 y1=1694 | conf=53.25]
+IS Ss ws 59
+
+[OCR | BLOCK 55 | x0=483 y0=1663 x1=1301 y1=1722 | conf=40.5]
+“a Den
+
+[OCR | BLOCK 54 | x0=858 y0=1677 x1=1243 y1=1710 | conf=54.0]
+0 a >
+
+[OCR | BLOCK 56 | x0=777 y0=1713 x1=856 y1=1742 | conf=91.0]
+AUFALLE
+
+[OCR | BLOCK 57 | x0=388 y0=1722 x1=1167 y1=1774 | conf=53.5]
+N 2
+
+[OCR | BLOCK 58 | x0=486 y0=1788 x1=878 y1=1823 | conf=39.0]
+Sa 1.07-0108.2026
+
+[OCR | BLOCK 59 | x0=395 y0=1793 x1=1132 y1=1847 | conf=48.4]
+N N [9 NurinderApp er
+
+[OCR | BLOCK 60 | x0=352 y0=1833 x1=1195 y1=1862 | conf=58.33]
+4 wi v
+
+[OCR | BLOCK 61 | x0=509 y0=1854 x1=1190 y1=1902 | conf=52.0]
+87 —
+
+[OCR | BLOCK 62 | x0=731 y0=1864 x1=1188 y1=1899 | conf=48.25]
+® = Lt Kr
+
+[OCR | BLOCK 63 | x0=1062 y0=1899 x1=1219 y1=1934 | conf=42.0]
+er 35
+
+[OCR | BLOCK 64 | x0=597 y0=1946 x1=1206 y1=1969 | conf=40.33]
+5 jur 9
+
+[OCR | BLOCK 65 | x0=354 y0=1964 x1=1065 y1=1986 | conf=52.0]
+& SR If IR
+
+[OCR | BLOCK 66 | x0=424 y0=1973 x1=1073 y1=2011 | conf=37.25]
+} @\ & x
+
+[OCR | BLOCK 67 | x0=718 y0=2010 x1=729 y1=2020 | conf=88.0]
+>
+
+[OCR | BLOCK 68 | x0=979 y0=2027 x1=1037 y1=2052 | conf=34.0]
+>
+
+[OCR | BLOCK 69 | x0=853 y0=2058 x1=890 y1=2071 | conf=51.0]
+—
+
+[OCR | BLOCK 70 | x0=168 y0=2149 x1=1485 y1=2165 | conf=84.17]
+“Ausgenommen sind Wiegeware (bspw. Bananen) und Eler der Marke Herzstücke. Aktion nicht mit Rabatten kombinierbar. Preise können abhängig von Markt und Region varlleren.
+
+[OCR | BLOCK 71 | x0=81 y0=2170 x1=1572 y1=2185 | conf=92.0]
+‚Angebote gültig bei Vorlage der EDEKA App an der Kasse, vorheriger erfolgreicher Registrierung und Auswahl des Lieblingsmarktes In der App. Änderungen und Irrtümer vorbehalten. Angebot gültig bis 01.08.26.
+
+[OCR | BLOCK 72 | x0=570 y0=2189 x1=1083 y1=2204 | conf=87.0]
+Nur In teilnehmenden Märkten. Weitere Informationen In der EDEKA App.
+
+[OCR | BLOCK 75 | x0=396 y0=2229 x1=1250 y1=2291 | conf=74.8]
+E| Mit jedem Einkauf EEE
+
+[OCR | BLOCK 73 | x0=576 y0=2238 x1=752 y1=2248 | conf=48.5]
+. .
+
+[OCR | BLOCK 74 | x0=883 y0=2239 x1=1006 y1=2280 | conf=82.0]
+punk
+
+[OCR | BLOCK 76 | x0=70 y0=2295 x1=1583 y1=2330 | conf=80.18]
+S17_28_2026_E EC.WEST.OST G. = niedrigster der letzten 30 Tage Seite 17
+
+
+===== SEITE 20 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1183 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=165 y0=0 x1=541 y1=37 | conf=51.0]
+year |
+
+[OCR | BLOCK 2 | x0=165 y0=15 x1=432 y1=69 | conf=30.0]
+Kühlregal&K
+
+[OCR | BLOCK 3 | x0=734 y0=80 x1=1557 y1=122 | conf=55.5]
+a ;
+
+[OCR | BLOCK 4 | x0=1554 y0=118 x1=1583 y1=141 | conf=86.0]
+iglo
+
+[OCR | BLOCK 5 | x0=219 y0=138 x1=1584 y1=172 | conf=73.67]
+Ku a Filegro oder Goldknusper Filet
+
+[OCR | BLOCK 6 | x0=154 y0=165 x1=1587 y1=212 | conf=39.75]
+PX ze ade en
+
+[OCR | BLOCK 7 | x0=304 y0=186 x1=1459 y1=214 | conf=53.5]
+# -:
+
+[OCR | BLOCK 8 | x0=184 y0=200 x1=976 y1=233 | conf=74.5]
+> x,
+
+[OCR | BLOCK 9 | x0=631 y0=237 x1=1583 y1=256 | conf=74.5]
+5 n.G!=2,99
+
+[OCR | BLOCK 10 | x0=1334 y0=296 x1=1365 y1=298 | conf=71.0]
+=
+
+[OCR | BLOCK 11 | x0=0 y0=325 x1=1200 y1=359 | conf=43.33]
+u LEI SAG
+
+[OCR | BLOCK 12 | x0=126 y0=349 x1=1369 y1=411 | conf=56.0]
+RE : iglo u.
+
+[OCR | BLOCK 13 | x0=0 y0=403 x1=1427 y1=432 | conf=41.75]
+m 50 ER ge
+
+[OCR | BLOCK 14 | x0=203 y0=428 x1=1555 y1=472 | conf=53.4]
+A Ne Bert iglo A
+
+[OCR | BLOCK 15 | x0=937 y0=461 x1=1068 y1=496 | conf=95.5]
+Schlemmer Filet
+
+[OCR | BLOCK 16 | x0=7 y0=485 x1=1281 y1=521 | conf=68.0]
+N % verschiedene Te
+
+[OCR | BLOCK 17 | x0=206 y0=533 x1=290 y1=557 | conf=80.0]
+Champi
+
+[OCR | BLOCK 18 | x0=979 y0=543 x1=1465 y1=557 | conf=58.0]
+iefgefroren Fr y
+
+[OCR | BLOCK 19 | x0=82 y0=552 x1=1436 y1=588 | conf=61.0]
+y* 380g « iglo ande
+
+[OCR | BLOCK 20 | x0=91 y0=572 x1=1473 y1=630 | conf=40.25]
+ig u ee: u.
+
+[OCR | BLOCK 22 | x0=88 y0=589 x1=1478 y1=721 | conf=44.5]
+Se |
+
+[OCR | BLOCK 21 | x0=455 y0=604 x1=1340 y1=628 | conf=64.33]
+% n.G1=2,99 Zn
+
+[OCR | BLOCK 23 | x0=430 y0=663 x1=849 y1=692 | conf=54.33]
+o Ne N
+
+[OCR | BLOCK 24 | x0=913 y0=683 x1=1457 y1=717 | conf=44.5]
+(IS >;
+
+[OCR | BLOCK 26 | x0=102 y0=720 x1=1056 y1=782 | conf=40.67]
+2 2, wen
+
+[OCR | BLOCK 25 | x0=843 y0=726 x1=1561 y1=749 | conf=67.0]
+\ N 2
+
+[OCR | BLOCK 27 | x0=683 y0=772 x1=1041 y1=847 | conf=64.5]
+7 5g
+
+[OCR | BLOCK 28 | x0=588 y0=801 x1=1555 y1=883 | conf=64.0]
+27 259
+
+[OCR | BLOCK 29 | x0=774 y0=883 x1=1409 y1=908 | conf=42.5]
+her) “1
+
+[OCR | BLOCK 30 | x0=1003 y0=965 x1=1583 y1=1016 | conf=76.33]
+Frosta 2 iglo
+
+[OCR | BLOCK 31 | x0=646 y0=1005 x1=1363 y1=1039 | conf=50.75]
+nn BE iglo >
+
+[OCR | BLOCK 32 | x0=802 y0=1031 x1=1583 y1=1046 | conf=83.5]
+= i = jene
+
+[OCR | BLOCK 33 | x0=260 y0=1040 x1=1586 y1=1077 | conf=64.5]
+un u Sorten, tiefgefroren
+
+[OCR | BLOCK 34 | x0=212 y0=1052 x1=1583 y1=1123 | conf=43.75]
+= \ Be Ö, 2 a TED H
+
+[OCR | BLOCK 35 | x0=451 y0=1096 x1=644 y1=1112 | conf=51.5]
+er ist
+
+[OCR | BLOCK 36 | x0=220 y0=1104 x1=1584 y1=1150 | conf=58.5]
+ae FRosma u 1kg = 6,64-7,04
+
+[OCR | BLOCK 37 | x0=337 y0=1130 x1=1583 y1=1164 | conf=57.2]
+is on = n.61=2,22 n.6!=3,79
+
+[OCR | BLOCK 38 | x0=381 y0=1162 x1=1543 y1=1215 | conf=58.57]
+| APP-PREIS? - 16% Ai on 21%
+
+[OCR | BLOCK 39 | x0=67 y0=1187 x1=1417 y1=1243 | conf=64.67]
+verschiedene 50 >= u : N
+
+[OCR | BLOCK 40 | x0=67 y0=1229 x1=1416 y1=1258 | conf=69.33]
+Sorten N |
+
+[OCR | BLOCK 41 | x0=70 y0=1231 x1=1585 y1=1315 | conf=79.67]
+438/465 mi 349 09 NET 09
+
+[OCR | BLOCK 43 | x0=70 y0=1254 x1=1587 y1=1339 | conf=56.6]
+112796-8,58 39 28 [3 4
+
+[OCR | BLOCK 42 | x0=67 y0=1268 x1=704 y1=1304 | conf=72.0]
+Bech [7]
+
+[OCR | BLOCK 44 | x0=986 y0=1316 x1=1566 y1=1337 | conf=54.33]
+oe 369 .:
+
+[OCR | BLOCK 45 | x0=153 y0=1371 x1=1301 y1=1398 | conf=44.0]
+er & "
+
+[OCR | BLOCK 46 | x0=711 y0=1419 x1=727 y1=1421 | conf=35.0]
+=
+
+[OCR | BLOCK 47 | x0=893 y0=1529 x1=1463 y1=1564 | conf=57.25]
+| 7 ——— a
+
+[OCR | BLOCK 48 | x0=507 y0=1553 x1=1502 y1=1599 | conf=45.4]
+: | pm m” AN
+
+[OCR | BLOCK 49 | x0=957 y0=1597 x1=1550 y1=1629 | conf=63.33]
+- wre 7
+
+[OCR | BLOCK 50 | x0=152 y0=1609 x1=1285 y1=1654 | conf=72.6]
+öl = ELLI: biszu24% Wiese
+
+[OCR | BLOCK 51 | x0=71 y0=1643 x1=1265 y1=1687 | conf=89.71]
+verschiedene Sorten „50% Langnese Kleines Fest Torte
+
+[OCR | BLOCK 52 | x0=71 y0=1662 x1=1397 y1=1728 | conf=87.43]
+252-840 ml 19 Magnum oder Solero hon bon Eis 1 0 verschiedene Sorten, tiefgefroren
+
+[OCR | BLOCK 53 | x0=72 y0=1679 x1=1351 y1=1739 | conf=87.0]
+Packung 099 verschiedene Sorten, 12er 580 g Packung, 1kg = 9,57
+
+[OCR | BLOCK 54 | x0=70 y0=1721 x1=1227 y1=1758 | conf=80.2]
+11=2,37-790 192/204 mi Becher 6,99
+
+[OCR | BLOCK 55 | x0=71 y0=1748 x1=1374 y1=1776 | conf=68.56]
+n.G1=1,99 . 39 11=18,58-19,74,n. 4,99 ‚Je nach des Marktes.
+
+[OCR | BLOCK 56 | x0=39 y0=1793 x1=1583 y1=1870 | conf=65.14]
+ur win 1, 5 a» = Bürger
+
+[OCR | BLOCK 57 | x0=102 y0=1835 x1=1583 y1=1899 | conf=54.78]
+4 ee 3 x De 5 Spätzle oder Knöpfle
+
+[OCR | BLOCK 58 | x0=121 y0=1886 x1=1582 y1=1921 | conf=70.0]
+N 4 EN verschiedene Sorten,
+
+[OCR | BLOCK 59 | x0=62 y0=1902 x1=1583 y1=1952 | conf=56.17]
+h i 28 | u re
+
+[OCR | BLOCK 61 | x0=192 y0=1925 x1=1046 y1=1974 | conf=43.5]
+rung 5
+
+[OCR | BLOCK 60 | x0=197 y0=1935 x1=1583 y1=1956 | conf=51.6]
+nn zu f vn g
+
+[OCR | BLOCK 62 | x0=1297 y0=1972 x1=1378 y1=2011 | conf=34.0]
+te.)
+
+[OCR | BLOCK 64 | x0=320 y0=1998 x1=1244 y1=2060 | conf=47.0]
+u Bu
+
+[OCR | BLOCK 63 | x0=1037 y0=1999 x1=1583 y1=2024 | conf=37.67]
+R A .G!=2,69
+
+[OCR | BLOCK 65 | x0=672 y0=2027 x1=1557 y1=2090 | conf=73.0]
+ikel der EEE... 26%
+
+[OCR | BLOCK 66 | x0=518 y0=2067 x1=1217 y1=2110 | conf=71.5]
+auf alle = si
+
+[OCR | BLOCK 67 | x0=546 y0=2097 x1=1585 y1=2157 | conf=82.0]
+arke Tante 109
+
+[OCR | BLOCK 69 | x0=234 y0=2134 x1=1587 y1=2196 | conf=48.67]
+z es , en e 269
+
+[OCR | BLOCK 68 | x0=1025 y0=2150 x1=1042 y1=2158 | conf=59.0]
+=>
+
+[OCR | BLOCK 70 | x0=34 y0=2182 x1=368 y1=2214 | conf=56.25]
+} } = °e
+
+[OCR | BLOCK 71 | x0=232 y0=2198 x1=247 y1=2227 | conf=35.0]
+(,
+
+[OCR | BLOCK 72 | x0=37 y0=2231 x1=197 y1=2248 | conf=32.5]
+4 =
+
+[OCR | BLOCK 73 | x0=966 y0=2287 x1=1183 y1=2339 | conf=36.0]
+Te
+
+
+===== SEITE 21 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1230 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1224 y0=18 x1=1486 y1=62 | conf=96.0]
+gemischte Seite
+
+[OCR | BLOCK 2 | x0=420 y0=114 x1=527 y1=145 | conf=78.5]
+Ben's Original
+
+[OCR | BLOCK 3 | x0=403 y0=141 x1=531 y1=174 | conf=93.0]
+Kochbeutel Reis
+
+[OCR | BLOCK 4 | x0=363 y0=172 x1=468 y1=208 | conf=46.0]
+ee
+
+[OCR | BLOCK 5 | x0=443 y0=197 x1=527 y1=212 | conf=94.0]
+g Packung
+
+[OCR | BLOCK 6 | x0=437 y0=216 x1=527 y1=235 | conf=66.0]
+Tkg = 3,58
+
+[OCR | BLOCK 7 | x0=428 y0=237 x1=527 y1=256 | conf=57.0]
+n.G1=2,59
+
+[OCR | BLOCK 9 | x0=433 y0=238 x1=1338 y1=351 | conf=74.6]
+Basmatl Reis. REY Rev) 2
+
+[OCR | BLOCK 8 | x0=423 y0=260 x1=527 y1=275 | conf=81.0]
+Ausgenommen
+
+[OCR | BLOCK 10 | x0=869 y0=304 x1=1415 y1=325 | conf=46.0]
+m mA
+
+[OCR | BLOCK 11 | x0=322 y0=310 x1=1462 y1=369 | conf=65.67]
+= i851 EY|
+
+[OCR | BLOCK 12 | x0=638 y0=374 x1=1000 y1=401 | conf=94.0]
+TRADIZIONE DELLA
+
+[OCR | BLOCK 13 | x0=82 y0=403 x1=1250 y1=469 | conf=73.83]
+A PASTA DAL 1851 > Mn
+
+[OCR | BLOCK 14 | x0=80 y0=462 x1=1599 y1=490 | conf=78.86]
+a - ee PRODOTTO IN ITALIA |
+
+[OCR | BLOCK 15 | x0=483 y0=464 x1=1435 y1=526 | conf=63.5]
+= ®
+
+[OCR | BLOCK 16 | x0=1500 y0=535 x1=1599 y1=562 | conf=52.0]
+ER
+
+[OCR | BLOCK 17 | x0=102 y0=563 x1=1599 y1=603 | conf=51.67]
+SER > ü
+
+[OCR | BLOCK 18 | x0=316 y0=609 x1=424 y1=634 | conf=43.0]
+ae
+
+[OCR | BLOCK 19 | x0=766 y0=626 x1=1214 y1=664 | conf=59.0]
+BRONZO / Rey
+
+[OCR | BLOCK 20 | x0=125 y0=659 x1=1418 y1=671 | conf=79.6]
+N RIZ LONG GRAIN 5000.
+
+[OCR | BLOCK 21 | x0=1352 y0=683 x1=1551 y1=703 | conf=60.0]
+= 7 n
+
+[OCR | BLOCK 22 | x0=1418 y0=683 x1=1543 y1=714 | conf=83.0]
+APP-PREIS?
+
+[OCR | BLOCK 23 | x0=1246 y0=719 x1=1600 y1=771 | conf=56.67]
+m 1 |)
+
+[OCR | BLOCK 24 | x0=244 y0=751 x1=1308 y1=796 | conf=59.0]
+7 ale 30% 4
+
+[OCR | BLOCK 25 | x0=1058 y0=783 x1=1171 y1=825 | conf=81.67]
+Pasta Rey 1851
+
+[OCR | BLOCK 26 | x0=1035 y0=814 x1=1171 y1=849 | conf=96.0]
+italienische Pasta
+
+[OCR | BLOCK 27 | x0=941 y0=848 x1=1171 y1=867 | conf=92.5]
+verschiedene Ausformungen
+
+[OCR | BLOCK 28 | x0=950 y0=855 x1=1553 y1=907 | conf=65.29]
+500 g Packung, 1kg= 1,98 109 om
+
+[OCR | BLOCK 29 | x0=1534 y0=906 x1=1584 y1=920 | conf=30.0]
+Ten
+
+[OCR | BLOCK 30 | x0=403 y0=970 x1=1055 y1=1006 | conf=80.6]
+Nissin Soba Cup 7 Rapso
+
+[OCR | BLOCK 31 | x0=472 y0=1001 x1=1056 y1=1042 | conf=67.83]
+a R ER 100% reines Rapsöl
+
+[OCR | BLOCK 32 | x0=751 y0=1029 x1=1540 y1=1089 | conf=62.75]
+w es Extra°Punkte? I
+
+[OCR | BLOCK 33 | x0=471 y0=1089 x1=1550 y1=1115 | conf=67.33]
+"Je nach w\
+
+[OCR | BLOCK 34 | x0=141 y0=1128 x1=189 y1=1150 | conf=30.0]
+sis
+
+[OCR | BLOCK 35 | x0=100 y0=1153 x1=1296 y1=1233 | conf=76.33]
+Sob« -27% 30% Bernbacher Die Guten
+
+[OCR | BLOCK 38 | x0=367 y0=1236 x1=1584 y1=1337 | conf=81.71]
+N = 349 verschiedene Ausformungen 1 39
+
+[OCR | BLOCK 36 | x0=697 y0=1237 x1=703 y1=1239 | conf=43.0]
+=
+
+[OCR | BLOCK 37 | x0=766 y0=1250 x1=1253 y1=1281 | conf=94.0]
+N oder Bella Pasta
+
+[OCR | BLOCK 39 | x0=1128 y0=1298 x1=1455 y1=1326 | conf=77.5]
+500 g Packung, 1kg = 2,78, n. G!=1,79
+
+[OCR | BLOCK 40 | x0=1126 y0=1324 x1=1297 y1=1339 | conf=87.5]
+‚Ausgenommen Vollkorn.
+
+[OCR | BLOCK 41 | x0=128 y0=1376 x1=266 y1=1412 | conf=47.0]
+gr —
+
+[OCR | BLOCK 42 | x0=414 y0=1398 x1=1055 y1=1440 | conf=64.0]
+Hengstenberg RUE
+
+[OCR | BLOCK 43 | x0=123 y0=1416 x1=1055 y1=1467 | conf=67.25]
+w Essig Glücklich Macher
+
+[OCR | BLOCK 44 | x0=363 y0=1459 x1=1501 y1=1491 | conf=75.71]
+verschiedene Sorten “ verschiedene Sorten er —
+
+[OCR | BLOCK 45 | x0=655 y0=1476 x1=1462 y1=1536 | conf=52.0]
+©, DE am
+
+[OCR | BLOCK 46 | x0=129 y0=1507 x1=1543 y1=1563 | conf=48.38]
+> n. 6123,29 ® n.G!= 0,79 Kr (EN)
+
+[OCR | BLOCK 47 | x0=423 y0=1543 x1=1054 y1=1587 | conf=61.0]
+Ausgenommen Ghüe, re ‚Ausgenommen
+
+[OCR | BLOCK 48 | x0=420 y0=1563 x1=1481 y1=1596 | conf=68.6]
+Blo Apfelessig. I Tassencremepudding. 23
+
+[OCR | BLOCK 49 | x0=216 y0=1580 x1=720 y1=1685 | conf=67.75]
+5 bis zu-37% =
+
+[OCR | BLOCK 51 | x0=103 y0=1646 x1=1439 y1=1723 | conf=59.75]
+[97 ui; darbo =
+
+[OCR | BLOCK 50 | x0=144 y0=1646 x1=662 y1=1680 | conf=67.0]
+iu 329 o
+
+[OCR | BLOCK 52 | x0=761 y0=1703 x1=1325 y1=1729 | conf=85.0]
+“ Naturrein Konfitüre Extra
+
+[OCR | BLOCK 53 | x0=1127 y0=1730 x1=1391 y1=1749 | conf=82.6]
+verschiedene Sorten, 450 g Glas
+
+[OCR | BLOCK 54 | x0=989 y0=1744 x1=1328 y1=1777 | conf=70.57]
+eo 14 1kg = 6,64, n. G!=.4,29
+
+[OCR | BLOCK 55 | x0=493 y0=1835 x1=507 y1=1879 | conf=66.0]
+=;
+
+[OCR | BLOCK 57 | x0=235 y0=1869 x1=1568 y1=1930 | conf=51.5]
+eig BIO fe N
+
+[OCR | BLOCK 56 | x0=59 y0=1887 x1=61 y1=1889 | conf=31.0]
+6
+
+[OCR | BLOCK 58 | x0=304 y0=1923 x1=425 y1=1958 | conf=36.0]
+a Dr
+
+[OCR | BLOCK 59 | x0=1122 y0=1949 x1=1444 y1=1970 | conf=57.0]
+5 Mr
+
+[OCR | BLOCK 60 | x0=122 y0=1967 x1=1182 y1=2006 | conf=59.0]
+ug, Bio
+
+[OCR | BLOCK 61 | x0=1231 y0=1993 x1=1654 y1=2047 | conf=34.5]
+En Be
+
+[OCR | BLOCK 62 | x0=106 y0=2035 x1=1618 y1=2088 | conf=48.46]
+x j > KNUSPER h 3 Me => A } Bo Fat KR
+
+[OCR | BLOCK 63 | x0=205 y0=2071 x1=1490 y1=2139 | conf=62.14]
+FE 3 auf alle Bio er ww
+
+[OCR | BLOCK 64 | x0=268 y0=2109 x1=1424 y1=2125 | conf=43.25]
+x L # Ye
+
+[OCR | BLOCK 65 | x0=41 y0=2114 x1=1317 y1=2146 | conf=57.0]
+5 rke A
+
+[OCR | BLOCK 66 | x0=188 y0=2117 x1=1654 y1=2185 | conf=50.08]
+N be, Q der nme er F u 4 \ - \ u
+
+[OCR | BLOCK 67 | x0=410 y0=2160 x1=1592 y1=2221 | conf=45.22]
+Io 28 N Jenacl A ef ed: | \
+
+[OCR | BLOCK 68 | x0=71 y0=2304 x1=1583 y1=2328 | conf=83.45]
+S19_28_2026_E EC_IWEST = niedrigster Gesamtpreis der letzten 30 Tage Selte 9
+
+
+===== SEITE 22 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1294 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 2 | x0=142 y0=0 x1=1611 y1=71 | conf=73.33]
+Q,\ N 4
+
+[OCR | BLOCK 1 | x0=286 y0=1 x1=1436 y1=30 | conf=63.0]
+S y 1
+
+[OCR | BLOCK 3 | x0=23 y0=50 x1=1253 y1=69 | conf=56.5]
+N Dei, -M EN
+
+[OCR | BLOCK 4 | x0=14 y0=60 x1=1515 y1=95 | conf=59.67]
+> ern Q
+
+[OCR | BLOCK 6 | x0=478 y0=74 x1=1654 y1=145 | conf=67.25]
+® oO 5 *
+
+[OCR | BLOCK 5 | x0=37 y0=95 x1=1228 y1=108 | conf=67.33]
+< u ?
+
+[OCR | BLOCK 7 | x0=2 y0=126 x1=1419 y1=165 | conf=51.17]
+gu # | N in >
+
+[OCR | BLOCK 8 | x0=471 y0=163 x1=1504 y1=195 | conf=67.5]
+Sy o
+
+[OCR | BLOCK 10 | x0=0 y0=174 x1=1551 y1=213 | conf=61.0]
+N _ of
+
+[OCR | BLOCK 9 | x0=16 y0=187 x1=36 y1=196 | conf=41.0]
+2
+
+[OCR | BLOCK 11 | x0=55 y0=197 x1=1544 y1=247 | conf=71.75]
+ER Mehr as -7
+
+[OCR | BLOCK 12 | x0=645 y0=251 x1=1329 y1=279 | conf=67.67]
+1 [ [+]
+
+[OCR | BLOCK 13 | x0=1212 y0=258 x1=1485 y1=301 | conf=91.5]
+200 °Punkte
+
+[OCR | BLOCK 14 | x0=67 y0=321 x1=1422 y1=372 | conf=71.0]
+> | | 4 sammeln!
+
+[OCR | BLOCK 16 | x0=188 y0=382 x1=1495 y1=432 | conf=83.5]
+} iedem 200 = 2,00 €
+
+[OCR | BLOCK 15 | x0=24 y0=385 x1=972 y1=403 | conf=43.5]
+94 z
+
+[OCR | BLOCK 17 | x0=635 y0=432 x1=644 y1=440 | conf=33.0]
+u
+
+[OCR | BLOCK 18 | x0=263 y0=500 x1=685 y1=525 | conf=35.0]
+Zu j
+
+[OCR | BLOCK 19 | x0=455 y0=525 x1=481 y1=538 | conf=75.0]
+AN
+
+[OCR | BLOCK 20 | x0=107 y0=544 x1=1583 y1=577 | conf=66.67]
+A _ Noa 0er Feinkost Dittmann
+
+[OCR | BLOCK 21 | x0=425 y0=570 x1=1583 y1=606 | conf=82.8]
+ER Hummus oder Brotaufstrich Pfefferonen
+
+[OCR | BLOCK 22 | x0=92 y0=597 x1=1583 y1=632 | conf=65.0]
+= — == ED 2 Or verschiedene Sorten, vegan mild-pikant
+
+[OCR | BLOCK 24 | x0=90 y0=614 x1=1583 y1=699 | conf=75.17]
+um | NOA (Abtropfgewicht 125 g)
+
+[OCR | BLOCK 23 | x0=339 y0=624 x1=1582 y1=645 | conf=79.0]
+| 175 g Becher | 250 g Packung
+
+[OCR | BLOCK 26 | x0=793 y0=646 x1=1342 y1=710 | conf=32.5]
+= Ya!
+
+[OCR | BLOCK 25 | x0=643 y0=669 x1=1308 y1=697 | conf=46.67]
+BROTAUFSTRICH ME ng
+
+[OCR | BLOCK 27 | x0=200 y0=688 x1=1341 y1=743 | conf=56.67]
+SOpE Sz {
+
+[OCR | BLOCK 28 | x0=822 y0=727 x1=901 y1=771 | conf=55.0]
+en |
+
+[OCR | BLOCK 29 | x0=648 y0=778 x1=919 y1=813 | conf=71.0]
+« >
+
+[OCR | BLOCK 30 | x0=256 y0=816 x1=1337 y1=848 | conf=71.0]
+=== 7 Milram N
+
+[OCR | BLOCK 31 | x0=277 y0=835 x1=1335 y1=866 | conf=76.0]
+Dessert Soße ; |
+
+[OCR | BLOCK 32 | x0=55 y0=872 x1=725 y1=891 | conf=87.83]
+mit Vanillegeschmack, 500 mi Packung N
+
+[OCR | BLOCK 33 | x0=170 y0=895 x1=328 y1=910 | conf=94.0]
+Nur solange der Vorrat
+
+[OCR | BLOCK 34 | x0=385 y0=979 x1=1581 y1=998 | conf=91.5]
+EDEKA Herzstücke Heinz Beanz
+
+[OCR | BLOCK 35 | x0=472 y0=997 x1=1581 y1=1046 | conf=69.67]
+Ricotta = Ser
+
+[OCR | BLOCK 36 | x0=342 y0=1029 x1=1581 y1=1046 | conf=91.0]
+für süße und herzhafte = = g Dose
+
+[OCR | BLOCK 37 | x0=89 y0=1044 x1=952 y1=1076 | conf=80.86]
+= Speisen, 45% Fett i. Tr. [e)
+
+[OCR | BLOCK 38 | x0=418 y0=1076 x1=527 y1=1095 | conf=93.33]
+250 g Becher
+
+[OCR | BLOCK 39 | x0=220 y0=1104 x1=1379 y1=1145 | conf=42.33]
+rzsläcke (Ko) gg
+
+[OCR | BLOCK 40 | x0=160 y0=1107 x1=1417 y1=1175 | conf=70.25]
+3 = BEANZ BEANZ
+
+[OCR | BLOCK 41 | x0=678 y0=1158 x1=1382 y1=1219 | conf=62.17]
+op “ m Ina rich tomato
+
+[OCR | BLOCK 42 | x0=98 y0=1197 x1=245 y1=1272 | conf=52.5]
+> =
+
+[OCR | BLOCK 43 | x0=207 y0=1272 x1=1433 y1=1296 | conf=52.0]
+Hure { }
+
+[OCR | BLOCK 44 | x0=487 y0=1404 x1=1582 y1=1437 | conf=94.5]
+Kölln blend-a-dent alle Artikel der Marke
+
+[OCR | BLOCK 45 | x0=373 y0=1435 x1=1581 y1=1458 | conf=92.33]
+Blütenzarte flocken Super-Haftcreme lavera Bio Naturkosmetik
+
+[OCR | BLOCK 46 | x0=166 y0=1456 x1=1581 y1=1488 | conf=88.0]
+ine oder Kernige verschiedene Sorten, 40/47 g Packung lavera Flasche/Tube/Dose/Packung
+
+[OCR | BLOCK 47 | x0=116 y0=1488 x1=526 y1=1515 | conf=92.0]
+7 500 g Packung
+
+[OCR | BLOCK 48 | x0=248 y0=1526 x1=1216 y1=1559 | conf=51.33]
+a COMPLETE u
+
+[OCR | BLOCK 49 | x0=213 y0=1542 x1=1254 y1=1591 | conf=57.5]
+Kölln ? BE uw
+
+[OCR | BLOCK 50 | x0=211 y0=1589 x1=1256 y1=1624 | conf=60.33]
+flocken % 1a
+
+[OCR | BLOCK 51 | x0=120 y0=1623 x1=1224 y1=1648 | conf=49.6]
+a mm % ee m
+
+[OCR | BLOCK 52 | x0=106 y0=1642 x1=1436 y1=1689 | conf=60.4]
+eh A 5 a A
+
+[OCR | BLOCK 53 | x0=656 y0=1674 x1=1329 y1=1715 | conf=63.0]
+blend.a.dent; es, =
+
+[OCR | BLOCK 54 | x0=214 y0=1714 x1=1053 y1=1765 | conf=39.67]
+_ u u)
+
+[OCR | BLOCK 55 | x0=1083 y0=1859 x1=1563 y1=1889 | conf=55.67]
+m PAYBAcK 9®
+
+[OCR | BLOCK 56 | x0=1114 y0=1881 x1=1563 y1=1899 | conf=63.5]
+Eur 00
+
+[OCR | BLOCK 57 | x0=760 y0=1894 x1=1177 y1=1924 | conf=70.67]
+E sn —
+
+[OCR | BLOCK 58 | x0=96 y0=1927 x1=1129 y1=2001 | conf=70.0]
+Kalender te
+
+[OCR | BLOCK 60 | x0=599 y0=1971 x1=1005 y1=2055 | conf=71.0]
+So geht's v
+
+[OCR | BLOCK 59 | x0=1089 y0=1979 x1=1161 y1=2005 | conf=40.0]
+ua
+
+[OCR | BLOCK 61 | x0=93 y0=2029 x1=1511 y1=2086 | conf=79.0]
+Täglich neue Coupon- . Jetzt täglich Coupons in der ve EHE
+
+[OCR | BLOCK 62 | x0=98 y0=2067 x1=1515 y1=2118 | conf=89.6]
+Highlights in der App! PAYBACK App entdecken und aktivieren. FRE
+
+[OCR | BLOCK 63 | x0=87 y0=2095 x1=1275 y1=2141 | conf=75.67]
+. j Einlösen und beim Einkaufim EDEKA Markt 2
+
+[OCR | BLOCK 64 | x0=92 y0=2129 x1=1534 y1=2180 | conf=63.83]
+Vom fleißig °Punkte sammeln. ‚ Coupons
+
+[OCR | BLOCK 65 | x0=368 y0=2164 x1=1353 y1=2202 | conf=67.25]
+ee - Im gesamten Aktionszeitraum Vortelle sicherni“ u
+
+
+===== SEITE 23 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 2380 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=1292 y0=8 x1=1597 y1=83 | conf=69.5]
+? ©
+
+[OCR | BLOCK 2 | x0=830 y0=46 x1=1618 y1=189 | conf=42.33]
+IN 2) 2
+
+[OCR | BLOCK 3 | x0=52 y0=140 x1=407 y1=243 | conf=90.0]
+& op
+
+[OCR | BLOCK 4 | x0=0 y0=201 x1=1132 y1=361 | conf=51.33]
+| ee er
+
+[OCR | BLOCK 5 | x0=1176 y0=381 x1=1654 y1=423 | conf=70.0]
+r |
+
+[OCR | BLOCK 6 | x0=260 y0=558 x1=530 y1=592 | conf=71.5]
+o i
+
+[OCR | BLOCK 7 | x0=69 y0=563 x1=659 y1=646 | conf=47.5]
+| GOFACH°P | Gb
+
+[OCR | BLOCK 8 | x0=69 y0=629 x1=130 y1=660 | conf=68.0]
+ı auf
+
+[OCR | BLOCK 9 | x0=69 y0=662 x1=998 y1=677 | conf=69.33]
+I H *
+
+[OCR | BLOCK 11 | x0=69 y0=665 x1=982 y1=722 | conf=67.75]
+| | auf Damenhygiene!
+
+[OCR | BLOCK 10 | x0=69 y0=668 x1=981 y1=694 | conf=58.25]
+1 Sofunktlonlert's: ı |
+
+[OCR | BLOCK 12 | x0=69 y0=718 x1=530 y1=746 | conf=82.91]
+ı verknüpft wurde, In der EDEKA APP aktivieren. Die as 1
+
+[OCR | BLOCK 13 | x0=69 y0=733 x1=530 y1=748 | conf=76.9]
+ı erfolgt automatisch durch Vorlage der (mobilen) PAYBACK Karte. 1
+
+[OCR | BLOCK 14 | x0=69 y0=741 x1=530 y1=771 | conf=74.17]
+1 Coupon ist 1 Mal & nicht nachträglich einlösbar. Die Punktegutschrift ı
+
+[OCR | BLOCK 15 | x0=69 y0=764 x1=792 y1=791 | conf=77.91]
+1 erfolgt binnen Sültig in allen teilnehmenden EDEKA Märkten H 3
+
+[OCR | BLOCK 16 | x0=527 y0=786 x1=856 y1=816 | conf=54.5]
+| Goretrc
+
+[OCR | BLOCK 17 | x0=86 y0=811 x1=849 y1=840 | conf=81.3]
+Angebot beziehen. Coupons wird der Coupon mit dem Plus tong
+
+[OCR | BLOCK 18 | x0=69 y0=827 x1=530 y1=853 | conf=87.18]
+1 größten Vorteil eingelöst, wobei Print Coupons immer Vorrang haben. 1
+
+[OCR | BLOCK 19 | x0=69 y0=847 x1=802 y1=870 | conf=75.12]
+1 Print- & eCoupon schließen sich aus - nur einer isteinlösbar. Gilt ab 2€ H we
+
+[OCR | BLOCK 20 | x0=69 y0=867 x1=951 y1=883 | conf=76.36]
+1 Mindestumsatz. Abgabe in haushaltsüblichen Mengen. Zuräckbelastung 1 ag eikos —
+
+[OCR | BLOCK 21 | x0=69 y0=880 x1=905 y1=909 | conf=76.5]
+1 der Punkte bei Missbrauch. Coupon-Vervielfältigung nicht zulässig. ! Me
+
+[OCR | BLOCK 22 | x0=69 y0=901 x1=72 y1=930 | conf=82.0]
+|
+
+[OCR | BLOCK 23 | x0=69 y0=930 x1=885 y1=967 | conf=39.75]
+Te | I m
+
+[OCR | BLOCK 24 | x0=69 y0=948 x1=390 y1=1002 | conf=54.5]
+| ri
+
+[OCR | BLOCK 25 | x0=69 y0=995 x1=649 y1=1044 | conf=57.83]
+! as = © ! "So
+
+[OCR | BLOCK 26 | x0=628 y0=1029 x1=1006 y1=1050 | conf=91.38]
+Coupon vor dem Einkauf In der PAYBACK APP
+
+[OCR | BLOCK 27 | x0=69 y0=1053 x1=777 y1=1080 | conf=68.75]
+! =. oder verknüpften
+
+[OCR | BLOCK 28 | x0=69 y0=1068 x1=1058 y1=1124 | conf=77.5]
+| m) Die Einlösung erfolgt automatisch gegen <
+
+[OCR | BLOCK 29 | x0=69 y0=1107 x1=990 y1=1127 | conf=82.62]
+H H Vorlage der (mobilen) PAYBACK Karte oder
+
+[OCR | BLOCK 30 | x0=69 y0=1124 x1=993 y1=1163 | conf=77.0]
+! > bei Erfassung der EDEKAAPP mit PAVBACK
+
+[OCR | BLOCK 31 | x0=69 y0=1155 x1=944 y1=1202 | conf=76.0]
+H << 1 Verknüpfung. Einlösebedingungen im
+
+[OCR | BLOCK 32 | x0=527 y0=1164 x1=1059 y1=1210 | conf=84.33]
+! eCoupon In der PAYBACK- oder EDEKA APPI >
+
+[OCR | BLOCK 33 | x0=69 y0=1198 x1=1058 y1=1268 | conf=41.0]
+| =
+
+[OCR | BLOCK 34 | x0=87 y0=1257 x1=361 y1=1279 | conf=85.8]
+Gültig vom 06.07. - 11.07.2026
+
+[OCR | BLOCK 35 | x0=69 y0=1265 x1=1564 y1=1293 | conf=76.22]
+! ! Gültig vom 06.07. - 11.07.2026 ° 0®
+
+[OCR | BLOCK 36 | x0=69 y0=1265 x1=142 y1=1336 | conf=36.0]
+ern
+
+[OCR | BLOCK 37 | x0=92 y0=1430 x1=1458 y1=1502 | conf=62.0]
+SOFACH°P SOFACH°P SOFACH°P
+
+[OCR | BLOCK 38 | x0=366 y0=1524 x1=1424 y1=1537 | conf=78.0]
+. * * . *
+
+[OCR | BLOCK 39 | x0=90 y0=1526 x1=1408 y1=1573 | conf=94.43]
+auf Kuschelweich! auf Pampers! auf WC frisch!
+
+[OCR | BLOCK 40 | x0=817 y0=1636 x1=1499 y1=1696 | conf=45.5]
+Anden !
+
+[OCR | BLOCK 41 | x0=917 y0=1675 x1=929 y1=1700 | conf=44.0]
+>
+
+[OCR | BLOCK 42 | x0=244 y0=1721 x1=1422 y1=1781 | conf=47.11]
+m‘ „ler | = n | mp 0. 2
+
+[OCR | BLOCK 43 | x0=247 y0=1749 x1=1314 y1=1805 | conf=53.33]
+x ‘u 2 = [# E
+
+[OCR | BLOCK 44 | x0=914 y0=1776 x1=1425 y1=1825 | conf=59.0]
+> 2 = >
+
+[OCR | BLOCK 45 | x0=419 y0=1808 x1=1441 y1=1843 | conf=62.67]
+i Wo |
+
+[OCR | BLOCK 46 | x0=90 y0=1862 x1=1586 y1=1905 | conf=63.36]
+"so funktioniert's: x * So funktioniert's: x * So funktioniert's: x
+
+[OCR | BLOCK 47 | x0=100 y0=1890 x1=1535 y1=1910 | conf=91.92]
+Coupon vor dem Einkauf in der PAYBACK APP Coupon vor dem Einkauf In der PAYBACK APP ‚Coupon vor dem Einkauf in der PAYBACK APP
+
+[OCR | BLOCK 48 | x0=100 y0=1906 x1=1591 y1=1947 | conf=88.94]
+oder verknüpften EDEKA APP aktivieren. oder verknüpften EDEKA APP aktivieren. oder verknüpften EDEKA APP aktivieren. [®)}
+
+[OCR | BLOCK 49 | x0=101 y0=1939 x1=1502 y1=1987 | conf=90.76]
+Die Einlösung erfolgt automatisch gegen << Die Einlösung erfolgt automatisch gegen < Die Einlösung erfolgt automatisch gegen
+
+[OCR | BLOCK 50 | x0=100 y0=1967 x1=1518 y1=1988 | conf=94.33]
+Vorlage der (mobilen) PAYBACK Karte oder Vorlage der (mobilen) PAYBACK Karte oder Vorlage der (mobilen) PAYBACK Karte oder
+
+[OCR | BLOCK 51 | x0=100 y0=1994 x1=1521 y1=2015 | conf=84.33]
+bei Erfassung der EDEKAAPP mit PAYBACK bel Erfassung der EDEKAAPP mit PAYBACK bei Erfassung der EDEKAAPP mit PAYBACK
+
+[OCR | BLOCK 52 | x0=100 y0=2019 x1=1472 y1=2040 | conf=91.22]
+Verknüpfung. Einlösebedingungen im Verknüpfung. Einlösebedingungen im Verknüpfung. Einlösebedingungen im
+
+[OCR | BLOCK 53 | x0=100 y0=2023 x1=1587 y1=2097 | conf=85.33]
+eCoupon in der PAYBACK- oder EDEKA APPI x eCoupon in der PAYBACK- oder EDEKA APPI z eCoupon in der PAYBACK- oder EDEKA APPI z
+
+[OCR | BLOCK 54 | x0=90 y0=2129 x1=1565 y1=2161 | conf=87.39]
+Gültig vom 06.07. - 11.07.2026 ° Gültig vom 06.07. - 11.07.2026 [0] Gültig vom 06.07. - 11.07.2026 °
+
+[OCR | BLOCK 55 | x0=99 y0=2174 x1=1433 y1=2192 | conf=94.8]
+eCOUPON IN DER APP NUTZEN eCOUPON IN DER APP NUTZEN eCOUPON IN DER APP NUTZEN
+
+
+===== SEITE 24 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 982 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=167 y0=18 x1=430 y1=63 | conf=96.0]
+gemischte Seite
+
+[OCR | BLOCK 2 | x0=350 y0=101 x1=1557 y1=123 | conf=69.0]
+) 5
+
+[OCR | BLOCK 4 | x0=40 y0=104 x1=1171 y1=173 | conf=53.25]
+nf RB’ R -
+
+[OCR | BLOCK 3 | x0=1238 y0=118 x1=1583 y1=137 | conf=66.0]
+ne funny-frisch
+
+[OCR | BLOCK 5 | x0=128 y0=147 x1=1142 y1=229 | conf=53.0]
+N a y — . F
+
+[OCR | BLOCK 7 | x0=572 y0=197 x1=856 y1=296 | conf=41.0]
+ER IV,
+
+[OCR | BLOCK 6 | x0=953 y0=220 x1=1533 y1=229 | conf=86.5]
+N =
+
+[OCR | BLOCK 8 | x0=1134 y0=273 x1=1155 y1=283 | conf=78.0]
+R
+
+[OCR | BLOCK 9 | x0=106 y0=300 x1=1417 y1=387 | conf=42.67]
+If vr. Fred
+
+[OCR | BLOCK 10 | x0=147 y0=371 x1=1329 y1=408 | conf=48.5]
+( M FEN ut a“ u
+
+[OCR | BLOCK 11 | x0=66 y0=375 x1=1399 y1=468 | conf=53.5]
+- \ (4 me N ;
+
+[OCR | BLOCK 12 | x0=44 y0=421 x1=1319 y1=545 | conf=62.8]
+@ \ - N 2
+
+[OCR | BLOCK 16 | x0=575 y0=485 x1=795 y1=613 | conf=79.5]
+du pl
+
+[OCR | BLOCK 13 | x0=215 y0=488 x1=1231 y1=504 | conf=64.25]
+N 29 ’ 2
+
+[OCR | BLOCK 14 | x0=220 y0=490 x1=1070 y1=564 | conf=57.67]
+\ RN ve 0 Ferrero duplo
+
+[OCR | BLOCK 15 | x0=105 y0=526 x1=1070 y1=548 | conf=75.8]
+- N | verschiedene Sorten,
+
+[OCR | BLOCK 17 | x0=223 y0=574 x1=1493 y1=618 | conf=39.6]
+Se a Br : =
+
+[OCR | BLOCK 19 | x0=298 y0=594 x1=1356 y1=703 | conf=55.0]
+Sg ] IS en Ihanuta
+
+[OCR | BLOCK 18 | x0=710 y0=618 x1=1583 y1=646 | conf=61.67]
+y < n.G!=3,29
+
+[OCR | BLOCK 20 | x0=810 y0=679 x1=846 y1=708 | conf=42.0]
+al
+
+[OCR | BLOCK 21 | x0=1228 y0=695 x1=1376 y1=748 | conf=41.0]
+Fan
+
+[OCR | BLOCK 22 | x0=191 y0=737 x1=1549 y1=800 | conf=65.4]
+u > Ah zu 21%
+
+[OCR | BLOCK 23 | x0=595 y0=790 x1=1356 y1=838 | conf=57.2]
+Va es ji x €
+
+[OCR | BLOCK 24 | x0=1200 y0=805 x1=1585 y1=905 | conf=43.0]
+259
+
+[OCR | BLOCK 25 | x0=360 y0=874 x1=433 y1=896 | conf=34.0]
+RER
+
+[OCR | BLOCK 26 | x0=379 y0=973 x1=1584 y1=1005 | conf=83.75]
+Trolli Fruchtgummi Teekanne Celebrations
+
+[OCR | BLOCK 27 | x0=121 y0=997 x1=1583 y1=1032 | conf=62.44]
+8 =) verschiedene Sorten el x Ländertee 186.g Packung
+
+[OCR | BLOCK 28 | x0=276 y0=1028 x1=835 y1=1060 | conf=61.0]
+{ er
+
+[OCR | BLOCK 29 | x0=88 y0=1061 x1=979 y1=1094 | conf=66.6]
+3 1 > 30-55 9
+
+[OCR | BLOCK 30 | x0=612 y0=1068 x1=866 y1=1158 | conf=34.0]
+Sg are
+
+[OCR | BLOCK 31 | x0=193 y0=1154 x1=934 y1=1200 | conf=36.67]
+Yo —— <
+
+[OCR | BLOCK 32 | x0=662 y0=1190 x1=1549 y1=1232 | conf=64.5]
+15% 33%
+
+[OCR | BLOCK 33 | x0=203 y0=1224 x1=1431 y1=1272 | conf=61.0]
+77,3 Minze dd? ul
+
+[OCR | BLOCK 34 | x0=663 y0=1290 x1=1309 y1=1320 | conf=47.75]
+N. ES S “
+
+[OCR | BLOCK 35 | x0=459 y0=1316 x1=1587 y1=1337 | conf=59.33]
+. 19 .49
+
+[OCR | BLOCK 36 | x0=1001 y0=1390 x1=1054 y1=1455 | conf=64.0]
+Lin
+
+[OCR | BLOCK 37 | x0=387 y0=1438 x1=1490 y1=1484 | conf=59.0]
+® Pi x Er
+
+[OCR | BLOCK 38 | x0=332 y0=1456 x1=1527 y1=1525 | conf=45.25]
+Bi.” rung u (Ada
+
+[OCR | BLOCK 39 | x0=225 y0=1510 x1=1526 y1=1581 | conf=46.8]
+Be Ei \EIBNT ou: -
+
+[OCR | BLOCK 40 | x0=178 y0=1550 x1=1266 y1=1611 | conf=58.0]
+BE |: 271 0 \ENBNIZ Kambty
+
+[OCR | BLOCK 41 | x0=721 y0=1604 x1=904 y1=1639 | conf=53.0]
+u 0%
+
+[OCR | BLOCK 42 | x0=68 y0=1607 x1=1551 y1=1668 | conf=51.71]
+Leibniz a Me 7 BE ui 16%
+
+[OCR | BLOCK 43 | x0=71 y0=1651 x1=1185 y1=1718 | conf=72.33]
+Choca Keks \ B 7 Kambiy
+
+[OCR | BLOCK 44 | x0=71 y0=1666 x1=1585 y1=1768 | conf=65.38]
+ang 1% aa Dr: 1 29 Gebäck 29
+
+[OCR | BLOCK 45 | x0=71 y0=1730 x1=1422 y1=1749 | conf=86.5]
+1kg=15,92 verschiedene Sorten, 100 g Packung
+
+[OCR | BLOCK 46 | x0=71 y0=1746 x1=1587 y1=1780 | conf=57.0]
+n.6!=2,99 29 ee eo 189 1kg= 29
+
+[OCR | BLOCK 47 | x0=1524 y0=1815 x1=1584 y1=1886 | conf=58.0]
+ws,
+
+[OCR | BLOCK 48 | x0=517 y0=1891 x1=545 y1=1916 | conf=55.0]
+.
+
+[OCR | BLOCK 50 | x0=446 y0=1907 x1=469 y1=1982 | conf=87.0]
+|
+
+[OCR | BLOCK 49 | x0=530 y0=1914 x1=1558 y1=1947 | conf=66.2]
+1 (der Crema e Gu:
+
+[OCR | BLOCK 51 | x0=283 y0=1965 x1=1583 y1=2001 | conf=73.25]
+— g = ung
+
+[OCR | BLOCK 52 | x0=515 y0=1977 x1=969 y1=2073 | conf=46.5]
+IH 20%
+
+[OCR | BLOCK 53 | x0=102 y0=2044 x1=1179 y1=2080 | conf=60.0]
+ei RABATT m
+
+[OCR | BLOCK 54 | x0=126 y0=2066 x1=1361 y1=2124 | conf=68.62]
+= 4 auf Melitta, coffeeB oder | =
+
+[OCR | BLOCK 55 | x0=381 y0=2088 x1=1315 y1=2138 | conf=56.14]
+U riss & Günstig Coffee Balls, 2
+
+[OCR | BLOCK 56 | x0=380 y0=2119 x1=1417 y1=2173 | conf=54.33]
+rang = Ey Je nach Verfügbarkeit des — _
+
+[OCR | BLOCK 57 | x0=388 y0=2165 x1=1417 y1=2201 | conf=51.0]
+UM: > 57 208
+
+[OCR | BLOCK 59 | x0=443 y0=2236 x1=1183 y1=2278 | conf=93.8]
+BIS ZU 12.000 ARTIKEL DISCOUNTBILLIG
+
+[OCR | BLOCK 58 | x0=367 y0=2237 x1=372 y1=2249 | conf=75.0]
+1
+
+[OCR | BLOCK 60 | x0=70 y0=2296 x1=1583 y1=2328 | conf=79.58]
+Seite 22 = niedrigster Gesamtpreis der letzten 30 Tage 522_28_2026_E EC WEST.OST
+
+
+===== SEITE 25 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1282 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=862 y0=0 x1=912 y1=18 | conf=50.0]
+N
+
+[OCR | BLOCK 2 | x0=1279 y0=18 x1=1436 y1=58 | conf=96.0]
+Getränke
+
+[OCR | BLOCK 3 | x0=1088 y0=43 x1=1307 y1=74 | conf=69.5]
+4 Zu
+
+[OCR | BLOCK 4 | x0=265 y0=112 x1=277 y1=115 | conf=88.0]
+—
+
+[OCR | BLOCK 5 | x0=119 y0=156 x1=1267 y1=191 | conf=52.33]
+m 2 —
+
+[OCR | BLOCK 6 | x0=1446 y0=192 x1=1597 y1=224 | conf=32.0]
+Ga
+
+[OCR | BLOCK 7 | x0=401 y0=221 x1=461 y1=261 | conf=43.5]
+_ >
+
+[OCR | BLOCK 8 | x0=163 y0=247 x1=1517 y1=280 | conf=50.0]
+) 5 = CH
+
+[OCR | BLOCK 9 | x0=1065 y0=263 x1=1485 y1=322 | conf=40.67]
+zum LG FTP
+
+[OCR | BLOCK 10 | x0=132 y0=307 x1=1451 y1=359 | conf=48.8]
+—_ TEN > RL Fo
+
+[OCR | BLOCK 11 | x0=414 y0=329 x1=681 y1=367 | conf=86.5]
+25% 2
+
+[OCR | BLOCK 15 | x0=175 y0=376 x1=1242 y1=475 | conf=54.83]
+G!=19,99 1 4 - 7 7
+
+[OCR | BLOCK 12 | x0=460 y0=377 x1=530 y1=438 | conf=82.0]
+99
+
+[OCR | BLOCK 13 | x0=71 y0=397 x1=337 y1=417 | conf=89.75]
+20x0,5 Liter Kasten |
+
+[OCR | BLOCK 14 | x0=70 y0=415 x1=1215 y1=434 | conf=56.0]
++ == A?
+
+[OCR | BLOCK 16 | x0=67 y0=452 x1=1596 y1=486 | conf=74.1]
+Je nach Verfügbarkeit des Marktes. se "Rn PET ’ Tucher
+
+[OCR | BLOCK 17 | x0=802 y0=467 x1=1596 y1=538 | conf=61.0]
+En RR Pr. Urbräu Hell,
+
+[OCR | BLOCK 19 | x0=128 y0=503 x1=1595 y1=568 | conf=68.78]
+m k Eistee PR En \ 20x0,5 Liter Kasten
+
+[OCR | BLOCK 18 | x0=1013 y0=510 x1=1596 y1=543 | conf=81.75]
+“a ies oder Pilsener
+
+[OCR | BLOCK 20 | x0=339 y0=552 x1=1595 y1=647 | conf=54.6]
+"verschiedene Sorten | ae om
+
+[OCR | BLOCK 22 | x0=95 y0=574 x1=1126 y1=656 | conf=59.0]
+kw as? 7
+
+[OCR | BLOCK 21 | x0=142 y0=583 x1=1224 y1=620 | conf=81.8]
+N 1,25 Liter Flasche Frl
+
+[OCR | BLOCK 23 | x0=121 y0=641 x1=1310 y1=694 | conf=52.25]
+77 12 T 8
+
+[OCR | BLOCK 24 | x0=628 y0=669 x1=1005 y1=705 | conf=53.0]
+[77 ww
+
+[OCR | BLOCK 25 | x0=105 y0=681 x1=754 y1=735 | conf=35.0]
+Yu Chez
+
+[OCR | BLOCK 26 | x0=278 y0=698 x1=1602 y1=767 | conf=78.8]
+| APP-PREIS? YRs 3% |
+
+[OCR | BLOCK 27 | x0=120 y0=749 x1=1274 y1=778 | conf=59.25]
+re A ah 18
+
+[OCR | BLOCK 28 | x0=831 y0=778 x1=985 y1=816 | conf=38.0]
+ES:
+
+[OCR | BLOCK 29 | x0=155 y0=792 x1=1288 y1=859 | conf=69.75]
+v 19 Uchn che
+
+[OCR | BLOCK 30 | x0=188 y0=818 x1=1202 y1=882 | conf=52.67]
+ı “ 1 Ni er u
+
+[OCR | BLOCK 32 | x0=187 y0=850 x1=1582 y1=917 | conf=78.0]
+x | 199
+
+[OCR | BLOCK 31 | x0=931 y0=862 x1=964 y1=881 | conf=40.0]
+be,
+
+[OCR | BLOCK 33 | x0=479 y0=959 x1=1583 y1=1008 | conf=75.4]
+Vitrex ‚Anheuser-Busch = 2 Rauch
+
+[OCR | BLOCK 34 | x0=395 y0=998 x1=1584 y1=1038 | conf=78.5]
+flavoured Water Bud Beer % happy day Fruchtsaft
+
+[OCR | BLOCK 35 | x0=623 y0=1030 x1=1584 y1=1055 | conf=80.57]
+GEWINNEBREISE 6x0,3 Liter Packung | oder Nektar
+
+[OCR | BLOCK 36 | x0=149 y0=1056 x1=1583 y1=1090 | conf=56.67]
+Fr 7 Os Pferd verschiedene Sorten
+
+[OCR | BLOCK 37 | x0=448 y0=1074 x1=1583 y1=1099 | conf=70.0]
+‚25 11=1,93,n.G!=6,19 r 1Liter Packung
+
+[OCR | BLOCK 38 | x0=141 y0=1129 x1=1478 y1=1157 | conf=72.5]
+— = = =
+
+[OCR | BLOCK 39 | x0=301 y0=1142 x1=1330 y1=1196 | conf=59.0]
+4 APP-PREIS? ur.
+
+[OCR | BLOCK 40 | x0=262 y0=1212 x1=640 y1=1274 | conf=50.5]
+[ i6
+
+[OCR | BLOCK 42 | x0=777 y0=1224 x1=980 y1=1338 | conf=32.0]
+a
+
+[OCR | BLOCK 41 | x0=619 y0=1254 x1=639 y1=1274 | conf=32.0]
+vr
+
+[OCR | BLOCK 43 | x0=848 y0=1320 x1=1443 y1=1344 | conf=69.0]
+69 3
+
+[OCR | BLOCK 44 | x0=101 y0=1383 x1=208 y1=1409 | conf=33.0]
+a
+
+[OCR | BLOCK 45 | x0=1122 y0=1409 x1=1335 y1=1424 | conf=80.5]
+- |
+
+[OCR | BLOCK 46 | x0=297 y0=1413 x1=1583 y1=1456 | conf=40.0]
+Pe Ms ser
+
+[OCR | BLOCK 47 | x0=608 y0=1441 x1=1583 y1=1480 | conf=90.4]
+B 10 0,75 Liter Flasche
+
+[OCR | BLOCK 48 | x0=1476 y0=1479 x1=1583 y1=1497 | conf=94.5]
++0,25 Pfand
+
+[OCR | BLOCK 49 | x0=761 y0=1502 x1=1583 y1=1520 | conf=60.33]
+| ; 11=1,85
+
+[OCR | BLOCK 50 | x0=435 y0=1523 x1=1583 y1=1573 | conf=64.5]
+| pE x n.G!=10,74
+
+[OCR | BLOCK 51 | x0=271 y0=1556 x1=272 y1=1559 | conf=55.0]
+|
+
+[OCR | BLOCK 52 | x0=271 y0=1579 x1=1265 y1=1602 | conf=55.5]
+| |
+
+[OCR | BLOCK 54 | x0=434 y0=1600 x1=1557 y1=1676 | conf=65.0]
+-20% Errischungs- (3%) 22%
+
+[OCR | BLOCK 53 | x0=1277 y0=1607 x1=1355 y1=1620 | conf=52.0]
+f a
+
+[OCR | BLOCK 55 | x0=599 y0=1662 x1=751 y1=1685 | conf=90.33]
+getränk oder Eistee
+
+[OCR | BLOCK 57 | x0=399 y0=1666 x1=977 y1=1766 | conf=90.4]
+0 12x0,33 Liter Kasten 1
+
+[OCR | BLOCK 56 | x0=464 y0=1667 x1=1057 y1=1728 | conf=77.5]
+1 verschiedene Sorten 09
+
+[OCR | BLOCK 58 | x0=1261 y0=1757 x1=1267 y1=1761 | conf=33.0]
+2
+
+[OCR | BLOCK 59 | x0=217 y0=1789 x1=1146 y1=1837 | conf=48.25]
+Fi WE: en +M
+
+[OCR | BLOCK 60 | x0=477 y0=1835 x1=1412 y1=1868 | conf=64.75]
+Volvic + Pe 5
+
+[OCR | BLOCK 61 | x0=320 y0=1861 x1=1217 y1=1894 | conf=62.75]
+natürliches Mineralwasser hi u
+
+[OCR | BLOCK 62 | x0=274 y0=1891 x1=527 y1=1925 | conf=80.5]
+{ 1,5 Liter Flasche
+
+[OCR | BLOCK 63 | x0=202 y0=1922 x1=1326 y1=1977 | conf=80.67]
+Volvic \ STSORTIEREN
+
+[OCR | BLOCK 64 | x0=427 y0=1941 x1=1548 y1=2009 | conf=65.75]
+ie Coca-Cola Fanta, zuM SELBST ah 6 Dosen
+
+[OCR | BLOCK 65 | x0=599 y0=1994 x1=1530 y1=2058 | conf=76.57]
+Sprite, Fuze Tea 20% \ uze 31%
+
+[OCR | BLOCK 66 | x0=641 y0=2040 x1=971 y1=2056 | conf=90.33]
+hiedene Sorten, -
+
+[OCR | BLOCK 67 | x0=434 y0=2049 x1=1413 y1=2075 | conf=35.0]
+0 Su
+
+[OCR | BLOCK 68 | x0=599 y0=2082 x1=1056 y1=2142 | conf=84.5]
+Powerade 75
+
+[OCR | BLOCK 70 | x0=224 y0=2097 x1=1569 y1=2158 | conf=72.57]
+> 69 03 Liter Dose — 099
+
+[OCR | BLOCK 69 | x0=600 y0=2112 x1=1436 y1=2133 | conf=74.0]
+Mountain Blast — R
+
+[OCR | BLOCK 71 | x0=599 y0=2152 x1=1420 y1=2187 | conf=70.22]
++0,25 Pfand, 11= 2,27,n. G!= 0,75 o 19 —
+
+[OCR | BLOCK 72 | x0=599 y0=2173 x1=1582 y1=2204 | conf=60.0]
+*koffeinhaltige Limonade ——— 11=1,97
+
+[OCR | BLOCK 73 | x0=66 y0=2297 x1=1583 y1=2336 | conf=77.75]
+523_28_2026_E_EC_IWEST MFRANKEN 'n.G. = niedrigster Gesamtpreis der letzten 30 Tage ‚Seite 23
+
+
+===== SEITE 26 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1452 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=847 y0=1 x1=869 y1=13 | conf=32.0]
+3
+
+[OCR | BLOCK 2 | x0=270 y0=12 x1=296 y1=34 | conf=32.0]
+"ei
+
+[OCR | BLOCK 3 | x0=236 y0=29 x1=239 y1=31 | conf=45.0]
+r
+
+[OCR | BLOCK 4 | x0=18 y0=40 x1=884 y1=80 | conf=41.5]
+“| 5
+
+[OCR | BLOCK 5 | x0=668 y0=111 x1=1583 y1=153 | conf=66.0]
+\ BAY m | Fränkischer Hausschoppen
+
+[OCR | BLOCK 6 | x0=42 y0=142 x1=1583 y1=166 | conf=65.0]
+h Qualitätswein
+
+[OCR | BLOCK 7 | x0=178 y0=168 x1=1583 y1=197 | conf=64.5]
+re } verschiedene Sorten
+
+[OCR | BLOCK 8 | x0=49 y0=193 x1=1583 y1=216 | conf=76.5]
+\ a TLiter Flasche
+
+[OCR | BLOCK 9 | x0=144 y0=214 x1=1582 y1=234 | conf=60.33]
+Bu, ‘u n.G!=3,99
+
+[OCR | BLOCK 10 | x0=43 y0=242 x1=1293 y1=290 | conf=52.0]
+\ er % ;
+
+[OCR | BLOCK 11 | x0=187 y0=329 x1=1549 y1=357 | conf=65.0]
+Se | 25%
+
+[OCR | BLOCK 12 | x0=291 y0=360 x1=1056 y1=382 | conf=68.2]
+- » ' Zu 3
+
+[OCR | BLOCK 14 | x0=104 y0=377 x1=1585 y1=441 | conf=67.6]
+na wählte Kleinflaschen- . 09
+
+[OCR | BLOCK 13 | x0=232 y0=389 x1=1055 y1=401 | conf=63.67]
+2 - €
+
+[OCR | BLOCK 15 | x0=135 y0=469 x1=1259 y1=486 | conf=64.5]
+- —
+
+[OCR | BLOCK 16 | x0=160 y0=479 x1=705 y1=528 | conf=77.5]
+AN R jenach Verfügbarkeit des Marktes-
+
+[OCR | BLOCK 17 | x0=345 y0=535 x1=1584 y1=601 | conf=53.29]
+ai ı 5 EM = Ficken ins
+
+[OCR | BLOCK 19 | x0=504 y0=574 x1=1586 y1=627 | conf=71.83]
+m em LILLET Wi 0,7 Flasche
+
+[OCR | BLOCK 18 | x0=240 y0=575 x1=1582 y1=590 | conf=65.33]
+Sn } gen — 15% Vol.
+
+[OCR | BLOCK 20 | x0=91 y0=619 x1=1584 y1=639 | conf=46.0]
+Mr a ; A Bm 11=12,84
+
+[OCR | BLOCK 21 | x0=366 y0=633 x1=1583 y1=691 | conf=51.5]
+37 / 4 n.6°=11,99
+
+[OCR | BLOCK 22 | x0=18 y0=653 x1=1280 y1=723 | conf=52.25]
+TER L y: zum N f B 1
+
+[OCR | BLOCK 24 | x0=196 y0=746 x1=1545 y1=832 | conf=56.75]
+PL 7 = 25%
+
+[OCR | BLOCK 23 | x0=610 y0=757 x1=736 y1=778 | conf=47.0]
+LEI]
+
+[OCR | BLOCK 25 | x0=61 y0=807 x1=1035 y1=843 | conf=49.5]
+s ee SPRTZ fen
+
+[OCR | BLOCK 26 | x0=82 y0=838 x1=932 y1=868 | conf=55.2]
+- R * ; San
+
+[OCR | BLOCK 28 | x0=110 y0=848 x1=1587 y1=906 | conf=45.17]
+A mn ER u eo 19
+
+[OCR | BLOCK 27 | x0=557 y0=866 x1=951 y1=888 | conf=50.25]
+—— ? a u.
+
+[OCR | BLOCK 29 | x0=76 y0=903 x1=544 y1=928 | conf=44.67]
+2 = 2
+
+[OCR | BLOCK 30 | x0=491 y0=946 x1=1583 y1=1012 | conf=82.0]
+Pitü j 4 Bacardi Rum Weingenuss Wein
+
+[OCR | BLOCK 31 | x0=192 y0=995 x1=1583 y1=1052 | conf=81.67]
+DB Original oder Alkoholfrei en verschiedene Sorten, aus Italien,
+
+[OCR | BLOCK 32 | x0=392 y0=1027 x1=1583 y1=1048 | conf=92.57]
+38/0,00* % Vol. 27-37,5% Vol. verschiedene Sorten
+
+[OCR | BLOCK 33 | x0=122 y0=1045 x1=1583 y1=1081 | conf=92.7]
+Auch 0,7 Liter Flasche 0,7 Liter Flasche 0,75 Liter Flasche
+
+[OCR | BLOCK 34 | x0=446 y0=1072 x1=1583 y1=1091 | conf=73.25]
+1121427 11=15,70 11= 265
+
+[OCR | BLOCK 35 | x0=101 y0=1081 x1=734 y1=1129 | conf=63.5]
+ALKOHOL -®-
+
+[OCR | BLOCK 36 | x0=133 y0=1093 x1=1583 y1=1143 | conf=76.8]
+4 | "Nur solange der Vorrat reicht. & ‚Ausgenommen Merlot
+
+[OCR | BLOCK 37 | x0=168 y0=1134 x1=1583 y1=1160 | conf=77.43]
+- BACARD| gACARDI Veneto und Soave trocken.
+
+[OCR | BLOCK 38 | x0=174 y0=1168 x1=999 y1=1269 | conf=57.4]
+| ) 16% Rn 20%
+
+[OCR | BLOCK 39 | x0=186 y0=1234 x1=1345 y1=1335 | conf=80.2]
+\ 09 1 09 u
+
+[OCR | BLOCK 40 | x0=180 y0=1290 x1=777 y1=1311 | conf=56.0]
+Le | al
+
+[OCR | BLOCK 41 | x0=175 y0=1301 x1=831 y1=1349 | conf=54.75]
+= . 199 ce
+
+[OCR | BLOCK 42 | x0=425 y0=1403 x1=1586 y1=1436 | conf=91.2]
+Bürgerspital Pircher Edelbrand Hendrick’s Gin
+
+[OCR | BLOCK 43 | x0=359 y0=1430 x1=1582 y1=1459 | conf=95.1]
+Silvaner trocken oder verschiedene Sorten, 30/40 % Vol. verschiedene Sorten,
+
+[OCR | BLOCK 44 | x0=304 y0=1452 x1=1582 y1=1485 | conf=82.6]
+Scheurebe Kabinett feinherb 0,7 Liter Flasche, 11= er 44% Vol.
+
+[OCR | BLOCK 45 | x0=415 y0=1479 x1=1583 y1=1507 | conf=94.6]
+aus Würzburg 0,7 Liter Flasche
+
+[OCR | BLOCK 46 | x0=383 y0=1498 x1=1582 y1=1535 | conf=83.4]
+0,75 Liter Flasche (GE 11=35,70
+
+[OCR | BLOCK 47 | x0=448 y0=1513 x1=1583 y1=1556 | conf=60.6]
+11=1199 Zım = 8 n.G1=24,99
+
+[OCR | BLOCK 48 | x0=194 y0=1538 x1=1583 y1=1583 | conf=57.2]
+or n.6=10,99 = it Marktes.
+
+[OCR | BLOCK 49 | x0=224 y0=1579 x1=1338 y1=1623 | conf=64.33]
+= EN 2
+
+[OCR | BLOCK 50 | x0=252 y0=1604 x1=1520 y1=1689 | conf=70.6]
+| - 31 HENDRICKY, 34%
+
+[OCR | BLOCK 51 | x0=959 y0=1657 x1=1194 y1=1670 | conf=59.5]
+>| AG
+
+[OCR | BLOCK 52 | x0=337 y0=1667 x1=1585 y1=1728 | conf=68.0]
+— _— 09
+
+[OCR | BLOCK 53 | x0=1009 y0=1706 x1=1349 y1=1740 | conf=71.0]
+\ g
+
+[OCR | BLOCK 54 | x0=161 y0=1746 x1=1587 y1=1786 | conf=65.38]
+Fe = a / 99 = eo 399
+
+[OCR | BLOCK 55 | x0=218 y0=1786 x1=399 y1=1806 | conf=65.0]
+U \
+
+[OCR | BLOCK 56 | x0=160 y0=1808 x1=1296 y1=1820 | conf=41.33]
+| BÜRGERSPETAL ;
+
+[OCR | BLOCK 57 | x0=76 y0=1828 x1=1583 y1=1874 | conf=75.33]
+| $ & \ Skyy Vodka
+
+[OCR | BLOCK 58 | x0=350 y0=1851 x1=1583 y1=1906 | conf=57.0]
+\ = vo
+
+[OCR | BLOCK 59 | x0=230 y0=1890 x1=1583 y1=1909 | conf=75.43]
+= ER &G — ‚7 Liter Flasche
+
+[OCR | BLOCK 60 | x0=845 y0=1894 x1=1582 y1=1931 | conf=52.33]
+| we 11=15,70
+
+[OCR | BLOCK 61 | x0=307 y0=1926 x1=996 y1=1975 | conf=52.2]
+ro % | ıı >
+
+[OCR | BLOCK 63 | x0=337 y0=1940 x1=1000 y1=2046 | conf=67.5]
+= |
+
+[OCR | BLOCK 62 | x0=321 y0=1952 x1=919 y1=1978 | conf=59.25]
+BÜRGERSPITAL \ E33 <
+
+[OCR | BLOCK 64 | x0=351 y0=2033 x1=1525 y1=2172 | conf=66.67]
+18% | 1%
+
+[OCR | BLOCK 65 | x0=863 y0=2078 x1=1318 y1=2221 | conf=58.5]
+149 .—
+
+[OCR | BLOCK 66 | x0=402 y0=2234 x1=1088 y1=2283 | conf=76.6]
+E Mit jedem Einkauf °punkten!
+
+[OCR | BLOCK 67 | x0=447 y0=2278 x1=453 y1=2295 | conf=54.0]
+L
+
+[OCR | BLOCK 68 | x0=66 y0=2294 x1=1585 y1=2336 | conf=75.3]
+Selte 24 niedrigster Gesamtpreis der letzten 30 Tage EEC_1WEST_ MERAUFRA
+
+
+===== SEITE 27 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 2107 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 2 | x0=1284 y0=18 x1=1426 y1=62 | conf=96.0]
+Drogerie
+
+[OCR | BLOCK 1 | x0=1400 y0=18 x1=1407 y1=26 | conf=61.0]
+.
+
+[OCR | BLOCK 3 | x0=257 y0=86 x1=1064 y1=137 | conf=64.67]
+N N Rexona
+
+[OCR | BLOCK 4 | x0=313 y0=123 x1=1333 y1=185 | conf=65.25]
+Fi Deospray 50 °
+
+[OCR | BLOCK 5 | x0=351 y0=142 x1=1649 y1=235 | conf=58.5]
+4 WR
+
+[OCR | BLOCK 6 | x0=1012 y0=201 x1=1653 y1=259 | conf=76.0]
+Soren | auf Körperpflege & Kosmetik! &
+
+[OCR | BLOCK 7 | x0=67 y0=231 x1=1654 y1=283 | conf=78.31]
+verschiedene Rexona 1 beim Bezahlen vorlegen oder vorab In der PAYBACK APP, &
+
+[OCR | BLOCK 8 | x0=68 y0=263 x1=1647 y1=302 | conf=80.54]
+Sorten Inmestos 1 auf PAYBACK.de oder, wenn das EDEKA-Konto mit PAYBACK 1 a
+
+[OCR | BLOCK 9 | x0=927 y0=282 x1=1527 y1=313 | conf=82.33]
+11= 15,27-45,80 ı verknüpft wurde, In der EDEKA APP aktivieren. Die Einlösung
+
+[OCR | BLOCK 10 | x0=1142 y0=289 x1=1558 y1=326 | conf=90.0]
+erfolgt automatisch durch Vorlage der PAYBACK Karte.
+
+[OCR | BLOCK 12 | x0=456 y0=319 x1=1654 y1=372 | conf=46.5]
+„20% ©
+
+[OCR | BLOCK 11 | x0=70 y0=320 x1=1532 y1=346 | conf=72.29]
+11l=2 u Ai ı Coupon ist 1 Mal & nicht nachträglich einlösbar. Die Punktegutschrift
+
+[OCR | BLOCK 13 | x0=72 y0=363 x1=1584 y1=395 | conf=75.93]
+Biozidprodukte ung 1 identischer Aktionen sowie PAYBACK Aktionen, die sich auf das beworbene 1
+
+[OCR | BLOCK 14 | x0=71 y0=377 x1=1522 y1=439 | conf=63.67]
+vorsichtig verwen- 8 59 Protection. H Beziehen. Het ae
+
+[OCR | BLOCK 15 | x0=1125 y0=406 x1=1539 y1=420 | conf=81.57]
+ı größten Vorteil eingelöst, wobei Print haben.
+
+[OCR | BLOCK 16 | x0=882 y0=409 x1=1630 y1=451 | conf=35.0]
+| nn >
+
+[OCR | BLOCK 17 | x0=1340 y0=431 x1=1480 y1=461 | conf=65.67]
+tsül . Zurü
+
+[OCR | BLOCK 18 | x0=463 y0=435 x1=1584 y1=482 | conf=49.33]
+ni 2 Io
+
+[OCR | BLOCK 19 | x0=563 y0=470 x1=1584 y1=525 | conf=50.25]
+RA 7 za A
+
+[OCR | BLOCK 20 | x0=1125 y0=520 x1=1584 y1=534 | conf=53.0]
+1 Angebots. !
+
+[OCR | BLOCK 21 | x0=418 y0=536 x1=1444 y1=557 | conf=43.75]
+> ! fi =
+
+[OCR | BLOCK 23 | x0=83 y0=541 x1=1567 y1=616 | conf=58.88]
+> 5 Power 5 WEStein RE | =
+
+[OCR | BLOCK 22 | x0=1125 y0=556 x1=1584 y1=564 | conf=41.5]
+1 ı
+
+[OCR | BLOCK 24 | x0=142 y0=595 x1=1406 y1=629 | conf=67.71]
+10: 4 verschiedene Sorten an | |
+
+[OCR | BLOCK 25 | x0=1125 y0=618 x1=1584 y1=627 | conf=52.33]
+I | 1
+
+[OCR | BLOCK 26 | x0=382 y0=619 x1=774 y1=647 | conf=58.5]
+‚48/50 g Packung u
+
+[OCR | BLOCK 27 | x0=168 y0=634 x1=1584 y1=648 | conf=39.33]
+! II 1
+
+[OCR | BLOCK 28 | x0=366 y0=639 x1=1584 y1=675 | conf=62.38]
+1kg= 25,80-26,88 Tee ı [EDEKA u ji 1
+
+[OCR | BLOCK 29 | x0=1528 y0=659 x1=1584 y1=699 | conf=35.0]
+ei:
+
+[OCR | BLOCK 30 | x0=118 y0=678 x1=1584 y1=739 | conf=55.6]
+Br ar APP-PREIS Zu |
+
+[OCR | BLOCK 31 | x0=1102 y0=731 x1=1584 y1=770 | conf=59.5]
+IH <;
+
+[OCR | BLOCK 32 | x0=97 y0=739 x1=910 y1=798 | conf=47.0]
+> | 18%: a,
+
+[OCR | BLOCK 33 | x0=184 y0=782 x1=1584 y1=836 | conf=52.2]
+"oe el x (90)1000860347340 Sa!
+
+[OCR | BLOCK 35 | x0=266 y0=795 x1=1416 y1=865 | conf=85.12]
+) 29 ı Gültig vom 06.07. - 11.07.2026
+
+[OCR | BLOCK 34 | x0=314 y0=813 x1=598 y1=828 | conf=34.5]
+= Va
+
+[OCR | BLOCK 36 | x0=585 y0=866 x1=1584 y1=903 | conf=61.5]
+7 Au | |
+
+[OCR | BLOCK 37 | x0=973 y0=896 x1=1053 y1=929 | conf=34.0]
+11:B273980
+
+[OCR | BLOCK 38 | x0=1213 y0=979 x1=1583 y1=998 | conf=57.5]
+nn Cosmea
+
+[OCR | BLOCK 39 | x0=838 y0=1010 x1=839 y1=1014 | conf=90.0]
+\
+
+[OCR | BLOCK 40 | x0=170 y0=1024 x1=1583 y1=1063 | conf=51.5]
+Pen er 72, verschiedene
+
+[OCR | BLOCK 41 | x0=599 y0=1041 x1=1582 y1=1084 | conf=84.0]
+Schwarzkopf -üf Sorten,
+
+[OCR | BLOCK 42 | x0=293 y0=1074 x1=939 y1=1109 | conf=76.8]
+rt = Gliss Shampoo GLISS
+
+[OCR | BLOCK 43 | x0=598 y0=1098 x1=1361 y1=1137 | conf=80.0]
+oder Spülung Sion TAGE FÜR
+
+[OCR | BLOCK 45 | x0=235 y0=1118 x1=1583 y1=1177 | conf=62.8]
+Ps GLISS | Körper n.61=1,79
+
+[OCR | BLOCK 44 | x0=185 y0=1119 x1=1583 y1=1139 | conf=60.83]
+49 ULTIMATE DW / = Packung
+
+[OCR | BLOCK 46 | x0=93 y0=1160 x1=802 y1=1189 | conf=52.8]
+? DOOR: 43 auanıu &
+
+[OCR | BLOCK 47 | x0=188 y0=1185 x1=1557 y1=1223 | conf=45.0]
+| Be = .16% x am
+
+[OCR | BLOCK 48 | x0=68 y0=1211 x1=1179 y1=1252 | conf=73.5]
+Maschinen- AKTION 71 48
+
+[OCR | BLOCK 49 | x0=71 y0=1235 x1=1058 y1=1297 | conf=67.0]
+geschirrreiniger oe au 49
+
+[OCR | BLOCK 50 | x0=71 y0=1270 x1=822 y1=1303 | conf=66.2]
+verschiedene Sorten ee [= 1
+
+[OCR | BLOCK 51 | x0=71 y0=1299 x1=691 y1=1319 | conf=90.67]
+36-64 Caps/Tabs Maxi Pack und Schaum-
+
+[OCR | BLOCK 52 | x0=71 y0=1312 x1=885 y1=1346 | conf=56.12]
+1 Cap/Tab =0,11-0,19, n. G!= 7,49 Spülung. —
+
+[OCR | BLOCK 53 | x0=248 y0=1404 x1=1126 y1=1436 | conf=94.14]
+Coral Waschmittel oder Magic Wash Dove -
+
+[OCR | BLOCK 54 | x0=406 y0=1431 x1=1482 y1=1463 | conf=78.0]
+für Kurzwäsche Duschbad ai
+
+[OCR | BLOCK 56 | x0=123 y0=1457 x1=1351 y1=1521 | conf=85.9]
+1 21/26 WL Flasche De 250 mi Flasche Colgate 3
+
+[OCR | BLOCK 55 | x0=363 y0=1462 x1=1054 y1=1477 | conf=96.0]
+verschiedene Sorten verschiedene Sorten
+
+[OCR | BLOCK 57 | x0=391 y0=1502 x1=1055 y1=1531 | conf=77.33]
+1Waschladung = 11=796
+
+[OCR | BLOCK 58 | x0=125 y0=1527 x1=1054 y1=1563 | conf=72.67]
+A 0,15-0,19 n.G1=2,49
+
+[OCR | BLOCK 59 | x0=438 y0=1588 x1=739 y1=1611 | conf=48.0]
+„PREIS? EN
+
+[OCR | BLOCK 60 | x0=401 y0=1592 x1=1455 y1=1627 | conf=56.0]
+APP-PREIS NE __
+
+[OCR | BLOCK 61 | x0=90 y0=1610 x1=1556 y1=1676 | conf=66.25]
+a 20% -20% 15%
+
+[OCR | BLOCK 62 | x0=176 y0=1648 x1=1185 y1=1683 | conf=46.6]
+>, NE ii FT Colgate
+
+[OCR | BLOCK 63 | x0=89 y0=1677 x1=1254 y1=1696 | conf=93.33]
+N Sensation White
+
+[OCR | BLOCK 64 | x0=150 y0=1679 x1=1288 y1=1740 | conf=83.8]
+> 099 oder Max Zahncreme
+
+[OCR | BLOCK 65 | x0=398 y0=1730 x1=1422 y1=1760 | conf=83.57]
+E m verschiedene Sorten, 75 ml Packung
+
+[OCR | BLOCK 66 | x0=986 y0=1746 x1=1321 y1=1770 | conf=57.5]
+o 24 11=22,53,n. G!=2,29
+
+[OCR | BLOCK 67 | x0=389 y0=1835 x1=1583 y1=1868 | conf=91.67]
+Vitakraft Catstick whiskas
+
+[OCR | BLOCK 68 | x0=324 y0=1857 x1=1583 y1=1904 | conf=76.33]
+verschiedene Sorten, 3er —— ne Katzennahrung
+
+[OCR | BLOCK 69 | x0=144 y0=1878 x1=1582 y1=1910 | conf=73.07]
+Vitakraft 18 g Packung, 1 kg = 27,22 m = = verschiedene Sorten, 12er
+
+[OCR | BLOCK 70 | x0=248 y0=1909 x1=1582 y1=1933 | conf=71.0]
+a n.G!=0,89 1,02 kg Multipackung
+
+[OCR | BLOCK 72 | x0=89 y0=1929 x1=1582 y1=1995 | conf=58.83]
+® whiska$ £ EN | n.61=4,79
+
+[OCR | BLOCK 71 | x0=865 y0=1937 x1=1582 y1=1956 | conf=72.67]
+\ Tkg= 3,42
+
+[OCR | BLOCK 73 | x0=283 y0=1975 x1=1304 y1=2040 | conf=52.5]
+Ki: RE
+
+[OCR | BLOCK 74 | x0=328 y0=2013 x1=1310 y1=2041 | conf=48.5]
+& m jght- _
+
+[OCR | BLOCK 75 | x0=116 y0=2020 x1=973 y1=2059 | conf=62.0]
+= EN
+
+[OCR | BLOCK 76 | x0=261 y0=2044 x1=285 y1=2057 | conf=50.0]
+(e
+
+[OCR | BLOCK 77 | x0=691 y0=2049 x1=1552 y1=2106 | conf=34.0]
+pe u
+
+[OCR | BLOCK 78 | x0=238 y0=2078 x1=952 y1=2093 | conf=49.5]
+pm u
+
+[OCR | BLOCK 79 | x0=228 y0=2092 x1=1323 y1=2111 | conf=48.25]
+x rs \ ar
+
+[OCR | BLOCK 80 | x0=207 y0=2095 x1=530 y1=2196 | conf=49.0]
+nm
+
+[OCR | BLOCK 81 | x0=700 y0=2145 x1=1158 y1=2165 | conf=72.0]
+- - E
+
+[OCR | BLOCK 82 | x0=463 y0=2177 x1=1587 y1=2196 | conf=61.33]
+eo 089 .4B
+
+[OCR | BLOCK 85 | x0=0 y0=2228 x1=1250 y1=2292 | conf=60.0]
+0000 Einkauf punkten! GIER
+
+[OCR | BLOCK 83 | x0=534 y0=2238 x1=752 y1=2248 | conf=41.0]
+® . .
+
+[OCR | BLOCK 84 | x0=883 y0=2241 x1=902 y1=2260 | conf=38.0]
+:
+
+[OCR | BLOCK 86 | x0=133 y0=2304 x1=1583 y1=2328 | conf=78.54]
+2026 E EC WEST_OST = niedrigster Gesamtpreis der letzten 30 Tage Selte 25
+
+
+===== SEITE 28 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 3161 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 2 | x0=72 y0=114 x1=1515 y1=176 | conf=79.33]
+Heißer Preis - großer Genuss! ae epeka| | her bitte mit Schale!
+
+[OCR | BLOCK 1 | x0=115 y0=119 x1=1252 y1=127 | conf=55.67]
+. . .
+
+[OCR | BLOCK 3 | x0=72 y0=174 x1=735 y1=213 | conf=76.75]
+Für alle, die es knusprig mögen. € j
+
+[OCR | BLOCK 4 | x0=72 y0=231 x1=1174 y1=261 | conf=70.5]
+EDEKA zuhause [ RZ
+
+[OCR | BLOCK 5 | x0=71 y0=251 x1=1328 y1=302 | conf=68.5]
+AL | \ - 3 2)
+
+[OCR | BLOCK 6 | x0=71 y0=280 x1=1370 y1=321 | conf=78.75]
+ng Display mit Touchbedienung. Gut & Günstig 2
+
+[OCR | BLOCK 7 | x0=95 y0=307 x1=1135 y1=336 | conf=76.62]
+-Min.-Timer mit Signalton. Mit Shake — ü B
+
+[OCR | BLOCK 8 | x0=72 y0=313 x1=1543 y1=352 | conf=78.6]
+Reminder Funktion, Überhitzungsschutz, ackpapier- 50%
+
+[OCR | BLOCK 9 | x0=71 y0=344 x1=1212 y1=369 | conf=94.71]
+automatischer Abschaltung und 12 vor- schalen für
+
+[OCR | BLOCK 10 | x0=72 y0=371 x1=1269 y1=392 | conf=92.6]
+installierten Programmen. Für Tempe- Heißluftfritteusen
+
+[OCR | BLOCK 11 | x0=72 y0=391 x1=1429 y1=415 | conf=89.15]
+raturen von ca. 60 bis 200 °C. Fassungs- Extra°Punkte? Antihaftbeschichtet. Öl-, wasser- und
+
+[OCR | BLOCK 12 | x0=71 y0=417 x1=1437 y1=441 | conf=92.5]
+vermögen: ca. 6,5 Liter. 1.600 Watt. - — hitzebeständig bis ca. 220 °C. Größen:
+
+[OCR | BLOCK 13 | x0=71 y0=435 x1=1570 y1=470 | conf=76.82]
+Stück PAYBAcK 98 eo 6999 ca. 23,8 x 16,8 cm oder ca. 16x 16 cm. e 299
+
+[OCR | BLOCK 14 | x0=72 y0=462 x1=1260 y1=483 | conf=78.57]
+n. G!= 69,99 en je 50er Packung
+
+[OCR | BLOCK 15 | x0=703 y0=534 x1=1584 y1=581 | conf=76.0]
+EN Malkoffer
+
+[OCR | BLOCK 16 | x0=169 y0=570 x1=1582 y1=599 | conf=70.14]
+En Ze z Beinhaltet: je 8 Fasermaler,
+
+[OCR | BLOCK 17 | x0=228 y0=578 x1=1582 y1=624 | conf=70.62]
+Be“ YV > \ 6 Mini-Buntstifte, 8 Wachsmalkreiden,
+
+[OCR | BLOCK 18 | x0=141 y0=611 x1=1587 y1=653 | conf=74.56]
+5 Oo ) 8 Wasserfarben, 1 Pinsel, 1 Spitzer
+
+[OCR | BLOCK 19 | x0=786 y0=641 x1=1582 y1=660 | conf=75.4]
+j — und 2 Stickerbögen.
+
+[OCR | BLOCK 20 | x0=761 y0=652 x1=1582 y1=709 | conf=70.0]
+A Zr . \ Verschiedene Motive.
+
+[OCR | BLOCK 21 | x0=749 y0=669 x1=1584 y1=715 | conf=65.0]
+a: 38: je Stück
+
+[OCR | BLOCK 22 | x0=640 y0=710 x1=1427 y1=767 | conf=61.0]
+\W 9,
+
+[OCR | BLOCK 23 | x0=1165 y0=765 x1=1229 y1=773 | conf=50.0]
+er
+
+[OCR | BLOCK 25 | x0=142 y0=775 x1=953 y1=842 | conf=48.0]
+Da — ERF Zus! ne IE
+
+[OCR | BLOCK 24 | x0=848 y0=788 x1=1425 y1=806 | conf=60.5]
+2% A ee 3
+
+[OCR | BLOCK 26 | x0=175 y0=815 x1=1102 y1=849 | conf=58.5]
+z u 2 ® # Wi
+
+[OCR | BLOCK 27 | x0=113 y0=838 x1=1395 y1=864 | conf=47.0]
+„ee a A =;
+
+[OCR | BLOCK 28 | x0=466 y0=850 x1=1230 y1=891 | conf=54.4]
+Y so - | —
+
+[OCR | BLOCK 29 | x0=87 y0=872 x1=1586 y1=929 | conf=53.83]
+un a mern ne eo 69
+
+[OCR | BLOCK 30 | x0=206 y0=908 x1=507 y1=930 | conf=44.5]
+v3J Tu
+
+[OCR | BLOCK 31 | x0=228 y0=910 x1=430 y1=950 | conf=49.5]
+Ex Asse
+
+[OCR | BLOCK 34 | x0=94 y0=975 x1=1315 y1=1031 | conf=81.0]
+u { 0) Einfach Wasser in den beigefügten Spezialstift füllen verpackt
+
+[OCR | BLOCK 33 | x0=116 y0=977 x1=1341 y1=1008 | conf=68.8]
+d > S ssermalspaß =
+
+[OCR | BLOCK 32 | x0=935 y0=981 x1=959 y1=1000 | conf=57.0]
+W
+
+[OCR | BLOCK 35 | x0=190 y0=1018 x1=1362 y1=1071 | conf=87.5]
+nt und die Seiten getrocknet sind, sauber entsorgt!
+
+[OCR | BLOCK 36 | x0=194 y0=1049 x1=1058 y1=1073 | conf=86.1]
+PN: Fra verschwinden die Farben und der Malspaß kann von
+
+[OCR | BLOCK 37 | x0=371 y0=1066 x1=1340 y1=1098 | conf=69.6]
+1. vorne beginnen. Verschiedene —
+
+[OCR | BLOCK 38 | x0=168 y0=1096 x1=1057 y1=1118 | conf=53.33]
+Sea Bey Ausführungen.
+
+[OCR | BLOCK 39 | x0=203 y0=1119 x1=453 y1=1145 | conf=44.5]
+ER =
+
+[OCR | BLOCK 40 | x0=209 y0=1137 x1=1353 y1=1155 | conf=48.25]
+x i I Dicht
+
+[OCR | BLOCK 41 | x0=347 y0=1140 x1=832 y1=1189 | conf=53.0]
+1 Mer Y 777 =
+
+[OCR | BLOCK 42 | x0=443 y0=1175 x1=1543 y1=1225 | conf=44.4]
+0% T u In =
+
+[OCR | BLOCK 43 | x0=265 y0=1204 x1=1195 y1=1250 | conf=47.0]
+Me wir?
+
+[OCR | BLOCK 44 | x0=68 y0=1225 x1=787 y1=1267 | conf=72.75]
+Kartenspiel y 7 gr
+
+[OCR | BLOCK 45 | x0=70 y0=1250 x1=1297 y1=1283 | conf=63.33]
+„That's not a hat‘, ty ” = Müllbeutel „Capybara‘
+
+[OCR | BLOCK 46 | x0=70 y0=1279 x1=1570 y1=1301 | conf=81.4]
+„Elter raus!”, „Minecraft Explorers” > Mit Zugband und Zuckerwatten-Duft. NP
+
+[OCR | BLOCK 47 | x0=71 y0=1300 x1=1570 y1=1323 | conf=75.36]
+oder „Stitch Level 8%. wur a un Ca. 35 Liter. 1%
+
+[OCR | BLOCK 48 | x0=70 y0=1307 x1=1202 y1=1346 | conf=72.62]
+je Stück e 1099 . 1% ger Rolle
+
+[OCR | BLOCK 49 | x0=58 y0=1419 x1=1235 y1=1435 | conf=46.57]
+= SE 1 (zas) 4 an _
+
+[OCR | BLOCK 50 | x0=579 y0=1422 x1=1481 y1=1478 | conf=51.5]
+NE [651° N EN
+
+[OCR | BLOCK 51 | x0=99 y0=1445 x1=341 y1=1491 | conf=91.0]
+TREUEAKTION
+
+[OCR | BLOCK 53 | x0=57 y0=1490 x1=862 y1=1544 | conf=59.0]
+| BISZUM 22.08.2026 BAUCHTISCHE
+
+[OCR | BLOCK 52 | x0=56 y0=1494 x1=1380 y1=1521 | conf=74.88]
+| S ZUM 22.08 } M RUCKSACK |)
+
+[OCR | BLOCK 54 | x0=762 y0=1539 x1=1479 y1=1571 | conf=67.78]
+Maße ca. 21x53 x143cm Maße ca. 29,4x cm, Volumen
+
+[OCR | BLOCK 55 | x0=762 y0=1565 x1=1491 y1=1581 | conf=73.22]
+Material: RPT 600D/RPET Rip-Stop- 15 Liter Material: RPET Rip-
+
+[OCR | BLOCK 56 | x0=763 y0=1582 x1=1474 y1=1598 | conf=76.17]
+Polyester (recycalt), RV-Hauptfach, Stop-Polyaster (recycelt) RV-Hauptfach,
+
+[OCR | BLOCK 57 | x0=468 y0=1588 x1=1479 y1=1621 | conf=81.38]
+; Steckfach innen, verstellbarer Gürtel, RV-Frontfach, gepolsterte Schultergurte,
+
+[OCR | BLOCK 58 | x0=582 y0=1608 x1=1488 y1=1635 | conf=80.5]
+nn. Air Flow System, gepolstertes Laptopfach
+
+[OCR | BLOCK 59 | x0=383 y0=1623 x1=1503 y1=1651 | conf=62.57]
+‚m | 16%, seitliche Netztaschen, Innentasche, etc.
+
+[OCR | BLOCK 60 | x0=134 y0=1660 x1=1398 y1=1733 | conf=63.3]
+bis 2 A | gas WE, | gas ee 4
+
+[OCR | BLOCK 62 | x0=111 y0=1684 x1=1372 y1=1750 | conf=61.25]
+65 Jo ee Eine
+
+[OCR | BLOCK 61 | x0=595 y0=1693 x1=1370 y1=1727 | conf=43.67]
+1 (a3 |
+
+[OCR | BLOCK 63 | x0=432 y0=1755 x1=1379 y1=1773 | conf=58.0]
+er SCHULTERTASCHE OUTDOOR-RUCKSACK
+
+[OCR | BLOCK 64 | x0=351 y0=1792 x1=907 y1=1813 | conf=46.0]
+. . 17x5x21 m
+
+[OCR | BLOCK 66 | x0=484 y0=1815 x1=1484 y1=1857 | conf=60.38]
+= Polyester (recycelt), Vorfach nt Rip-Stop-Polyester (recycel), Hauptfach
+
+[OCR | BLOCK 65 | x0=451 y0=1817 x1=1342 y1=1830 | conf=74.11]
+2 Material: RPT 600D/RPET Rip-Stop- ca. 34 Liter, Mater)
+
+[OCR | BLOCK 67 | x0=295 y0=1836 x1=1502 y1=1872 | conf=77.5]
+— 3 Sicherheits-Öse, RV-Hauptfach, RV-Fach mit Zugband & Steckfach innen, RV- |
+
+[OCR | BLOCK 68 | x0=57 y0=1858 x1=1466 y1=1894 | conf=86.36]
+> - en auf der Rückseite, Steckfach innen, Frontfach, gepolsterte Schultergurte,
+
+[OCR | BLOCK 69 | x0=758 y0=1872 x1=1474 y1=1905 | conf=84.12]
+verstellbarer Gurt Air Flow System, Regencover, Ösen für
+
+[OCR | BLOCK 70 | x0=144 y0=1897 x1=1352 y1=1915 | conf=52.0]
+A | ’ = BE Walkingstöcke, etc.
+
+[OCR | BLOCK 71 | x0=144 y0=1915 x1=1538 y1=1969 | conf=66.5]
+ie! P | a
+
+[OCR | BLOCK 72 | x0=580 y0=1928 x1=1399 y1=1964 | conf=39.0]
+ren = ee -
+
+[OCR | BLOCK 73 | x0=152 y0=1945 x1=1481 y1=1991 | conf=60.0]
+| 12,99€ 799€ golo
+
+[OCR | BLOCK 74 | x0=156 y0=1966 x1=1349 y1=2006 | conf=46.8]
+| _ ds We ze
+
+[OCR | BLOCK 75 | x0=580 y0=1983 x1=1372 y1=2019 | conf=69.5]
+L EN ) 14,96€
+
+[OCR | BLOCK 76 | x0=758 y0=2030 x1=1312 y1=2070 | conf=90.0]
+KULTURTASCHE GELDBÖRSE
+
+[OCR | BLOCK 77 | x0=1232 y0=2065 x1=1384 y1=2079 | conf=80.67]
+Maße ca 135x1x10cm
+
+[OCR | BLOCK 78 | x0=763 y0=2080 x1=1469 y1=2096 | conf=72.5]
+Maße ca. 25x 14,5x 16cm ( Matariak RPET 600D/RPET Rip-Stop-Po-
+
+[OCR | BLOCK 79 | x0=763 y0=2097 x1=1070 y1=2128 | conf=38.5]
+ts J
+
+[OCR | BLOCK 80 | x0=786 y0=2116 x1=1453 y1=2129 | conf=75.33]
+y calt), „RV- mehrere Kartenfächer, transparentes
+
+[OCR | BLOCK 81 | x0=762 y0=2118 x1=1462 y1=2146 | conf=65.0]
+Vorfach, Steckfach und Ausweisfch, praktische Beestigungs-
+
+[OCR | BLOCK 82 | x0=762 y0=2136 x1=1468 y1=2168 | conf=84.4]
+Trageschlaufe kette mit Karabinerhaken, RFID-Schutz.
+
+[OCR | BLOCK 83 | x0=158 y0=2183 x1=1483 y1=2196 | conf=81.89]
+der UVP des Herstellen. ) J "UVP des Herstellers
+
+[OCR | BLOCK 84 | x0=266 y0=2279 x1=1383 y1=2304 | conf=94.09]
+‚Alle Artikel ohne Dekoration. Irrtümer vorbehalten. Bitte beachten: Diese Artikel haben wir nur vorübergehend Im Sortiment und nur solange der Vorrat reicht.
+
+[OCR | BLOCK 85 | x0=66 y0=2297 x1=1583 y1=2329 | conf=71.67]
+Seite 26 UVP = Unverbindliche Prelsempfehlung des Herstellers ' n. G. = niedrigster Gesamtprels der letzten 30 Tage 526_28_2026_E EC WEST.OST
+
+
+===== SEITE 29 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1308 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=114 y0=101 x1=1556 y1=224 | conf=71.71]
+VON HERZEN ) ® e e WOCHENEND
+
+[OCR | BLOCK 2 | x0=133 y0=207 x1=1352 y1=255 | conf=82.5]
+v ..
+
+[OCR | BLOCK 3 | x0=569 y0=233 x1=962 y1=292 | conf=49.0]
+e;e.,o_
+
+[OCR | BLOCK 4 | x0=970 y0=304 x1=971 y1=311 | conf=69.0]
+|
+
+[OCR | BLOCK 5 | x0=1486 y0=328 x1=1500 y1=334 | conf=69.0]
+=
+
+[OCR | BLOCK 6 | x0=644 y0=338 x1=794 y1=373 | conf=77.0]
+pllr be
+
+[OCR | BLOCK 7 | x0=296 y0=352 x1=797 y1=419 | conf=53.75]
+H-Milch ler 4. =
+
+[OCR | BLOCK 8 | x0=253 y0=404 x1=777 y1=430 | conf=51.0]
+u H-Vollmfich
+
+[OCR | BLOCK 9 | x0=648 y0=428 x1=886 y1=452 | conf=42.5]
+RR, min
+
+[OCR | BLOCK 10 | x0=574 y0=446 x1=871 y1=467 | conf=44.8]
+zo Fi am PN co
+
+[OCR | BLOCK 11 | x0=238 y0=454 x1=1569 y1=540 | conf=70.5]
+© |
+
+[OCR | BLOCK 12 | x0=236 y0=527 x1=1578 y1=560 | conf=40.75]
+Fer sat Nest 4
+
+[OCR | BLOCK 13 | x0=232 y0=553 x1=783 y1=574 | conf=41.0]
+a Fe en
+
+[OCR | BLOCK 14 | x0=427 y0=656 x1=528 y1=675 | conf=92.5]
+Wein Schorle
+
+[OCR | BLOCK 15 | x0=364 y0=683 x1=528 y1=698 | conf=96.5]
+verschiedene Sorten
+
+[OCR | BLOCK 16 | x0=308 y0=705 x1=528 y1=724 | conf=92.6]
+oder Bio Wein Schorle Weiss
+
+[OCR | BLOCK 17 | x0=330 y0=731 x1=1216 y1=750 | conf=79.6]
+prickelnd, 1 Liter Flasche —
+
+[OCR | BLOCK 18 | x0=434 y0=752 x1=1553 y1=777 | conf=47.5]
+n.G!=1,49 en
+
+[OCR | BLOCK 19 | x0=1267 y0=827 x1=1272 y1=836 | conf=65.0]
+N
+
+[OCR | BLOCK 20 | x0=789 y0=831 x1=1300 y1=883 | conf=41.5]
+Er N
+
+[OCR | BLOCK 21 | x0=950 y0=863 x1=1288 y1=907 | conf=71.0]
+CLASSIQUE Rote
+
+[OCR | BLOCK 22 | x0=900 y0=913 x1=1529 y1=948 | conf=34.5]
+Are wat,
+
+[OCR | BLOCK 23 | x0=187 y0=929 x1=1032 y1=968 | conf=61.0]
+| Aoste DT . TA
+
+[OCR | BLOCK 24 | x0=403 y0=958 x1=929 y1=1013 | conf=62.33]
+1 Stickado, ®&)
+
+[OCR | BLOCK 25 | x0=171 y0=975 x1=886 y1=1018 | conf=56.0]
+Beh 2 Longhetti N
+
+[OCR | BLOCK 26 | x0=600 y0=1016 x1=763 y1=1031 | conf=96.0]
+verschiedene Sorten
+
+[OCR | BLOCK 27 | x0=600 y0=1032 x1=1248 y1=1058 | conf=94.17]
+oder Duo Brot Mehlig & Heller
+
+[OCR | BLOCK 28 | x0=600 y0=1059 x1=1319 y1=1085 | conf=91.5]
+60-90 g Packung Familien-Wurstkonserve
+
+[OCR | BLOCK 29 | x0=600 y0=1084 x1=1390 y1=1106 | conf=77.5]
+1kg = 19,89-29,83, n. G! = 2,49 verschiedene Sorten, 250 g Glas
+
+[OCR | BLOCK 30 | x0=600 y0=1106 x1=1318 y1=1126 | conf=81.0]
+Je nach Verfügbarkeit des Marktes. 1kg = 7,16, n. G! = 2,69
+
+[OCR | BLOCK 31 | x0=977 y0=1194 x1=1583 y1=1224 | conf=84.0]
+_ Adelholzener
+
+[OCR | BLOCK 32 | x0=878 y0=1220 x1=1583 y1=1246 | conf=57.33]
+i — Mineralwasser
+
+[OCR | BLOCK 33 | x0=202 y0=1240 x1=1582 y1=1283 | conf=75.2]
+EI SE 1 verschiedene Sorten
+
+[OCR | BLOCK 34 | x0=1413 y0=1268 x1=1582 y1=1286 | conf=91.67]
+12x0,75 Liter Kasten
+
+[OCR | BLOCK 35 | x0=123 y0=1289 x1=1582 y1=1308 | conf=72.4]
+| ’ —- +3,30 Pfand
+
+[OCR | BLOCK 36 | x0=335 y0=1289 x1=1582 y1=1350 | conf=76.33]
+WEIN a 1120,61
+
+[OCR | BLOCK 37 | x0=201 y0=1323 x1=1090 y1=1381 | conf=60.25]
+HER SCHORLE y N‘
+
+[OCR | BLOCK 38 | x0=1177 y0=1365 x1=1582 y1=1404 | conf=77.0]
+) St. Primus Heilwasser.
+
+[OCR | BLOCK 39 | x0=166 y0=1390 x1=190 y1=1402 | conf=36.0]
+=
+
+[OCR | BLOCK 40 | x0=807 y0=1419 x1=1099 y1=1452 | conf=45.0]
+V mei
+
+[OCR | BLOCK 41 | x0=851 y0=1510 x1=872 y1=1553 | conf=79.0]
+N
+
+[OCR | BLOCK 42 | x0=974 y0=1542 x1=987 y1=1574 | conf=80.0]
+F
+
+[OCR | BLOCK 43 | x0=88 y0=1761 x1=1234 y1=1815 | conf=61.4]
+PAYBACK & EDEKA APP en
+
+[OCR | BLOCK 44 | x0=1238 y0=1834 x1=1344 y1=1851 | conf=47.5]
+2 ©
+
+[OCR | BLOCK 45 | x0=738 y0=1869 x1=1491 y1=1906 | conf=56.33]
+o 5 ERHALTEN"
+
+[OCR | BLOCK 46 | x0=87 y0=1905 x1=1559 y1=1978 | conf=75.0]
+So einfach geht's: FÜRWEITERE Ar PN |
+
+[OCR | BLOCK 47 | x0=86 y0=1955 x1=1468 y1=2006 | conf=87.67]
+1. EDEKA App laden und im Kundenkonto anmelden INFOS x 4 —
+
+[OCR | BLOCK 48 | x0=86 y0=1990 x1=577 y1=2010 | conf=93.38]
+2. Bis 12.07.2026 PAYBACK Konto verknüpfen - auf
+
+[OCR | BLOCK 49 | x0=111 y0=2001 x1=1541 y1=2049 | conf=80.1]
+der Startseite PAYBACK auswählen & anmelden Fi. OR-CODE Kir ?
+
+[OCR | BLOCK 50 | x0=86 y0=2039 x1=766 y1=2062 | conf=84.0]
+3. Marketing-Einverständnis abgeben und über cn
+
+[OCR | BLOCK 51 | x0=111 y0=2046 x1=1495 y1=2088 | conf=86.86]
+viele und Angebote freuen El SCANNEN K
+
+[OCR | BLOCK 52 | x0=85 y0=2088 x1=1284 y1=2111 | conf=85.0]
+4. Jede Konto-Verknüpfung von PAYBACK |.
+
+[OCR | BLOCK 53 | x0=112 y0=2113 x1=1508 y1=2138 | conf=84.44]
+in der EDEKA App erhält im Aktionszeitraum = Sm
+
+[OCR | BLOCK 54 | x0=112 y0=2129 x1=1011 y1=2164 | conf=74.5]
+einen 5FACH °Punkte Coupon” auf den "GH Im
+
+[OCR | BLOCK 55 | x0=112 y0=2153 x1=1408 y1=2180 | conf=85.91]
+gesamten Einkauf. Bei erfolgreicher findest du deinen Coupon im Couponcenter wu
+
+[OCR | BLOCK 56 | x0=995 y0=2169 x1=1313 y1=2201 | conf=77.1]
+der PRYBACK App der Inder EDEKA App auf deinem Smartphone.
+
+
+===== SEITE 30 =====
+Extraktionsmethode: pdf_text_and_ocr
+PDF-Text-Länge: 0 Zeichen
+OCR-Text-Länge: 1549 Zeichen
+
+----- PDF-TEXT-BLÖCKE -----
+[Kein PDF-Text erkannt]
+
+
+----- OCR-BLÖCKE -----
+[OCR | BLOCK 1 | x0=865 y0=137 x1=1583 y1=168 | conf=90.75]
+DEUTSCHLAND Gut & Günstig
+
+[OCR | BLOCK 2 | x0=862 y0=161 x1=1583 y1=195 | conf=63.0]
+wa Eisbergsalat
+
+[OCR | BLOCK 3 | x0=994 y0=189 x1=1582 y1=221 | conf=65.8]
+EI az Na aus Deutschland,
+
+[OCR | BLOCK 4 | x0=874 y0=217 x1=1582 y1=236 | conf=67.2]
+— Tr Kl. I, Stück
+
+[OCR | BLOCK 5 | x0=1346 y0=220 x1=1582 y1=266 | conf=33.5]
+Re n.61=0,69
+
+[OCR | BLOCK 6 | x0=391 y0=251 x1=1354 y1=283 | conf=56.5]
+® Ze £ N
+
+[OCR | BLOCK 7 | x0=897 y0=271 x1=1409 y1=300 | conf=32.0]
+Sue \
+
+[OCR | BLOCK 8 | x0=888 y0=297 x1=1418 y1=316 | conf=37.0]
+Pe? vo
+
+[OCR | BLOCK 9 | x0=891 y0=342 x1=1227 y1=379 | conf=54.0]
+y 4 A
+
+[OCR | BLOCK 10 | x0=928 y0=371 x1=981 y1=388 | conf=39.0]
+er
+
+[OCR | BLOCK 11 | x0=1028 y0=376 x1=1179 y1=413 | conf=45.0]
+9.
+
+[OCR | BLOCK 12 | x0=661 y0=408 x1=1330 y1=451 | conf=55.0]
+‚at A ARE \
+
+[OCR | BLOCK 13 | x0=930 y0=446 x1=1281 y1=466 | conf=57.33]
+3 = Sl
+
+[OCR | BLOCK 14 | x0=1051 y0=477 x1=1341 y1=495 | conf=51.0]
+= #
+
+[OCR | BLOCK 15 | x0=1151 y0=499 x1=1175 y1=509 | conf=52.0]
+en
+
+[OCR | BLOCK 16 | x0=1140 y0=505 x1=1298 y1=534 | conf=36.0]
+RE
+
+[OCR | BLOCK 17 | x0=825 y0=524 x1=1301 y1=561 | conf=60.0]
+y u
+
+[OCR | BLOCK 18 | x0=590 y0=625 x1=1583 y1=650 | conf=93.11]
+Gut & Günstig Paprika rot = Gut & Günstig
+
+[OCR | BLOCK 19 | x0=572 y0=652 x1=1583 y1=671 | conf=86.5]
+aus den Niederlanden, — Tafeltrauben hell
+
+[OCR | BLOCK 20 | x0=566 y0=674 x1=1582 y1=696 | conf=90.44]
+500 g Packung, 1kg = 2,98 Sorte siehe Etikett,
+
+[OCR | BLOCK 21 | x0=696 y0=696 x1=1582 y1=719 | conf=77.67]
+n.G!=1,49 2 aus Ägypten, Kl. |
+
+[OCR | BLOCK 22 | x0=1077 y0=721 x1=1582 y1=750 | conf=70.83]
+ER 500 gPackung, 1kg = 2,98
+
+[OCR | BLOCK 23 | x0=457 y0=731 x1=1149 y1=783 | conf=44.0]
+ag EN As
+
+[OCR | BLOCK 24 | x0=472 y0=762 x1=1582 y1=792 | conf=71.57]
+“ | == NM t Abbildung ähnlich.
+
+[OCR | BLOCK 25 | x0=350 y0=786 x1=1284 y1=838 | conf=42.5]
+> }
+
+[OCR | BLOCK 26 | x0=459 y0=818 x1=1275 y1=844 | conf=54.67]
+nun - ”
+
+[OCR | BLOCK 27 | x0=151 y0=850 x1=993 y1=884 | conf=51.25]
+\ Br, N u
+
+[OCR | BLOCK 28 | x0=378 y0=886 x1=1330 y1=947 | conf=35.5]
+“ To
+
+[OCR | BLOCK 29 | x0=704 y0=1105 x1=1582 y1=1140 | conf=91.5]
+Stadtwurst Kalbsschnitzel,
+
+[OCR | BLOCK 30 | x0=198 y0=1132 x1=1583 y1=1167 | conf=81.5]
+) oder weiß, -geschnetzeltes
+
+[OCR | BLOCK 31 | x0=612 y0=1158 x1=1582 y1=1190 | conf=80.7]
+pikant gewürzt, 100 q EM aus der Keule, 100 g
+
+[OCR | BLOCK 32 | x0=695 y0=1179 x1=1582 y1=1201 | conf=68.5]
+n.G!=1,89 n.G!=2,49
+
+[OCR | BLOCK 33 | x0=133 y0=1191 x1=1582 y1=1228 | conf=78.71]
+v Nur In Pr Nur In teilnehmenden
+
+[OCR | BLOCK 34 | x0=731 y0=1219 x1=1582 y1=1268 | conf=75.0]
+Märkten. > 5 | Märkten.
+
+[OCR | BLOCK 35 | x0=434 y0=1232 x1=555 y1=1305 | conf=65.0]
+EN
+
+[OCR | BLOCK 36 | x0=263 y0=1352 x1=1432 y1=1388 | conf=46.0]
+/ & 4
+
+[OCR | BLOCK 37 | x0=1128 y0=1374 x1=1343 y1=1398 | conf=60.33]
+u 25 4
+
+[OCR | BLOCK 38 | x0=1023 y0=1463 x1=1043 y1=1483 | conf=59.0]
+7
+
+[OCR | BLOCK 39 | x0=90 y0=1590 x1=790 y1=1624 | conf=85.67]
+IRLAND Irisches Rinderfilet
+
+[OCR | BLOCK 40 | x0=643 y0=1622 x1=790 y1=1641 | conf=78.5]
+zart, mager, 100 g
+
+[OCR | BLOCK 41 | x0=691 y0=1643 x1=791 y1=1662 | conf=72.0]
+n. G!=6,49
+
+[OCR | BLOCK 42 | x0=641 y0=1666 x1=681 y1=1678 | conf=85.0]
+Nur in
+
+[OCR | BLOCK 43 | x0=575 y0=1686 x1=790 y1=1698 | conf=69.5]
+- Märkten.
+
+[OCR | BLOCK 44 | x0=282 y0=1749 x1=370 y1=1821 | conf=61.0]
+U
+
+[OCR | BLOCK 45 | x0=315 y0=1799 x1=334 y1=1819 | conf=38.0]
+$
+
+[OCR | BLOCK 46 | x0=181 y0=1810 x1=371 y1=1866 | conf=36.0]
+NIE TE
+
+[OCR | BLOCK 47 | x0=105 y0=1905 x1=146 y1=1933 | conf=45.0]
+er
+
+[OCR | BLOCK 48 | x0=166 y0=1935 x1=236 y1=1952 | conf=38.0]
+Fi
+
+[OCR | BLOCK 49 | x0=668 y0=2041 x1=1008 y1=2056 | conf=93.5]
+G. = niedrigster Gesamtpreis der letzten 30 Tage
+
+[OCR | BLOCK 50 | x0=74 y0=2100 x1=902 y1=2122 | conf=91.27]
+IMPRESSUM Herausgeber: BVA Bay. Warenhandelsges. d. Verbraucher mbH, Edekastraße 3, 7228
+
+[OCR | BLOCK 51 | x0=282 y0=2118 x1=1351 y1=2138 | conf=93.5]
+Rottendorf, HRB 9772, Amtsgericht Würzburg. Name und Anschrift unserer = UNSER PROSPEKT
+
+[OCR | BLOCK 52 | x0=72 y0=2141 x1=1365 y1=2163 | conf=90.38]
+tätigen Unternehmen bzw. der regionalen, selbstständigen Marktbetreiber unter www.edeka.de/marktsuche oder \ ONLINE ENTDECKEN
+
+[OCR | BLOCK 53 | x0=73 y0=2162 x1=1015 y1=2179 | conf=88.75]
+über unsere Kundenhotline 0800-0033352. E-Mall: nst-kundenservice@edeka.de. Wir Informieren darüber, dass || )
+
+[OCR | BLOCK 54 | x0=73 y0=2181 x1=1210 y1=2194 | conf=84.33]
+unser Kundenservice In Zusammenarbeit mit einem Call-Center-Dienstieister betrieben wird. Unsere Datenschutz- >
+
+[OCR | BLOCK 55 | x0=73 y0=2191 x1=1502 y1=2232 | conf=76.0]
+hinweise unter. www.edeka.de/nst. Für Druckfehler Übernehmen wir keine Haftung. Abgabe nur In haushalts- > EDEKA Newsletter El
+
+[OCR | BLOCK 56 | x0=73 y0=2221 x1=1264 y1=2242 | conf=80.75]
+üblichen Mengen. Solange der Vorrat reicht. R >EDEKA.de
+
+[OCR | BLOCK 57 | x0=73 y0=2250 x1=1014 y1=2270 | conf=81.6]
+Unsere Märkte unter www.edeka.de/marktsuche Pa
+
+[OCR | BLOCK 58 | x0=72 y0=2308 x1=1582 y1=2323 | conf=83.25]
+Seite 28 S28_28_2026_E EC_IWEST
