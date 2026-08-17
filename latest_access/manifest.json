@@ -1,8 +1,8 @@
 {
-  "run_id": "31351925914",
-  "artifact_id": "9049431958",
-  "artifact_name": "latest-prospekte-31351925914",
-  "created_at": "2026-08-10T05:24:23+02:00",
+  "run_id": "31987686036",
+  "artifact_id": "9274498902",
+  "artifact_name": "latest-prospekte-31987686036",
+  "created_at": "2026-08-17T04:34:48+02:00",
   "primary_source": "latest_images_chatgpt",
   "fallback_sources": ["latest_text", "latest_layout"]
 }
